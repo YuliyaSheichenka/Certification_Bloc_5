@@ -5,7 +5,7 @@
 
 ## Video presentation
 
-[Bloc 5: Getaround - Video presentation](XXXX)
+[Bloc 5: Getaround - Video presentation](https://share.vidyard.com/watch/qxAMiumMaxq5VApm2AWm4J?)
 
 ## Contact
 

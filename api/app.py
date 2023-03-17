@@ -73,13 +73,13 @@ async def predict(features: PredictionFeatures):
 
     logged_model = 'runs:/106dde20204f451a8bc6faf5adbae154/getaround'
 
-    # Load model as a PyFuncModel.
+    # Loading model as a PyFuncModel.
     loaded_model = mlflow.pyfunc.load_model(logged_model)
 
-    # Predict on a Pandas DataFrame.
+    # Predicting on a Pandas DataFrame.
     prediction = loaded_model.predict(pd.DataFrame(data))
 
-    # 
+    # Formatting response
     response = {
         "prediction": prediction.tolist()[0]
     }

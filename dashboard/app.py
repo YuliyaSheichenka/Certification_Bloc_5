@@ -56,7 +56,6 @@ if st.checkbox('Show raw data', key="delta_df"):
 
 #### Defining charts
 
-
 def get_chart_rentals_by_check_in_type(df):
     colors = ['#8d1586', '#eec186']
     fig = px.pie(df, names='checkin_type', color_discrete_sequence=colors, hole=0.55)
@@ -65,7 +64,7 @@ def get_chart_rentals_by_check_in_type(df):
 
 
 def get_chart_cancellations_by_contract_type(df):
-    # Compute the percentage of rentals that ended or were canceled for each contract type
+    # Computing the percentage of rentals that ended or were canceled for each contract type
     contract_ended = df[df['state'] == 'ended']
     contract_canceled = df[df['state'] == 'canceled']
     mobile_ended_pct = round(100 * len(contract_ended[contract_ended['checkin_type'] == 'mobile']) / len(df[df['checkin_type'] == 'mobile']), 2)
@@ -74,26 +73,26 @@ def get_chart_cancellations_by_contract_type(df):
     connect_canceled_pct = round(100 * len(contract_canceled[contract_canceled['checkin_type'] == 'connect']) / len(df[df['checkin_type'] == 'connect']), 2)
     total_ended_pct = round(100 * len(contract_ended) / len(df), 2)
     total_canceled_pct = round(100 * len(contract_canceled) / len(df), 2)
-    # Create a new dataframe with the percentages computed above
+    # Creating a new dataframe with the percentages computed above
     df_pct = pd.DataFrame({
         'Contract Type': ['Mobile', 'Connect', 'Overall'],
         'Ended': [mobile_ended_pct, connect_ended_pct, total_ended_pct],
         'Canceled': [mobile_canceled_pct, connect_canceled_pct, total_canceled_pct]
     })
-    # Use Plotly to create a horizontal stacked bar chart
+    # Creating a horizontal stacked bar chart
     fig = go.Figure()
     fig.add_trace(go.Bar(y=df_pct['Contract Type'], x=df_pct['Canceled'], orientation='h', name='Canceled', marker=dict(color='#c71414'), text=[f"{mobile_canceled_pct}%", f"{connect_canceled_pct}%", f"{total_canceled_pct}%"],
                         textposition='auto', textfont=dict(color='white')))
     fig.add_trace(go.Bar(y=df_pct['Contract Type'], x=df_pct['Ended'], orientation='h', name='Ended', marker=dict(color='#7b728e'), text=[f"{mobile_ended_pct}%", f"{connect_ended_pct}%", f"{total_ended_pct}%"],
                         textposition='auto', textfont=dict(color='white')))
     fig.update_layout(barmode='stack', title='How many contracts were canceled?', yaxis={'categoryorder':'total ascending'})
-    # Show the chart
+    # Showing the chart
     st.plotly_chart(fig, theme="streamlit")
 
 
 
 def get_chart_clients_late_to_return_car(df):
-    # Compute the percentage of rentals were delayed for each contract type
+    # Computing the percentage of rentals were delayed for each contract type
     checkout_delayed = df[df['delay_at_checkout'] == 'checkout delayed']
     checkout_not_delayed = df[df['delay_at_checkout'] == 'checkout not delayed']
     mobile_delayed_pct = round(100 * len(checkout_delayed[checkout_delayed['checkin_type'] == 'mobile']) / len(df[df['checkin_type'] == 'mobile']), 2)
@@ -102,20 +101,20 @@ def get_chart_clients_late_to_return_car(df):
     connect_not_delayed_pct = round(100 * len(checkout_not_delayed[checkout_not_delayed['checkin_type'] == 'connect']) / len(df[df['checkin_type'] == 'connect']), 2)
     total_delayed_pct = round(100 * len(checkout_delayed) / len(df), 2)
     total_not_delayed_pct = round(100 * len(checkout_not_delayed) / len(df), 2)
-    # Create a new dataframe with the percentages computed above
+    # Creating a new dataframe with the percentages computed above
     df_pct = pd.DataFrame({
         'Contract Type': ['Mobile', 'Connect', 'Overall'],
         'Delayed': [mobile_delayed_pct, connect_delayed_pct, total_delayed_pct],
         'Not Delayed': [mobile_not_delayed_pct, connect_not_delayed_pct, total_not_delayed_pct]
     })
-    # Use Plotly to create a horizontal stacked bar chart
+    # Creating a horizontal stacked bar chart
     fig = go.Figure()
     fig.add_trace(go.Bar(y=df_pct['Contract Type'], x=df_pct['Delayed'], orientation='h', name='Delayed', marker=dict(color='#c71414'), text=[f"{mobile_delayed_pct}%", f"{connect_delayed_pct}%", f"{total_delayed_pct}%"],
                         textposition='auto', textfont=dict(color='white')))
     fig.add_trace(go.Bar(y=df_pct['Contract Type'], x=df_pct['Not Delayed'], orientation='h', name='Not Delayed', marker=dict(color='#7b728e'), text=[f"{mobile_not_delayed_pct}%", f"{connect_not_delayed_pct}%", f"{total_not_delayed_pct}%"],
                         textposition='auto', textfont=dict(color='white')))
     fig.update_layout(barmode='stack', title='How many clients were late to return the car?', yaxis={'categoryorder':'total ascending'})
-    # Show the chart
+    # Showing the chart
     st.plotly_chart(fig, theme="streamlit")
 
 
@@ -186,7 +185,7 @@ def get_chart_cumulated_delays(df):
 
 def get_chart_impacted_clients(prev_df):
     delayed_df=prev_df[prev_df["previous_client_late"]=="yes"]
-    # Compute the percentage of rentals were impacted by delay for each contract type
+    # Computing the percentage of rentals were impacted by delay for each contract type
     impacted = delayed_df[delayed_df['client_rental_start_impacted'] == 'yes']
     not_impacted = delayed_df[delayed_df['client_rental_start_impacted'] == 'no']
     mobile_impacted_pct = round(100 * len(impacted[impacted['checkin_type'] == 'mobile']) / len(delayed_df[delayed_df['checkin_type'] == 'mobile']), 2)
@@ -195,13 +194,13 @@ def get_chart_impacted_clients(prev_df):
     connect_not_impacted_pct = round(100 * len(not_impacted[not_impacted['checkin_type'] == 'connect']) / len(delayed_df[delayed_df['checkin_type'] == 'connect']), 2)
     total_impacted_pct = round(100 * len(impacted) / len(delayed_df), 2)
     total_not_impacted_pct = round(100 * len(not_impacted) / len(delayed_df), 2)
-    # Create a new dataframe with the percentages computed above
+    # Creating a new dataframe with the percentages computed above
     df_pct = pd.DataFrame({
         'Contract Type': ['Mobile', 'Connect', 'Overall'],
         'Impacted': [mobile_impacted_pct, connect_impacted_pct, total_impacted_pct],
         'Not Impacted': [mobile_not_impacted_pct, connect_not_impacted_pct, total_not_impacted_pct]
     })
-    # Use Plotly to create a horizontal stacked bar chart
+    # Creating a horizontal stacked bar chart
     fig = go.Figure()
     fig.add_trace(go.Bar(y=df_pct['Contract Type'], x=df_pct['Impacted'], orientation='h', name='Impacted', marker=dict(color='#c71414'), text=[f"{mobile_impacted_pct}%", f"{connect_impacted_pct}%", f"{total_impacted_pct}%"],
                         textposition='auto', textfont=dict(color='white')))
@@ -213,7 +212,7 @@ def get_chart_impacted_clients(prev_df):
 def get_chart_impact_on_next_client(prev_df):
     impacted_df = prev_df[prev_df['client_rental_start_impacted']=="yes"]
     impact_less_900_min = impacted_df[impacted_df['delay_of_rental_start_in_minutes']<=900]
-    # Create a histogram trace
+    # Creaing a histogram trace
     trace = go.Histogram(x=impact_less_900_min['delay_of_rental_start_in_minutes'], nbinsx=90, marker=dict(color='blue'))
     layout = go.Layout(title='How long did the clients have to wait before they could start their rental?', xaxis=dict(title='Delay of Rental Start in Minutes'), yaxis=dict(title='Count'))
     fig = go.Figure(data=[trace], layout=layout)
@@ -311,7 +310,8 @@ def funnel_chart_overall_cancel_due_to_delays(prev_df):
     st.plotly_chart(fig, theme="streamlit")
 
 
-###### Beginning of script
+###### Displaying charts
+
 st.markdown("---")
 st.subheader("Contracts by check-in types")
 st.markdown("""Getaround proposes two major types of check-in:
