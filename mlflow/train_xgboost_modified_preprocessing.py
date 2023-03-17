@@ -6,7 +6,6 @@ import pandas as pd
 import time
 from sklearn.model_selection import train_test_split
 from sklearn.pipeline import Pipeline
-from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import  OneHotEncoder, StandardScaler
 from sklearn.compose import ColumnTransformer
 from sklearn.metrics import r2_score
@@ -60,8 +59,7 @@ model = Pipeline(steps=[
 
 with mlflow.start_run(experiment_id = experiment.experiment_id):
     model.fit(X_train, y_train)
-    #predictions = model.predict(X_train)
-
+    
     # Predictions on train and test set
     train_predictions = model.predict(X_train)
     test_predictions = model.predict(X_test)

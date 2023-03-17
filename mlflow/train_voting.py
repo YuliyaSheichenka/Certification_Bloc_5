@@ -67,8 +67,7 @@ model = Pipeline(steps=[
 
 with mlflow.start_run(experiment_id = experiment.experiment_id):
     model.fit(X_train, y_train)
-    #predictions = model.predict(X_train)
-
+    
     # Predictions on train and test set
     train_predictions = model.predict(X_train)
     test_predictions = model.predict(X_test)

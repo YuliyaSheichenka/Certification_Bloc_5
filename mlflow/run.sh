@@ -7,4 +7,4 @@ docker run -it \
 -e AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY \
 -e BACKEND_STORE_URI=$BACKEND_STORE_URI \
 -e ARTIFACT_ROOT=$ARTIFACT_ROOT \
-getaround-mlflow-15032023 python train_adaboost_regressor_dt.py
+getaround-mlflow-15032023 python train_voting.py
