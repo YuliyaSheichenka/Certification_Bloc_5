@@ -1,0 +1,1842 @@
+rental_id,car_id,checkin_type,state,delay_at_checkout_in_minutes,previous_ended_rental_id,time_delta_with_previous_rental_in_minutes,delay_at_checkout,delay_of_previous_client_in_minutes,previous_client_late,delay_of_rental_start_in_minutes,client_rental_start_impacted
+511639,370585,connect,ended,-15.0,563782.0,570.0,checkout not delayed,136.0,yes,-434.0,no
+519491,312389,mobile,ended,58.0,545639.0,420.0,checkout delayed,140.0,yes,-280.0,no
+521156,392479,mobile,ended,,537298.0,0.0,checkout not delayed,,no,,no
+525044,349751,mobile,ended,,510607.0,60.0,checkout not delayed,-113.0,no,-173.0,no
+528808,181625,connect,ended,-76.0,557404.0,330.0,checkout not delayed,-352.0,no,-682.0,no
+533670,320824,connect,ended,-6.0,556563.0,630.0,checkout not delayed,23.0,yes,-607.0,no
+534827,404169,mobile,ended,-7.0,531158.0,90.0,checkout not delayed,29.0,yes,-61.0,no
+535611,397814,mobile,ended,68.0,535512.0,300.0,checkout delayed,44.0,yes,-256.0,no
+535770,352436,mobile,ended,74.0,524703.0,60.0,checkout delayed,7.0,yes,-53.0,no
+537576,397470,mobile,ended,18.0,539005.0,0.0,checkout delayed,-29.0,no,-29.0,no
+540217,398802,mobile,ended,-988.0,543426.0,720.0,checkout not delayed,51.0,yes,-669.0,no
+540479,374684,mobile,ended,12.0,539751.0,0.0,checkout delayed,3.0,yes,3.0,yes
+541862,382364,mobile,ended,125.0,540607.0,0.0,checkout delayed,1.0,yes,1.0,yes
+542300,307595,mobile,ended,,539897.0,30.0,checkout not delayed,,no,,no
+542374,409676,mobile,ended,50.0,540444.0,180.0,checkout delayed,131.0,yes,-49.0,no
+543328,358772,connect,ended,-9.0,552619.0,240.0,checkout not delayed,-38.0,no,-278.0,no
+543679,225795,connect,ended,64.0,540663.0,540.0,checkout delayed,60.0,yes,-480.0,no
+543768,374169,connect,canceled,,543010.0,210.0,checkout not delayed,42.0,yes,-168.0,no
+543808,369230,mobile,ended,75.0,536315.0,60.0,checkout delayed,-191.0,no,-251.0,no
+546160,352528,connect,canceled,,546578.0,630.0,checkout not delayed,-536.0,no,-1166.0,no
+546477,383309,mobile,ended,16.0,548486.0,660.0,checkout delayed,-3.0,no,-663.0,no
+547188,231676,mobile,ended,266.0,535868.0,30.0,checkout delayed,16.0,yes,-14.0,no
+548912,411521,mobile,ended,225.0,553683.0,60.0,checkout delayed,42.0,yes,-18.0,no
+550248,382901,mobile,ended,-127.0,545782.0,60.0,checkout not delayed,-9.0,no,-69.0,no
+550723,380886,mobile,ended,,545855.0,120.0,checkout not delayed,74.0,yes,-46.0,no
+551069,359880,connect,ended,-22.0,549192.0,180.0,checkout not delayed,45.0,yes,-135.0,no
+552330,384657,connect,ended,23.0,554800.0,0.0,checkout delayed,-672.0,no,-672.0,no
+552342,376619,mobile,ended,-965.0,547312.0,0.0,checkout not delayed,-77.0,no,-77.0,no
+552425,385625,connect,ended,-102.0,550476.0,30.0,checkout not delayed,-236.0,no,-266.0,no
+553367,385783,mobile,ended,24.0,519328.0,150.0,checkout delayed,-4.0,no,-154.0,no
+554695,402993,mobile,ended,17.0,560722.0,720.0,checkout delayed,-33.0,no,-753.0,no
+557674,375915,mobile,ended,15.0,550183.0,480.0,checkout delayed,-1333.0,no,-1813.0,no
+558088,245154,connect,ended,-40.0,566170.0,180.0,checkout not delayed,-2.0,no,-182.0,no
+558250,375126,connect,ended,-4.0,549813.0,600.0,checkout not delayed,-58.0,no,-658.0,no
+558525,297962,connect,ended,-256.0,555341.0,30.0,checkout not delayed,-24.0,no,-54.0,no
+559428,289720,connect,ended,-16.0,520878.0,90.0,checkout not delayed,-42.0,no,-132.0,no
+559435,281955,mobile,ended,18.0,553797.0,60.0,checkout delayed,-9.0,no,-69.0,no
+559781,408776,mobile,ended,44.0,540868.0,0.0,checkout delayed,26.0,yes,26.0,yes
+561368,249274,connect,ended,-3.0,558711.0,30.0,checkout not delayed,10.0,yes,-20.0,no
+561408,310444,connect,ended,-54.0,545475.0,360.0,checkout not delayed,54.0,yes,-306.0,no
+561450,192179,connect,ended,7.0,541144.0,540.0,checkout delayed,46.0,yes,-494.0,no
+563552,241021,connect,ended,25.0,567278.0,60.0,checkout delayed,-425.0,no,-485.0,no
+564045,381123,mobile,ended,99.0,554558.0,660.0,checkout delayed,-13.0,no,-673.0,no
+564414,195888,mobile,ended,20.0,564484.0,180.0,checkout delayed,-347.0,no,-527.0,no
+564500,382884,mobile,ended,69.0,555024.0,420.0,checkout delayed,63.0,yes,-357.0,no
+564627,341431,mobile,canceled,,552005.0,150.0,checkout not delayed,-88.0,no,-238.0,no
+520147,392147,mobile,ended,1.0,536236.0,390.0,checkout delayed,3.0,yes,-387.0,no
+524487,380866,mobile,ended,-15.0,545830.0,120.0,checkout not delayed,58.0,yes,-62.0,no
+529239,354515,mobile,ended,10.0,565896.0,360.0,checkout delayed,-405.0,no,-765.0,no
+566661,390467,connect,ended,-651.0,569297.0,570.0,checkout not delayed,-451.0,no,-1021.0,no
+567120,415953,mobile,ended,27.0,567178.0,150.0,checkout delayed,145.0,yes,-5.0,no
+567278,241021,connect,ended,-425.0,563925.0,240.0,checkout not delayed,-31.0,no,-271.0,no
+567636,376840,connect,ended,101.0,564959.0,0.0,checkout delayed,-2.0,no,-2.0,no
+568657,317378,connect,canceled,,566412.0,210.0,checkout not delayed,-129.0,no,-339.0,no
+568817,314605,mobile,ended,43.0,565775.0,360.0,checkout delayed,8.0,yes,-352.0,no
+569498,402528,connect,ended,-173.0,562527.0,630.0,checkout not delayed,-203.0,no,-833.0,no
+570350,365926,connect,ended,-55.0,570337.0,60.0,checkout not delayed,-37.0,no,-97.0,no
+570819,353425,connect,ended,-17.0,573393.0,120.0,checkout not delayed,-551.0,no,-671.0,no
+516550,377700,mobile,canceled,,545076.0,720.0,checkout not delayed,-35.0,no,-755.0,no
+522507,390927,connect,ended,183.0,523328.0,510.0,checkout delayed,-133.0,no,-643.0,no
+527981,358978,connect,ended,-60.0,541898.0,210.0,checkout not delayed,-45.0,no,-255.0,no
+529128,382700,mobile,ended,6.0,506728.0,0.0,checkout delayed,-67.0,no,-67.0,no
+529233,399528,connect,ended,-53.0,529252.0,480.0,checkout not delayed,-104.0,no,-584.0,no
+573034,227100,mobile,ended,4.0,569554.0,120.0,checkout delayed,-15.0,no,-135.0,no
+574568,301512,mobile,ended,110.0,572909.0,0.0,checkout delayed,13.0,yes,13.0,yes
+574868,371387,mobile,ended,-129.0,571864.0,720.0,checkout not delayed,-232.0,no,-952.0,no
+521865,401475,connect,ended,113.0,514932.0,540.0,checkout delayed,36.0,yes,-504.0,no
+533364,344091,mobile,ended,31.0,536325.0,180.0,checkout delayed,-23.0,no,-203.0,no
+535519,353425,connect,ended,-166.0,533413.0,0.0,checkout not delayed,4.0,yes,4.0,yes
+537441,408821,mobile,ended,25.0,541519.0,90.0,checkout delayed,95.0,yes,5.0,yes
+527199,388767,mobile,ended,-79.0,513582.0,180.0,checkout not delayed,28.0,yes,-152.0,no
+536969,384479,mobile,ended,-29.0,539733.0,600.0,checkout not delayed,73.0,yes,-527.0,no
+537215,313048,mobile,ended,-13.0,532312.0,0.0,checkout not delayed,-115.0,no,-115.0,no
+538136,175289,connect,ended,6.0,547208.0,570.0,checkout delayed,5.0,yes,-565.0,no
+527226,321582,mobile,ended,97.0,536220.0,270.0,checkout delayed,-10.0,no,-280.0,no
+528088,383110,connect,canceled,,546057.0,150.0,checkout not delayed,-86.0,no,-236.0,no
+529301,320824,connect,ended,-308.0,551094.0,540.0,checkout not delayed,-43.0,no,-583.0,no
+537841,265664,connect,ended,186.0,536761.0,240.0,checkout delayed,-3.0,no,-243.0,no
+538906,334190,connect,canceled,,556215.0,630.0,checkout not delayed,77.0,yes,-553.0,no
+539618,297119,mobile,ended,101.0,538807.0,30.0,checkout delayed,7.0,yes,-23.0,no
+540222,360474,connect,ended,71.0,539404.0,180.0,checkout delayed,-16.0,no,-196.0,no
+540924,374809,connect,ended,2.0,547311.0,240.0,checkout delayed,7.0,yes,-233.0,no
+540942,325695,mobile,ended,2.0,536685.0,600.0,checkout delayed,-79.0,no,-679.0,no
+541535,385642,mobile,ended,-21.0,543878.0,630.0,checkout not delayed,187.0,yes,-443.0,no
+542320,377924,mobile,canceled,,541053.0,120.0,checkout not delayed,-126.0,no,-246.0,no
+542401,410393,mobile,ended,7.0,541971.0,180.0,checkout delayed,137.0,yes,-43.0,no
+542519,356106,connect,ended,27.0,545322.0,270.0,checkout delayed,-55.0,no,-325.0,no
+543625,366071,mobile,ended,2.0,538192.0,720.0,checkout delayed,-64.0,no,-784.0,no
+544473,378931,mobile,ended,-4.0,536978.0,60.0,checkout not delayed,271.0,yes,211.0,yes
+539328,333407,mobile,ended,-107.0,540590.0,90.0,checkout not delayed,-57.0,no,-147.0,no
+539760,216148,connect,ended,194.0,537416.0,0.0,checkout delayed,-12.0,no,-12.0,no
+540108,392813,mobile,ended,840.0,540368.0,120.0,checkout delayed,102.0,yes,-18.0,no
+543010,374169,connect,ended,42.0,536789.0,120.0,checkout delayed,-188.0,no,-308.0,no
+543108,376574,mobile,ended,23.0,514474.0,0.0,checkout delayed,81.0,yes,81.0,yes
+543513,404130,connect,ended,-82.0,541766.0,0.0,checkout not delayed,-581.0,no,-581.0,no
+543822,362101,mobile,ended,-7.0,511338.0,30.0,checkout not delayed,-63.0,no,-93.0,no
+543866,406999,mobile,ended,14.0,541317.0,150.0,checkout delayed,-48.0,no,-198.0,no
+544792,214635,connect,ended,40.0,545831.0,90.0,checkout delayed,11.0,yes,-79.0,no
+545204,409750,mobile,ended,-50.0,544363.0,660.0,checkout not delayed,-81.0,no,-741.0,no
+539915,314455,mobile,canceled,,533006.0,180.0,checkout not delayed,,no,,no
+539987,383110,connect,ended,76.0,528385.0,480.0,checkout delayed,-11.0,no,-491.0,no
+540747,214635,connect,ended,-972.0,546332.0,60.0,checkout not delayed,31.0,yes,-29.0,no
+540885,294883,mobile,ended,18.0,542526.0,0.0,checkout delayed,0.0,no,0.0,no
+540892,402677,mobile,ended,205.0,540131.0,60.0,checkout delayed,25.0,yes,-35.0,no
+541445,385629,connect,ended,-221.0,544389.0,480.0,checkout not delayed,23.0,yes,-457.0,no
+541756,229646,mobile,ended,205.0,528516.0,60.0,checkout delayed,13.0,yes,-47.0,no
+542399,400945,mobile,ended,-144.0,535665.0,60.0,checkout not delayed,-51.0,no,-111.0,no
+543177,212965,connect,ended,,542904.0,240.0,checkout not delayed,-21.0,no,-261.0,no
+543359,380813,mobile,ended,594.0,537074.0,0.0,checkout delayed,-1.0,no,-1.0,no
+544373,344254,connect,ended,-77.0,549312.0,690.0,checkout not delayed,-264.0,no,-954.0,no
+545152,392479,mobile,ended,-48.0,539624.0,510.0,checkout not delayed,,no,,no
+545177,390509,connect,ended,72.0,542725.0,720.0,checkout delayed,-52.0,no,-772.0,no
+546406,310518,mobile,ended,-8.0,545465.0,330.0,checkout not delayed,-51.0,no,-381.0,no
+526111,377781,mobile,ended,-2.0,539387.0,660.0,checkout not delayed,22.0,yes,-638.0,no
+533570,271621,mobile,canceled,,561375.0,120.0,checkout not delayed,25.0,yes,-95.0,no
+535030,407334,mobile,ended,69.0,537148.0,60.0,checkout delayed,37.0,yes,-23.0,no
+536022,383329,mobile,ended,14.0,539569.0,120.0,checkout delayed,-4.0,no,-124.0,no
+536374,308579,mobile,ended,-59.0,537187.0,120.0,checkout not delayed,109.0,yes,-11.0,no
+536722,387431,mobile,canceled,,536764.0,180.0,checkout not delayed,58.0,yes,-122.0,no
+538330,379984,mobile,ended,31.0,532790.0,0.0,checkout delayed,-9.0,no,-9.0,no
+539625,337217,mobile,ended,-95.0,537192.0,270.0,checkout not delayed,-253.0,no,-523.0,no
+535749,403430,mobile,ended,-74.0,536548.0,0.0,checkout not delayed,,no,,no
+539151,282893,mobile,canceled,,548646.0,30.0,checkout not delayed,201.0,yes,171.0,yes
+539370,402235,mobile,ended,-105.0,542031.0,120.0,checkout not delayed,-32.0,no,-152.0,no
+546948,402528,connect,canceled,,556249.0,330.0,checkout not delayed,-24.0,no,-354.0,no
+518569,277669,mobile,ended,14.0,523594.0,480.0,checkout delayed,-56.0,no,-536.0,no
+528879,307983,connect,canceled,,537437.0,570.0,checkout not delayed,-168.0,no,-738.0,no
+547062,396552,mobile,ended,27.0,513104.0,90.0,checkout delayed,23.0,yes,-67.0,no
+547655,375834,mobile,ended,89.0,548169.0,0.0,checkout delayed,5.0,yes,5.0,yes
+548863,409344,mobile,ended,7.0,547160.0,300.0,checkout delayed,1.0,yes,-299.0,no
+548864,396250,mobile,ended,527.0,550060.0,120.0,checkout delayed,123.0,yes,3.0,yes
+549128,367632,connect,canceled,,545710.0,0.0,checkout not delayed,-7.0,no,-7.0,no
+549460,345080,connect,canceled,,550757.0,720.0,checkout not delayed,-55.0,no,-775.0,no
+550095,298757,connect,ended,-14.0,548361.0,630.0,checkout not delayed,-36.0,no,-666.0,no
+550504,405611,connect,ended,59.0,562977.0,630.0,checkout delayed,210.0,yes,-420.0,no
+550564,333910,mobile,ended,-9.0,542509.0,120.0,checkout not delayed,30.0,yes,-90.0,no
+550832,358082,connect,ended,34.0,549771.0,90.0,checkout delayed,-97.0,no,-187.0,no
+540784,310576,connect,ended,54.0,536453.0,0.0,checkout delayed,-36.0,no,-36.0,no
+541926,409589,mobile,ended,4.0,538736.0,150.0,checkout delayed,52.0,yes,-98.0,no
+545532,387939,connect,ended,7.0,546352.0,300.0,checkout delayed,91.0,yes,-209.0,no
+548933,355788,mobile,ended,-182.0,549479.0,720.0,checkout not delayed,60.0,yes,-660.0,no
+549385,311265,mobile,ended,,548736.0,120.0,checkout not delayed,-66.0,no,-186.0,no
+549467,372779,mobile,ended,-62.0,547247.0,240.0,checkout not delayed,2.0,yes,-238.0,no
+549471,334190,connect,ended,-89.0,554043.0,630.0,checkout not delayed,15.0,yes,-615.0,no
+551707,404424,mobile,ended,105.0,550671.0,0.0,checkout delayed,105.0,yes,105.0,yes
+548814,338940,mobile,ended,11.0,531952.0,450.0,checkout delayed,320.0,yes,-130.0,no
+549917,389958,mobile,ended,9.0,557743.0,720.0,checkout delayed,45.0,yes,-675.0,no
+551686,383110,connect,ended,-11.0,547672.0,150.0,checkout not delayed,7.0,yes,-143.0,no
+552756,374684,mobile,ended,-56.0,547550.0,600.0,checkout not delayed,-63.0,no,-663.0,no
+553139,297851,mobile,canceled,,547650.0,240.0,checkout not delayed,410.0,yes,170.0,yes
+553859,402832,mobile,ended,,536133.0,0.0,checkout not delayed,,no,,no
+552002,338940,mobile,ended,,549387.0,480.0,checkout not delayed,,no,,no
+552049,404192,mobile,ended,1392.0,551936.0,150.0,checkout delayed,925.0,yes,775.0,yes
+552230,338940,mobile,ended,233.0,513740.0,30.0,checkout delayed,83.0,yes,53.0,yes
+553101,389521,mobile,ended,,565036.0,390.0,checkout not delayed,,no,,no
+553939,402528,connect,ended,-99.0,558730.0,0.0,checkout not delayed,6.0,yes,6.0,yes
+554170,402209,mobile,ended,-125.0,564541.0,390.0,checkout not delayed,102.0,yes,-288.0,no
+554505,402562,connect,ended,-47.0,554934.0,0.0,checkout not delayed,12.0,yes,12.0,yes
+554791,382734,mobile,ended,-54.0,554944.0,720.0,checkout not delayed,37.0,yes,-683.0,no
+555087,341105,mobile,ended,-152.0,541340.0,600.0,checkout not delayed,-79.0,no,-679.0,no
+555105,401281,connect,canceled,,549535.0,420.0,checkout not delayed,-68.0,no,-488.0,no
+555116,339607,mobile,ended,-8.0,553008.0,720.0,checkout not delayed,64.0,yes,-656.0,no
+555821,326578,mobile,ended,1143.0,558583.0,0.0,checkout delayed,3.0,yes,3.0,yes
+556870,391519,connect,ended,,555600.0,180.0,checkout not delayed,-95.0,no,-275.0,no
+557318,334190,connect,ended,158.0,556215.0,660.0,checkout delayed,77.0,yes,-583.0,no
+558448,383110,connect,ended,64.0,554348.0,150.0,checkout delayed,-20.0,no,-170.0,no
+559037,349171,connect,canceled,,552392.0,0.0,checkout not delayed,46.0,yes,46.0,yes
+559280,405938,mobile,canceled,,561282.0,60.0,checkout not delayed,-40.0,no,-100.0,no
+559430,357530,connect,ended,-7.0,558258.0,0.0,checkout not delayed,2.0,yes,2.0,yes
+521076,380708,connect,ended,103.0,539450.0,210.0,checkout delayed,194.0,yes,-16.0,no
+531247,392368,connect,ended,-32.0,550614.0,60.0,checkout not delayed,27.0,yes,-33.0,no
+538564,393185,mobile,ended,-36.0,531229.0,0.0,checkout not delayed,-71.0,no,-71.0,no
+539838,295415,mobile,ended,2.0,541223.0,390.0,checkout delayed,158.0,yes,-232.0,no
+540785,403962,mobile,canceled,,533619.0,120.0,checkout not delayed,,no,,no
+541281,397046,mobile,ended,14.0,537194.0,210.0,checkout delayed,189.0,yes,-21.0,no
+541964,356106,connect,ended,-9.0,543577.0,0.0,checkout not delayed,-13.0,no,-13.0,no
+542464,320824,connect,canceled,,554117.0,450.0,checkout not delayed,-1084.0,no,-1534.0,no
+542781,309723,mobile,ended,297.0,541286.0,30.0,checkout delayed,31.0,yes,1.0,yes
+543322,380647,connect,ended,,540701.0,630.0,checkout not delayed,-110.0,no,-740.0,no
+543745,359045,connect,canceled,,521852.0,150.0,checkout not delayed,650.0,yes,500.0,yes
+543959,330013,mobile,canceled,,540896.0,540.0,checkout not delayed,-173.0,no,-713.0,no
+544363,409750,mobile,ended,-81.0,539021.0,120.0,checkout not delayed,-100.0,no,-220.0,no
+544317,361564,mobile,ended,-8.0,530202.0,120.0,checkout not delayed,21.0,yes,-99.0,no
+545980,396009,connect,ended,1.0,549819.0,60.0,checkout delayed,-425.0,no,-485.0,no
+546387,352528,connect,canceled,,546578.0,600.0,checkout not delayed,-536.0,no,-1136.0,no
+546792,230201,connect,ended,-32.0,546832.0,0.0,checkout not delayed,-8.0,no,-8.0,no
+546893,385629,connect,ended,-169.0,541445.0,0.0,checkout not delayed,-221.0,no,-221.0,no
+546955,398802,mobile,ended,25.0,543655.0,360.0,checkout delayed,73.0,yes,-287.0,no
+547368,381754,mobile,ended,,547555.0,270.0,checkout not delayed,44.0,yes,-226.0,no
+534856,319886,connect,ended,-40.0,556396.0,0.0,checkout not delayed,-22.0,no,-22.0,no
+535326,377509,mobile,ended,-6.0,539365.0,60.0,checkout not delayed,28.0,yes,-32.0,no
+536107,385721,connect,ended,62.0,525106.0,570.0,checkout delayed,-439.0,no,-1009.0,no
+557368,375553,mobile,ended,11.0,549518.0,720.0,checkout delayed,-86.0,no,-806.0,no
+557835,403558,mobile,ended,,554038.0,0.0,checkout not delayed,45.0,yes,45.0,yes
+557878,386786,mobile,ended,5.0,553306.0,360.0,checkout delayed,18.0,yes,-342.0,no
+558634,380019,mobile,ended,183.0,546644.0,420.0,checkout delayed,84.0,yes,-336.0,no
+559213,290109,mobile,ended,-25.0,565976.0,600.0,checkout not delayed,-166.0,no,-766.0,no
+559756,405923,mobile,ended,-27.0,566173.0,120.0,checkout not delayed,-933.0,no,-1053.0,no
+559922,338940,mobile,ended,,556330.0,180.0,checkout not delayed,-68.0,no,-248.0,no
+564693,408680,mobile,ended,-23.0,553639.0,0.0,checkout not delayed,37.0,yes,37.0,yes
+538224,340014,connect,canceled,,534999.0,180.0,checkout not delayed,346.0,yes,166.0,yes
+539298,356407,mobile,ended,0.0,539220.0,30.0,checkout not delayed,1.0,yes,-29.0,no
+539385,355817,mobile,ended,111.0,535816.0,0.0,checkout delayed,209.0,yes,209.0,yes
+539733,384479,mobile,ended,73.0,526536.0,660.0,checkout delayed,-17.0,no,-677.0,no
+540372,385721,connect,ended,48.0,516961.0,0.0,checkout delayed,-32.0,no,-32.0,no
+541493,285241,connect,ended,226.0,562771.0,540.0,checkout delayed,35.0,yes,-505.0,no
+541582,334190,connect,canceled,,539414.0,60.0,checkout not delayed,-286.0,no,-346.0,no
+551242,406995,mobile,ended,132.0,537861.0,540.0,checkout delayed,38.0,yes,-502.0,no
+551310,319886,connect,ended,-636.0,565483.0,510.0,checkout not delayed,-115.0,no,-625.0,no
+551372,261576,mobile,canceled,,547240.0,210.0,checkout not delayed,550.0,yes,340.0,yes
+551958,403265,connect,canceled,,551363.0,0.0,checkout not delayed,,no,,no
+552168,412021,mobile,ended,-8.0,553299.0,360.0,checkout not delayed,13.0,yes,-347.0,no
+559883,364783,mobile,ended,49.0,555469.0,660.0,checkout delayed,616.0,yes,-44.0,no
+560696,399528,connect,ended,-865.0,526657.0,600.0,checkout not delayed,-181.0,no,-781.0,no
+524276,374486,mobile,ended,50.0,541215.0,510.0,checkout delayed,47.0,yes,-463.0,no
+528872,395598,mobile,ended,-8.0,548852.0,210.0,checkout not delayed,-101.0,no,-311.0,no
+532575,365926,connect,canceled,,537243.0,360.0,checkout not delayed,242.0,yes,-118.0,no
+533142,310553,connect,ended,,545223.0,360.0,checkout not delayed,-45.0,no,-405.0,no
+561125,195977,connect,ended,-110.0,565777.0,30.0,checkout not delayed,-2.0,no,-32.0,no
+562027,379931,mobile,ended,29.0,557945.0,30.0,checkout delayed,-67.0,no,-97.0,no
+565610,385073,mobile,ended,-18.0,555340.0,120.0,checkout not delayed,-6.0,no,-126.0,no
+566508,307439,mobile,ended,319.0,559522.0,90.0,checkout delayed,63.0,yes,-27.0,no
+566923,346519,mobile,ended,-43.0,563977.0,360.0,checkout not delayed,23.0,yes,-337.0,no
+567517,358103,mobile,ended,5.0,561286.0,0.0,checkout delayed,10.0,yes,10.0,yes
+568976,375834,mobile,ended,91.0,566493.0,60.0,checkout delayed,-32.0,no,-92.0,no
+505560,320824,connect,ended,-137.0,532695.0,120.0,checkout not delayed,0.0,no,-120.0,no
+510586,393908,mobile,ended,0.0,525150.0,300.0,checkout not delayed,49.0,yes,-251.0,no
+523250,364907,connect,ended,-16.0,549567.0,30.0,checkout not delayed,6.0,yes,-24.0,no
+533798,404688,mobile,ended,-27.0,524948.0,270.0,checkout not delayed,8.0,yes,-262.0,no
+563443,342699,connect,ended,-1.0,566561.0,570.0,checkout not delayed,-13.0,no,-583.0,no
+564518,389104,mobile,ended,7.0,546382.0,30.0,checkout delayed,-35.0,no,-65.0,no
+565759,409863,mobile,ended,266.0,564788.0,30.0,checkout delayed,-126.0,no,-156.0,no
+518368,368132,mobile,ended,-77.0,535618.0,720.0,checkout not delayed,-40.0,no,-760.0,no
+519493,389219,mobile,ended,19.0,515851.0,120.0,checkout delayed,-5.0,no,-125.0,no
+520878,289720,connect,ended,-42.0,540741.0,120.0,checkout not delayed,4.0,yes,-116.0,no
+521403,316678,connect,ended,-31.0,558030.0,60.0,checkout not delayed,-158.0,no,-218.0,no
+530724,397728,mobile,ended,5.0,572331.0,270.0,checkout delayed,49.0,yes,-221.0,no
+521969,354493,mobile,ended,-54.0,518353.0,210.0,checkout not delayed,17.0,yes,-193.0,no
+531952,338940,mobile,ended,320.0,542671.0,0.0,checkout delayed,6.0,yes,6.0,yes
+533904,228703,connect,ended,-21.0,519407.0,330.0,checkout not delayed,-1061.0,no,-1391.0,no
+535690,313432,mobile,ended,84.0,539109.0,60.0,checkout delayed,58.0,yes,-2.0,no
+535914,265239,connect,ended,44.0,538830.0,120.0,checkout delayed,34.0,yes,-86.0,no
+536610,328866,mobile,ended,-58.0,549011.0,0.0,checkout not delayed,-47.0,no,-47.0,no
+537518,350149,mobile,ended,267.0,538529.0,60.0,checkout delayed,86.0,yes,26.0,yes
+552949,352528,connect,ended,-119.0,546489.0,270.0,checkout not delayed,-533.0,no,-803.0,no
+553294,394380,mobile,ended,-113.0,540105.0,720.0,checkout not delayed,8.0,yes,-712.0,no
+554062,394024,mobile,ended,-48.0,562173.0,0.0,checkout not delayed,73.0,yes,73.0,yes
+554280,401475,connect,ended,39.0,553682.0,450.0,checkout delayed,37.0,yes,-413.0,no
+542971,314456,connect,ended,-26.0,533380.0,690.0,checkout not delayed,-167.0,no,-857.0,no
+543277,265239,connect,ended,-63.0,535914.0,360.0,checkout not delayed,44.0,yes,-316.0,no
+543283,314897,mobile,ended,-56.0,540735.0,720.0,checkout not delayed,-14.0,no,-734.0,no
+543582,347660,connect,ended,-712.0,539424.0,420.0,checkout not delayed,-117.0,no,-537.0,no
+543877,294189,mobile,ended,,512773.0,360.0,checkout not delayed,136.0,yes,-224.0,no
+544819,401470,mobile,ended,39.0,543823.0,570.0,checkout delayed,612.0,yes,42.0,yes
+545022,363918,mobile,ended,489.0,545032.0,60.0,checkout delayed,-549.0,no,-609.0,no
+554942,382444,mobile,ended,-11.0,563834.0,240.0,checkout not delayed,-2.0,no,-242.0,no
+555503,346305,mobile,ended,-17.0,537219.0,180.0,checkout not delayed,-185.0,no,-365.0,no
+556401,339138,connect,ended,62.0,565263.0,0.0,checkout delayed,-119.0,no,-119.0,no
+557023,302561,connect,ended,-25.0,558162.0,60.0,checkout not delayed,-105.0,no,-165.0,no
+558403,380407,mobile,ended,4.0,547147.0,0.0,checkout delayed,-240.0,no,-240.0,no
+559450,366199,connect,ended,-24.0,547522.0,120.0,checkout not delayed,-1172.0,no,-1292.0,no
+559963,331900,mobile,ended,66.0,559063.0,30.0,checkout delayed,63.0,yes,33.0,yes
+560479,384567,connect,ended,32.0,559510.0,90.0,checkout delayed,-35.0,no,-125.0,no
+560548,351024,mobile,ended,6.0,508535.0,90.0,checkout delayed,102.0,yes,12.0,yes
+561744,413333,mobile,ended,-3.0,564275.0,600.0,checkout not delayed,-235.0,no,-835.0,no
+569053,393982,mobile,ended,129.0,563562.0,630.0,checkout delayed,21.0,yes,-609.0,no
+569211,348551,mobile,ended,115.0,558223.0,330.0,checkout delayed,251.0,yes,-79.0,no
+569313,367919,connect,ended,384.0,545720.0,0.0,checkout delayed,8.0,yes,8.0,yes
+569366,364783,mobile,canceled,,563995.0,0.0,checkout not delayed,,no,,no
+570922,365926,connect,ended,-47.0,573294.0,510.0,checkout not delayed,9.0,yes,-501.0,no
+572521,347208,connect,ended,-875.0,571139.0,180.0,checkout not delayed,-90.0,no,-270.0,no
+572859,404128,connect,ended,725.0,571634.0,180.0,checkout delayed,12.0,yes,-168.0,no
+573135,396755,mobile,canceled,,547901.0,90.0,checkout not delayed,1.0,yes,-89.0,no
+506161,369881,connect,ended,6.0,549345.0,30.0,checkout delayed,22.0,yes,-8.0,no
+516737,288953,mobile,ended,-868.0,517435.0,30.0,checkout not delayed,-113.0,no,-143.0,no
+521258,371933,mobile,ended,-197.0,555541.0,180.0,checkout not delayed,19.0,yes,-161.0,no
+526536,384479,mobile,ended,-17.0,538761.0,690.0,checkout not delayed,98.0,yes,-592.0,no
+533317,381029,mobile,ended,1.0,539720.0,90.0,checkout delayed,-534.0,no,-624.0,no
+562717,402083,connect,ended,493.0,561928.0,360.0,checkout delayed,154.0,yes,-206.0,no
+548050,300505,connect,ended,-538.0,541486.0,0.0,checkout not delayed,12.0,yes,12.0,yes
+548388,297511,mobile,ended,160.0,546459.0,420.0,checkout delayed,12968.0,yes,12548.0,yes
+548718,399575,connect,ended,73.0,558387.0,630.0,checkout delayed,81.0,yes,-549.0,no
+549001,394380,mobile,canceled,,545839.0,660.0,checkout not delayed,28.0,yes,-632.0,no
+549270,405622,mobile,ended,21.0,549855.0,450.0,checkout delayed,24.0,yes,-426.0,no
+550250,403153,mobile,ended,-102.0,547495.0,630.0,checkout not delayed,393.0,yes,-237.0,no
+550392,288953,mobile,ended,-23.0,547476.0,150.0,checkout not delayed,2.0,yes,-148.0,no
+550830,374298,connect,ended,-200.0,550317.0,90.0,checkout not delayed,11.0,yes,-79.0,no
+563362,192643,mobile,ended,,562736.0,270.0,checkout not delayed,,no,,no
+563387,366164,connect,ended,-146.0,536892.0,360.0,checkout not delayed,17.0,yes,-343.0,no
+563572,264457,mobile,ended,92.0,566229.0,240.0,checkout delayed,242.0,yes,2.0,yes
+563721,413181,mobile,ended,2.0,560542.0,150.0,checkout delayed,4.0,yes,-146.0,no
+564039,356106,connect,ended,,563781.0,0.0,checkout not delayed,90.0,yes,90.0,yes
+564819,394928,connect,ended,-126.0,567186.0,540.0,checkout not delayed,2.0,yes,-538.0,no
+566398,241021,connect,ended,-288.0,568399.0,0.0,checkout not delayed,-57.0,no,-57.0,no
+567288,386259,connect,ended,-86.0,559685.0,180.0,checkout not delayed,-217.0,no,-397.0,no
+567968,223850,mobile,ended,-6.0,561253.0,210.0,checkout not delayed,83.0,yes,-127.0,no
+568105,351546,connect,canceled,,564144.0,120.0,checkout not delayed,210.0,yes,90.0,yes
+568141,224728,mobile,ended,37.0,567789.0,30.0,checkout delayed,-130.0,no,-160.0,no
+568287,410255,connect,ended,,567264.0,30.0,checkout not delayed,183.0,yes,153.0,yes
+568439,368432,mobile,ended,-25.0,560404.0,90.0,checkout not delayed,-66.0,no,-156.0,no
+568967,364907,connect,ended,37.0,555169.0,60.0,checkout delayed,,no,,no
+569297,390467,connect,ended,-451.0,566704.0,150.0,checkout not delayed,,no,,no
+569683,310444,connect,ended,77.0,565569.0,450.0,checkout delayed,-110.0,no,-560.0,no
+570039,363377,mobile,ended,17.0,562077.0,180.0,checkout delayed,100.0,yes,-80.0,no
+522151,259952,mobile,ended,-97.0,550409.0,0.0,checkout not delayed,26.0,yes,26.0,yes
+522860,385774,mobile,ended,,543476.0,60.0,checkout not delayed,63.0,yes,3.0,yes
+527468,216148,connect,ended,-143.0,542805.0,690.0,checkout not delayed,77.0,yes,-613.0,no
+531610,403239,mobile,ended,39.0,522490.0,60.0,checkout delayed,,no,,no
+538181,397333,mobile,ended,704.0,540525.0,0.0,checkout delayed,-11.0,no,-11.0,no
+538584,406994,mobile,ended,9.0,533472.0,330.0,checkout delayed,108.0,yes,-222.0,no
+532113,365926,connect,canceled,,537243.0,300.0,checkout not delayed,242.0,yes,-58.0,no
+536185,394555,connect,ended,87.0,538270.0,690.0,checkout delayed,-43.0,no,-733.0,no
+532141,377670,connect,ended,-10.0,552933.0,150.0,checkout not delayed,-145.0,no,-295.0,no
+534768,287544,mobile,ended,164.0,531476.0,120.0,checkout delayed,-5.0,no,-125.0,no
+572248,195977,connect,canceled,,569301.0,180.0,checkout not delayed,62.0,yes,-118.0,no
+573479,402209,mobile,ended,-28.0,554170.0,690.0,checkout not delayed,-125.0,no,-815.0,no
+573546,390467,connect,ended,-7.0,572236.0,60.0,checkout not delayed,-88.0,no,-148.0,no
+537290,340112,mobile,ended,83.0,539219.0,300.0,checkout delayed,,no,,no
+537598,338935,mobile,ended,188.0,537023.0,60.0,checkout delayed,78.0,yes,18.0,yes
+539674,344254,connect,ended,125.0,541533.0,60.0,checkout delayed,-150.0,no,-210.0,no
+540722,321069,mobile,ended,224.0,512562.0,360.0,checkout delayed,104.0,yes,-256.0,no
+538160,216701,mobile,ended,-21.0,524146.0,90.0,checkout not delayed,155.0,yes,65.0,yes
+540583,194340,connect,ended,-133.0,541969.0,30.0,checkout not delayed,43.0,yes,13.0,yes
+540952,389785,connect,ended,-295.0,527270.0,540.0,checkout not delayed,3.0,yes,-537.0,no
+541826,404130,connect,ended,97.0,543513.0,30.0,checkout delayed,-82.0,no,-112.0,no
+543124,363658,mobile,ended,146.0,542107.0,180.0,checkout delayed,-16.0,no,-196.0,no
+544337,311923,connect,ended,21.0,563869.0,510.0,checkout delayed,-43.0,no,-553.0,no
+544376,373233,mobile,ended,121.0,544861.0,60.0,checkout delayed,17.0,yes,-43.0,no
+566060,394656,connect,ended,5.0,564793.0,240.0,checkout delayed,54.0,yes,-186.0,no
+552250,409539,mobile,ended,100.0,560505.0,600.0,checkout delayed,6.0,yes,-594.0,no
+552544,341648,mobile,ended,-545.0,557072.0,330.0,checkout not delayed,13.0,yes,-317.0,no
+553553,408883,mobile,ended,8.0,564585.0,0.0,checkout delayed,17.0,yes,17.0,yes
+557183,410939,connect,canceled,,565171.0,0.0,checkout not delayed,-15.0,no,-15.0,no
+538211,280805,connect,ended,-195.0,530261.0,60.0,checkout not delayed,28.0,yes,-32.0,no
+539300,351319,mobile,ended,-77.0,535020.0,0.0,checkout not delayed,28.0,yes,28.0,yes
+540199,312078,connect,ended,-19.0,538207.0,0.0,checkout not delayed,-128.0,no,-128.0,no
+541143,387753,connect,ended,-82.0,539236.0,510.0,checkout not delayed,-261.0,no,-771.0,no
+541640,391338,mobile,ended,-28.0,534025.0,60.0,checkout not delayed,-2.0,no,-62.0,no
+542801,345865,connect,ended,-32.0,537406.0,90.0,checkout not delayed,-18.0,no,-108.0,no
+542830,328900,connect,ended,265.0,508109.0,0.0,checkout delayed,-151.0,no,-151.0,no
+543115,381914,mobile,ended,7.0,541395.0,300.0,checkout delayed,61.0,yes,-239.0,no
+543401,215979,mobile,ended,13.0,542150.0,210.0,checkout delayed,12.0,yes,-198.0,no
+543559,392241,connect,ended,42.0,538768.0,120.0,checkout delayed,271.0,yes,151.0,yes
+544566,355444,connect,ended,-39.0,541239.0,150.0,checkout not delayed,33.0,yes,-117.0,no
+544979,392479,mobile,ended,183.0,547804.0,120.0,checkout delayed,-958.0,no,-1078.0,no
+544947,392368,connect,ended,-42.0,553290.0,720.0,checkout not delayed,-23.0,no,-743.0,no
+545207,407411,mobile,ended,-89.0,532724.0,570.0,checkout not delayed,16.0,yes,-554.0,no
+545618,305525,connect,ended,43.0,543394.0,570.0,checkout delayed,-12.0,no,-582.0,no
+546313,404476,mobile,ended,,540360.0,210.0,checkout not delayed,,no,,no
+546532,407632,mobile,ended,6.0,546199.0,720.0,checkout delayed,-66.0,no,-786.0,no
+546561,346755,connect,canceled,,569802.0,270.0,checkout not delayed,92.0,yes,-178.0,no
+546930,316449,mobile,canceled,,551866.0,0.0,checkout not delayed,153.0,yes,153.0,yes
+547130,411325,mobile,ended,22.0,545629.0,0.0,checkout delayed,81.0,yes,81.0,yes
+547311,374809,connect,ended,7.0,539330.0,90.0,checkout delayed,20.0,yes,-70.0,no
+548957,382444,mobile,canceled,,541126.0,240.0,checkout not delayed,72.0,yes,-168.0,no
+549535,401281,connect,ended,-68.0,530729.0,690.0,checkout not delayed,-4.0,no,-694.0,no
+550277,375128,connect,ended,-28.0,549044.0,240.0,checkout not delayed,41.0,yes,-199.0,no
+550566,373889,mobile,ended,70.0,542811.0,120.0,checkout delayed,-32.0,no,-152.0,no
+550654,357007,mobile,ended,30.0,508605.0,30.0,checkout delayed,-43.0,no,-73.0,no
+551160,383949,mobile,ended,-52.0,545467.0,90.0,checkout not delayed,50.0,yes,-40.0,no
+551987,341840,mobile,ended,68.0,529556.0,150.0,checkout delayed,-580.0,no,-730.0,no
+540971,409908,mobile,ended,,540186.0,30.0,checkout not delayed,,no,,no
+541646,364890,mobile,ended,621.0,538703.0,210.0,checkout delayed,,no,,no
+541751,394928,connect,ended,-47.0,544799.0,600.0,checkout not delayed,-59.0,no,-659.0,no
+543788,377071,mobile,ended,0.0,538874.0,30.0,checkout not delayed,2.0,yes,-28.0,no
+544198,263232,mobile,ended,83.0,538218.0,300.0,checkout delayed,273.0,yes,-27.0,no
+544741,374290,mobile,ended,-36.0,532043.0,180.0,checkout not delayed,101.0,yes,-79.0,no
+545070,398326,mobile,ended,0.0,544957.0,270.0,checkout not delayed,13.0,yes,-257.0,no
+545233,366371,connect,ended,-81.0,517688.0,720.0,checkout not delayed,-245.0,no,-965.0,no
+546056,408509,mobile,ended,72.0,549516.0,120.0,checkout delayed,-96.0,no,-216.0,no
+548307,404571,mobile,ended,-4.0,532798.0,90.0,checkout not delayed,45.0,yes,-45.0,no
+558441,358225,mobile,ended,4.0,552053.0,0.0,checkout delayed,11.0,yes,11.0,yes
+559527,385178,connect,canceled,,555186.0,330.0,checkout not delayed,-301.0,no,-631.0,no
+559976,344254,connect,ended,51.0,558129.0,60.0,checkout delayed,-185.0,no,-245.0,no
+545594,392479,mobile,ended,22.0,538397.0,570.0,checkout delayed,-301.0,no,-871.0,no
+545750,393968,connect,ended,-11.0,548306.0,600.0,checkout not delayed,27.0,yes,-573.0,no
+545916,307364,connect,ended,-77.0,545822.0,30.0,checkout not delayed,26.0,yes,-4.0,no
+546070,313952,mobile,ended,238.0,569185.0,570.0,checkout delayed,-85.0,no,-655.0,no
+547872,338243,connect,ended,83.0,549555.0,600.0,checkout delayed,-154.0,no,-754.0,no
+548110,379908,mobile,ended,-52.0,542260.0,720.0,checkout not delayed,45.0,yes,-675.0,no
+545984,305525,connect,ended,-253.0,545963.0,720.0,checkout not delayed,-33.0,no,-753.0,no
+546636,399528,connect,ended,4.0,545268.0,540.0,checkout delayed,23.0,yes,-517.0,no
+548185,385295,mobile,ended,129.0,538747.0,600.0,checkout delayed,-9.0,no,-609.0,no
+548272,317330,connect,ended,-21.0,548279.0,0.0,checkout not delayed,-692.0,no,-692.0,no
+548867,217819,mobile,ended,-134.0,544074.0,270.0,checkout not delayed,-46.0,no,-316.0,no
+548952,356630,mobile,ended,-88.0,523527.0,720.0,checkout not delayed,-66.0,no,-786.0,no
+550479,265239,connect,ended,51.0,520615.0,0.0,checkout delayed,-22.0,no,-22.0,no
+552131,406551,connect,canceled,,545126.0,60.0,checkout not delayed,-46.0,no,-106.0,no
+552365,404130,connect,ended,12.0,553206.0,480.0,checkout delayed,18.0,yes,-462.0,no
+521986,369845,mobile,canceled,,553278.0,630.0,checkout not delayed,-32.0,no,-662.0,no
+522640,394543,mobile,ended,21.0,546468.0,60.0,checkout delayed,-40.0,no,-100.0,no
+533456,368432,mobile,ended,-2.0,539640.0,600.0,checkout not delayed,-12.0,no,-612.0,no
+533596,352799,mobile,ended,46.0,538423.0,720.0,checkout delayed,-1.0,no,-721.0,no
+553302,368432,mobile,ended,-104.0,567818.0,570.0,checkout not delayed,-986.0,no,-1556.0,no
+553719,391519,connect,canceled,,562244.0,540.0,checkout not delayed,,no,,no
+553836,340616,connect,ended,54.0,553933.0,30.0,checkout delayed,-341.0,no,-371.0,no
+554383,159533,connect,ended,41.0,512682.0,330.0,checkout delayed,-125.0,no,-455.0,no
+554407,310049,mobile,ended,76.0,551523.0,120.0,checkout delayed,-20.0,no,-140.0,no
+549968,377004,mobile,ended,52.0,550088.0,30.0,checkout delayed,142.0,yes,112.0,yes
+550240,407865,mobile,ended,15.0,550984.0,120.0,checkout delayed,-10.0,no,-130.0,no
+550994,303309,connect,ended,31.0,549854.0,720.0,checkout delayed,-46.0,no,-766.0,no
+551565,356673,mobile,ended,176.0,548460.0,60.0,checkout delayed,30.0,yes,-30.0,no
+551667,350149,mobile,ended,272.0,555318.0,150.0,checkout delayed,29.0,yes,-121.0,no
+552075,364038,mobile,ended,0.0,514557.0,30.0,checkout not delayed,-1.0,no,-31.0,no
+552116,363280,mobile,ended,4.0,519547.0,540.0,checkout delayed,73.0,yes,-467.0,no
+552264,376491,connect,ended,-15.0,551892.0,30.0,checkout not delayed,-96.0,no,-126.0,no
+552598,376840,connect,ended,10.0,549549.0,540.0,checkout delayed,-153.0,no,-693.0,no
+553308,368432,mobile,ended,-133.0,562021.0,630.0,checkout not delayed,-2.0,no,-632.0,no
+554174,312622,mobile,ended,11.0,554035.0,60.0,checkout delayed,0.0,no,-60.0,no
+554183,362187,connect,ended,-426.0,556500.0,180.0,checkout not delayed,15.0,yes,-165.0,no
+554235,394801,mobile,ended,7.0,559412.0,30.0,checkout delayed,-28.0,no,-58.0,no
+554905,314687,mobile,ended,-28.0,552745.0,60.0,checkout not delayed,-82.0,no,-142.0,no
+554994,391519,connect,canceled,,556870.0,660.0,checkout not delayed,,no,,no
+549565,390692,mobile,ended,78.0,530304.0,0.0,checkout delayed,39.0,yes,39.0,yes
+549943,403313,mobile,ended,,539950.0,0.0,checkout not delayed,,no,,no
+550632,308073,connect,ended,,548622.0,720.0,checkout not delayed,29.0,yes,-691.0,no
+551141,372115,mobile,ended,24.0,550285.0,660.0,checkout delayed,-31.0,no,-691.0,no
+551925,336629,mobile,ended,-21.0,550453.0,0.0,checkout not delayed,8.0,yes,8.0,yes
+551997,398886,mobile,ended,205.0,550567.0,60.0,checkout delayed,-58.0,no,-118.0,no
+552303,354138,mobile,ended,-11.0,566927.0,570.0,checkout not delayed,142.0,yes,-428.0,no
+553523,412539,mobile,ended,1489.0,552169.0,480.0,checkout delayed,-262.0,no,-742.0,no
+552787,378754,connect,canceled,,549036.0,0.0,checkout not delayed,-148.0,no,-148.0,no
+553646,274001,mobile,ended,7.0,539712.0,120.0,checkout delayed,134.0,yes,14.0,yes
+555143,320834,connect,ended,25.0,564613.0,120.0,checkout delayed,28.0,yes,-92.0,no
+555258,229646,mobile,ended,79.0,550583.0,450.0,checkout delayed,3.0,yes,-447.0,no
+555641,368724,mobile,ended,24.0,565544.0,60.0,checkout delayed,-22.0,no,-82.0,no
+556500,362187,connect,ended,15.0,555592.0,60.0,checkout delayed,-106.0,no,-166.0,no
+557709,404542,mobile,canceled,,555077.0,180.0,checkout not delayed,76.0,yes,-104.0,no
+557928,383344,connect,ended,,540817.0,60.0,checkout not delayed,105.0,yes,45.0,yes
+558317,380069,mobile,ended,,561985.0,0.0,checkout not delayed,,no,,no
+556319,383462,connect,ended,55.0,558174.0,660.0,checkout delayed,-1.0,no,-661.0,no
+556825,404130,connect,ended,-7.0,551494.0,720.0,checkout not delayed,-111.0,no,-831.0,no
+557619,320438,mobile,ended,17.0,556077.0,150.0,checkout delayed,-20.0,no,-170.0,no
+558258,357530,connect,ended,2.0,557097.0,690.0,checkout delayed,-49.0,no,-739.0,no
+559316,414201,mobile,ended,30.0,557671.0,690.0,checkout delayed,-54.0,no,-744.0,no
+559594,291932,connect,ended,-408.0,556581.0,150.0,checkout not delayed,-18.0,no,-168.0,no
+559739,308181,connect,ended,8.0,564990.0,120.0,checkout delayed,133.0,yes,13.0,yes
+559788,397599,mobile,ended,54.0,559390.0,630.0,checkout delayed,-159.0,no,-789.0,no
+559886,347011,mobile,ended,140.0,557366.0,60.0,checkout delayed,62.0,yes,2.0,yes
+559934,192643,mobile,ended,,558833.0,630.0,checkout not delayed,,no,,no
+560682,305452,mobile,ended,139.0,553996.0,570.0,checkout delayed,-81.0,no,-651.0,no
+562014,353425,connect,canceled,,550306.0,60.0,checkout not delayed,-58.0,no,-118.0,no
+563218,397592,mobile,ended,93.0,560585.0,60.0,checkout delayed,,no,,no
+563661,338584,connect,ended,-38.0,567637.0,630.0,checkout not delayed,-166.0,no,-796.0,no
+556970,403644,mobile,ended,45.0,556081.0,30.0,checkout delayed,-6.0,no,-36.0,no
+557344,381994,mobile,ended,53.0,554398.0,60.0,checkout delayed,14.0,yes,-46.0,no
+557404,181625,connect,ended,-352.0,554077.0,120.0,checkout not delayed,6.0,yes,-114.0,no
+558733,320824,connect,ended,36.0,554117.0,150.0,checkout delayed,-1084.0,no,-1234.0,no
+559077,355444,connect,ended,0.0,554528.0,240.0,checkout not delayed,-32.0,no,-272.0,no
+561219,295860,mobile,ended,-5.0,574786.0,60.0,checkout not delayed,65.0,yes,5.0,yes
+562075,403430,mobile,ended,70.0,554144.0,720.0,checkout delayed,21.0,yes,-699.0,no
+560938,407636,connect,ended,-50.0,555004.0,660.0,checkout not delayed,-71.0,no,-731.0,no
+537360,367365,connect,ended,-370.0,543323.0,630.0,checkout not delayed,2.0,yes,-628.0,no
+554746,334118,mobile,ended,-171.0,548107.0,30.0,checkout not delayed,-277.0,no,-307.0,no
+556014,245154,connect,canceled,,566170.0,210.0,checkout not delayed,-2.0,no,-212.0,no
+556362,351153,mobile,ended,17.0,554711.0,720.0,checkout delayed,1.0,yes,-719.0,no
+556385,359978,mobile,ended,,554772.0,720.0,checkout not delayed,,no,,no
+559087,383485,mobile,canceled,,559072.0,60.0,checkout not delayed,-56.0,no,-116.0,no
+564691,361789,mobile,ended,-97.0,560638.0,690.0,checkout not delayed,-892.0,no,-1582.0,no
+565591,381787,connect,ended,-4.0,572671.0,720.0,checkout not delayed,12.0,yes,-708.0,no
+566264,401475,connect,ended,-55.0,517671.0,660.0,checkout not delayed,-249.0,no,-909.0,no
+566648,383110,connect,ended,-77.0,568065.0,480.0,checkout not delayed,-64.0,no,-544.0,no
+566774,377591,connect,ended,281.0,544588.0,0.0,checkout delayed,50.0,yes,50.0,yes
+516961,385721,connect,ended,-32.0,542219.0,0.0,checkout not delayed,0.0,no,0.0,no
+519713,324640,mobile,ended,-10.0,553902.0,420.0,checkout not delayed,-128.0,no,-548.0,no
+525837,244848,connect,ended,172.0,543686.0,120.0,checkout delayed,-11.0,no,-131.0,no
+534378,402469,mobile,ended,-15.0,540696.0,510.0,checkout not delayed,-109.0,no,-619.0,no
+535209,383540,mobile,ended,3.0,538639.0,330.0,checkout delayed,38.0,yes,-292.0,no
+558633,336650,connect,ended,19.0,557424.0,0.0,checkout delayed,,no,,no
+558702,376840,connect,ended,-164.0,552598.0,690.0,checkout not delayed,10.0,yes,-680.0,no
+558813,403430,mobile,ended,254.0,562075.0,660.0,checkout delayed,70.0,yes,-590.0,no
+559552,226317,mobile,ended,,550534.0,0.0,checkout not delayed,,no,,no
+561351,385073,mobile,ended,-37.0,560872.0,690.0,checkout not delayed,-56.0,no,-746.0,no
+561935,347464,connect,ended,116.0,566651.0,300.0,checkout delayed,32.0,yes,-268.0,no
+562071,288973,mobile,ended,-232.0,572580.0,30.0,checkout not delayed,-12.0,no,-42.0,no
+563248,385625,connect,ended,6.0,556513.0,0.0,checkout delayed,-68.0,no,-68.0,no
+565877,351319,mobile,ended,-1148.0,561309.0,660.0,checkout not delayed,-577.0,no,-1237.0,no
+561947,390927,connect,ended,40.0,537960.0,660.0,checkout delayed,31.0,yes,-629.0,no
+562199,392479,mobile,ended,77.0,545594.0,720.0,checkout delayed,22.0,yes,-698.0,no
+562848,272430,connect,ended,-63.0,564600.0,330.0,checkout not delayed,-61.0,no,-391.0,no
+563652,299063,connect,ended,-22.0,561530.0,270.0,checkout not delayed,-5.0,no,-275.0,no
+564127,389565,connect,ended,81.0,565814.0,510.0,checkout delayed,48.0,yes,-462.0,no
+564546,384396,connect,canceled,,561260.0,690.0,checkout not delayed,-75.0,no,-765.0,no
+565171,410939,connect,ended,-15.0,567442.0,240.0,checkout not delayed,-353.0,no,-593.0,no
+568054,293992,mobile,ended,1147.0,562269.0,60.0,checkout delayed,,no,,no
+568539,375126,connect,ended,139.0,566798.0,630.0,checkout delayed,50.0,yes,-580.0,no
+569145,300505,connect,ended,46.0,560610.0,90.0,checkout delayed,-54.0,no,-144.0,no
+569162,274949,mobile,canceled,,565577.0,210.0,checkout not delayed,-259.0,no,-469.0,no
+569445,346305,mobile,ended,-62.0,560681.0,180.0,checkout not delayed,-21.0,no,-201.0,no
+572853,366164,connect,ended,39.0,569272.0,360.0,checkout delayed,7.0,yes,-353.0,no
+565760,386413,connect,ended,-2.0,550806.0,0.0,checkout not delayed,-18.0,no,-18.0,no
+559950,380128,mobile,ended,-68.0,557700.0,360.0,checkout not delayed,315.0,yes,-45.0,no
+561311,200364,mobile,canceled,,509972.0,480.0,checkout not delayed,-664.0,no,-1144.0,no
+561480,364652,connect,ended,-48.0,564545.0,60.0,checkout not delayed,-90.0,no,-150.0,no
+561586,376642,mobile,ended,-53.0,557899.0,630.0,checkout not delayed,-25.0,no,-655.0,no
+561882,356630,mobile,ended,-19.0,563870.0,0.0,checkout not delayed,-731.0,no,-731.0,no
+524637,348225,mobile,ended,37.0,550539.0,0.0,checkout delayed,-59.0,no,-59.0,no
+567020,216576,connect,ended,-470.0,563059.0,150.0,checkout not delayed,-24.0,no,-174.0,no
+568119,342699,connect,ended,14.0,563443.0,30.0,checkout delayed,-1.0,no,-31.0,no
+568302,363387,mobile,ended,-56.0,569781.0,450.0,checkout not delayed,-687.0,no,-1137.0,no
+515626,324197,mobile,ended,62.0,525338.0,210.0,checkout delayed,19.0,yes,-191.0,no
+515855,400293,mobile,ended,-83.0,540635.0,570.0,checkout not delayed,,no,,no
+517688,366371,connect,ended,-245.0,539108.0,0.0,checkout not delayed,-39.0,no,-39.0,no
+525787,372809,connect,ended,10.0,561211.0,600.0,checkout delayed,-134.0,no,-734.0,no
+526660,367632,connect,canceled,,563613.0,720.0,checkout not delayed,11.0,yes,-709.0,no
+529626,324821,connect,ended,66.0,537033.0,720.0,checkout delayed,8.0,yes,-712.0,no
+532543,397470,mobile,ended,-5.0,537576.0,150.0,checkout not delayed,18.0,yes,-132.0,no
+569030,401542,mobile,ended,,564977.0,480.0,checkout not delayed,19.0,yes,-461.0,no
+509463,339189,connect,ended,75.0,527519.0,360.0,checkout delayed,137.0,yes,-223.0,no
+511425,351146,mobile,ended,26.0,555546.0,90.0,checkout delayed,2.0,yes,-88.0,no
+513104,396552,mobile,ended,23.0,535313.0,720.0,checkout delayed,23.0,yes,-697.0,no
+524355,385972,mobile,ended,1.0,548080.0,660.0,checkout delayed,34.0,yes,-626.0,no
+536038,390702,connect,ended,37.0,554652.0,660.0,checkout delayed,-24.0,no,-684.0,no
+536509,281116,mobile,ended,-79.0,529888.0,180.0,checkout not delayed,169.0,yes,-11.0,no
+537133,340868,connect,ended,24.0,532994.0,60.0,checkout delayed,-59.0,no,-119.0,no
+567303,356630,mobile,ended,69.0,561882.0,180.0,checkout delayed,-19.0,no,-199.0,no
+568361,324821,connect,ended,-8.0,564684.0,90.0,checkout not delayed,-26.0,no,-116.0,no
+572403,390467,connect,ended,,573546.0,360.0,checkout not delayed,-7.0,no,-367.0,no
+576292,181625,connect,ended,9.0,573698.0,90.0,checkout delayed,61.0,yes,-29.0,no
+512171,395608,mobile,ended,5.0,535039.0,180.0,checkout delayed,62.0,yes,-118.0,no
+516667,380833,mobile,canceled,,538592.0,30.0,checkout not delayed,-544.0,no,-574.0,no
+526948,214635,connect,ended,29.0,522667.0,180.0,checkout delayed,119.0,yes,-61.0,no
+527925,401281,connect,ended,-96.0,535185.0,60.0,checkout not delayed,-500.0,no,-560.0,no
+538657,404146,mobile,ended,-36.0,538335.0,720.0,checkout not delayed,-128.0,no,-848.0,no
+538820,261263,mobile,ended,-35.0,533521.0,180.0,checkout not delayed,20.0,yes,-160.0,no
+539171,372878,mobile,ended,-8.0,543033.0,60.0,checkout not delayed,-45.0,no,-105.0,no
+541178,392635,mobile,ended,86.0,523175.0,0.0,checkout delayed,2976.0,yes,2976.0,yes
+542245,383255,mobile,ended,451.0,539006.0,240.0,checkout delayed,94.0,yes,-146.0,no
+542392,379751,connect,ended,-33.0,541396.0,0.0,checkout not delayed,33.0,yes,33.0,yes
+543696,347208,connect,ended,-141.0,538244.0,510.0,checkout not delayed,23.0,yes,-487.0,no
+543791,391153,mobile,ended,310.0,544230.0,720.0,checkout delayed,9.0,yes,-711.0,no
+544030,404771,mobile,ended,72.0,543848.0,120.0,checkout delayed,20.0,yes,-100.0,no
+544902,387939,connect,ended,32.0,545532.0,510.0,checkout delayed,7.0,yes,-503.0,no
+545784,404020,mobile,ended,-11.0,543175.0,30.0,checkout not delayed,4.0,yes,-26.0,no
+546464,389785,connect,ended,-1.0,550903.0,690.0,checkout not delayed,-18.0,no,-708.0,no
+546557,311923,connect,ended,-470.0,539744.0,240.0,checkout not delayed,-104.0,no,-344.0,no
+547047,337047,mobile,ended,-53.0,544443.0,30.0,checkout not delayed,56.0,yes,26.0,yes
+547589,373367,mobile,ended,-3.0,545463.0,60.0,checkout not delayed,40.0,yes,-20.0,no
+547981,372924,mobile,ended,36.0,550415.0,210.0,checkout delayed,144.0,yes,-66.0,no
+548868,356434,mobile,ended,-4.0,551652.0,0.0,checkout not delayed,-3.0,no,-3.0,no
+549430,366071,mobile,ended,-3.0,551575.0,180.0,checkout not delayed,22.0,yes,-158.0,no
+549647,369542,connect,ended,53.0,563235.0,480.0,checkout delayed,-107.0,no,-587.0,no
+549659,367608,connect,ended,-72.0,548833.0,120.0,checkout not delayed,75.0,yes,-45.0,no
+550664,327336,mobile,canceled,,546653.0,420.0,checkout not delayed,-77.0,no,-497.0,no
+551308,342067,mobile,ended,42.0,545062.0,0.0,checkout delayed,-98.0,no,-98.0,no
+552074,412682,mobile,ended,71.0,564237.0,240.0,checkout delayed,13.0,yes,-227.0,no
+553045,407524,mobile,ended,106.0,554266.0,480.0,checkout delayed,106.0,yes,-374.0,no
+555798,388540,mobile,ended,-33.0,552353.0,30.0,checkout not delayed,-33.0,no,-63.0,no
+556126,396250,mobile,canceled,,548864.0,510.0,checkout not delayed,527.0,yes,17.0,yes
+558379,350769,mobile,ended,-73.0,537483.0,540.0,checkout not delayed,34.0,yes,-506.0,no
+558490,403749,mobile,ended,-59.0,554954.0,60.0,checkout not delayed,-152.0,no,-212.0,no
+559326,412623,mobile,ended,46.0,557439.0,180.0,checkout delayed,64.0,yes,-116.0,no
+568175,415726,mobile,ended,34.0,567093.0,180.0,checkout delayed,-2.0,no,-182.0,no
+568573,342699,connect,ended,11.0,568298.0,60.0,checkout delayed,7.0,yes,-53.0,no
+571892,339138,connect,ended,20.0,571215.0,90.0,checkout delayed,0.0,no,-90.0,no
+573065,407084,mobile,ended,-105.0,569017.0,360.0,checkout not delayed,111.0,yes,-249.0,no
+564168,382444,mobile,ended,-86.0,553599.0,90.0,checkout not delayed,0.0,no,-90.0,no
+564574,375421,connect,ended,34.0,515659.0,330.0,checkout delayed,-1.0,no,-331.0,no
+565262,333753,mobile,ended,163.0,564522.0,240.0,checkout delayed,95.0,yes,-145.0,no
+565247,406625,connect,ended,0.0,561277.0,0.0,checkout not delayed,39.0,yes,39.0,yes
+565672,216148,connect,ended,-111.0,553717.0,150.0,checkout not delayed,-46.0,no,-196.0,no
+565728,374486,mobile,ended,50.0,569229.0,360.0,checkout delayed,46.0,yes,-314.0,no
+565815,298466,mobile,ended,-40.0,567964.0,150.0,checkout not delayed,-22.0,no,-172.0,no
+565991,407389,mobile,ended,-70.0,567843.0,150.0,checkout not delayed,93.0,yes,-57.0,no
+566349,384657,connect,ended,199.0,561722.0,690.0,checkout delayed,224.0,yes,-466.0,no
+567086,386325,mobile,ended,-181.0,566591.0,720.0,checkout not delayed,-31.0,no,-751.0,no
+567140,402308,mobile,ended,687.0,561807.0,0.0,checkout delayed,-3.0,no,-3.0,no
+567806,216701,mobile,canceled,,567644.0,690.0,checkout not delayed,-1408.0,no,-2098.0,no
+568251,404629,mobile,ended,789.0,565555.0,60.0,checkout delayed,101.0,yes,41.0,yes
+568659,317378,connect,canceled,,566412.0,600.0,checkout not delayed,-129.0,no,-729.0,no
+569293,364670,mobile,canceled,,568767.0,0.0,checkout not delayed,-78.0,no,-78.0,no
+570447,396289,mobile,ended,26.0,561080.0,180.0,checkout delayed,107.0,yes,-73.0,no
+572279,311943,mobile,ended,,571616.0,690.0,checkout not delayed,,no,,no
+572714,298466,mobile,ended,218.0,565815.0,30.0,checkout delayed,-40.0,no,-70.0,no
+574151,241021,connect,ended,3.0,572285.0,720.0,checkout delayed,-101.0,no,-821.0,no
+574638,414681,mobile,ended,7.0,572181.0,180.0,checkout delayed,147.0,yes,-33.0,no
+535939,386259,connect,ended,-151.0,538439.0,720.0,checkout not delayed,-171.0,no,-891.0,no
+537063,306601,mobile,ended,44.0,557027.0,420.0,checkout delayed,,no,,no
+537161,376760,connect,ended,-52.0,539557.0,90.0,checkout not delayed,21.0,yes,-69.0,no
+534414,349861,mobile,ended,-130.0,539791.0,690.0,checkout not delayed,670.0,yes,-20.0,no
+533591,377172,mobile,ended,33.0,540059.0,180.0,checkout delayed,1.0,yes,-179.0,no
+536697,316042,mobile,ended,-4.0,566005.0,0.0,checkout not delayed,354.0,yes,354.0,yes
+537210,401673,mobile,canceled,,537250.0,60.0,checkout not delayed,-663.0,no,-723.0,no
+538252,280227,connect,ended,-12.0,551501.0,660.0,checkout not delayed,-476.0,no,-1136.0,no
+538716,356673,mobile,ended,90.0,529144.0,0.0,checkout delayed,-5.0,no,-5.0,no
+538844,365926,connect,ended,-136.0,537243.0,300.0,checkout not delayed,242.0,yes,-58.0,no
+538994,324821,connect,ended,-66.0,529626.0,600.0,checkout not delayed,66.0,yes,-534.0,no
+541046,357005,mobile,ended,226.0,565872.0,420.0,checkout delayed,62.0,yes,-358.0,no
+541155,336886,mobile,ended,39.0,533474.0,30.0,checkout delayed,-12.0,no,-42.0,no
+566177,374741,connect,ended,-49.0,564143.0,690.0,checkout not delayed,-122.0,no,-812.0,no
+566395,414230,mobile,ended,24.0,562156.0,0.0,checkout delayed,249.0,yes,249.0,yes
+566944,327575,mobile,ended,-174.0,553521.0,540.0,checkout not delayed,53.0,yes,-487.0,no
+566973,349894,connect,ended,-592.0,563509.0,60.0,checkout not delayed,-432.0,no,-492.0,no
+540121,401077,mobile,ended,-29.0,534332.0,30.0,checkout not delayed,44.0,yes,14.0,yes
+540127,296967,connect,ended,7.0,519682.0,720.0,checkout delayed,-223.0,no,-943.0,no
+540239,409690,mobile,canceled,,539958.0,390.0,checkout not delayed,299.0,yes,-91.0,no
+541897,321801,mobile,ended,3.0,539969.0,150.0,checkout delayed,-37.0,no,-187.0,no
+543736,241021,connect,ended,-361.0,540311.0,30.0,checkout not delayed,48.0,yes,18.0,yes
+568143,300781,mobile,ended,126.0,563657.0,0.0,checkout delayed,-492.0,no,-492.0,no
+568526,305307,mobile,ended,30.0,554547.0,120.0,checkout delayed,70.0,yes,-50.0,no
+571394,405433,mobile,ended,107.0,561213.0,300.0,checkout delayed,124.0,yes,-176.0,no
+571591,415629,mobile,ended,-5.0,565345.0,90.0,checkout not delayed,-54.0,no,-144.0,no
+573622,390479,mobile,ended,5.0,570957.0,120.0,checkout delayed,7.0,yes,-113.0,no
+535647,317572,connect,ended,-89.0,533793.0,0.0,checkout not delayed,-17.0,no,-17.0,no
+535935,367535,mobile,ended,72.0,546067.0,270.0,checkout delayed,33.0,yes,-237.0,no
+537666,377509,mobile,ended,-65.0,538177.0,240.0,checkout not delayed,50.0,yes,-190.0,no
+538178,392368,connect,ended,1064.0,557772.0,720.0,checkout delayed,-61.0,no,-781.0,no
+539758,397599,mobile,ended,138.0,540797.0,0.0,checkout delayed,12.0,yes,12.0,yes
+540562,230201,connect,ended,-594.0,539340.0,180.0,checkout not delayed,-18.0,no,-198.0,no
+536203,409088,mobile,canceled,,541455.0,60.0,checkout not delayed,-172.0,no,-232.0,no
+537029,338584,connect,ended,-43.0,542364.0,0.0,checkout not delayed,-38.0,no,-38.0,no
+538756,359641,mobile,ended,-73.0,534964.0,720.0,checkout not delayed,-3.0,no,-723.0,no
+541079,356106,connect,ended,-24.0,531984.0,120.0,checkout not delayed,-605.0,no,-725.0,no
+542962,337219,connect,ended,18.0,537400.0,240.0,checkout delayed,1.0,yes,-239.0,no
+543343,248300,connect,ended,140.0,564185.0,450.0,checkout delayed,13.0,yes,-437.0,no
+559899,375621,connect,canceled,,558588.0,660.0,checkout not delayed,41.0,yes,-619.0,no
+560485,216576,connect,ended,-52.0,567020.0,0.0,checkout not delayed,-470.0,no,-470.0,no
+562582,409345,mobile,ended,-31.0,563062.0,30.0,checkout not delayed,4.0,yes,-26.0,no
+564075,401387,mobile,canceled,,552061.0,60.0,checkout not delayed,240.0,yes,180.0,yes
+564869,365926,connect,ended,41.0,565321.0,180.0,checkout delayed,-30.0,no,-210.0,no
+565646,377127,mobile,ended,45.0,563229.0,240.0,checkout delayed,-41.0,no,-281.0,no
+542207,368432,mobile,canceled,,556043.0,0.0,checkout not delayed,2.0,yes,2.0,yes
+542224,327336,mobile,canceled,,538452.0,0.0,checkout not delayed,64.0,yes,64.0,yes
+542891,325328,connect,ended,-163.0,549523.0,630.0,checkout not delayed,121.0,yes,-509.0,no
+543125,316042,mobile,ended,3.0,542232.0,720.0,checkout delayed,-226.0,no,-946.0,no
+543525,386259,connect,ended,11.0,541605.0,0.0,checkout delayed,1.0,yes,1.0,yes
+544201,301228,mobile,ended,-6.0,542164.0,540.0,checkout not delayed,-25.0,no,-565.0,no
+544327,317819,mobile,ended,22.0,523988.0,420.0,checkout delayed,86.0,yes,-334.0,no
+544402,366164,connect,ended,-18.0,554118.0,720.0,checkout not delayed,113.0,yes,-607.0,no
+544611,398802,mobile,ended,349.0,553900.0,690.0,checkout delayed,8.0,yes,-682.0,no
+544791,402562,connect,ended,85.0,554505.0,60.0,checkout delayed,-47.0,no,-107.0,no
+547640,392718,mobile,ended,,557889.0,720.0,checkout not delayed,-54.0,no,-774.0,no
+506546,351168,mobile,ended,,516147.0,480.0,checkout not delayed,,no,,no
+567623,391519,connect,ended,96.0,562244.0,720.0,checkout delayed,,no,,no
+567765,349655,mobile,ended,165.0,561557.0,0.0,checkout delayed,4.0,yes,4.0,yes
+568652,395204,connect,ended,142.0,563518.0,720.0,checkout delayed,-13.0,no,-733.0,no
+568822,386259,connect,ended,-42.0,567288.0,0.0,checkout not delayed,-86.0,no,-86.0,no
+569319,415157,mobile,ended,-53.0,563557.0,30.0,checkout not delayed,3.0,yes,-27.0,no
+570035,412698,mobile,ended,-67.0,557146.0,60.0,checkout not delayed,-8.0,no,-68.0,no
+571779,385073,mobile,ended,40.0,565610.0,690.0,checkout delayed,-18.0,no,-708.0,no
+529571,388795,mobile,ended,-1707.0,546969.0,120.0,checkout not delayed,104.0,yes,-16.0,no
+574019,374486,mobile,ended,42.0,565728.0,240.0,checkout delayed,50.0,yes,-190.0,no
+575497,356190,mobile,ended,702.0,574596.0,30.0,checkout delayed,10.0,yes,-20.0,no
+575539,294883,mobile,ended,85.0,572492.0,0.0,checkout delayed,9.0,yes,9.0,yes
+513740,338940,mobile,ended,83.0,565837.0,0.0,checkout delayed,-61.0,no,-61.0,no
+517377,401740,mobile,ended,,528723.0,60.0,checkout not delayed,404.0,yes,344.0,yes
+519027,298516,connect,ended,-39.0,549626.0,390.0,checkout not delayed,115.0,yes,-275.0,no
+534020,384040,connect,canceled,,550585.0,0.0,checkout not delayed,42.0,yes,42.0,yes
+527015,243721,mobile,canceled,,534917.0,120.0,checkout not delayed,131.0,yes,11.0,yes
+528111,375944,connect,ended,-29.0,534342.0,300.0,checkout not delayed,-71.0,no,-371.0,no
+534012,404774,mobile,ended,32.0,545232.0,300.0,checkout delayed,63.0,yes,-237.0,no
+537879,392683,connect,ended,-142.0,550313.0,0.0,checkout not delayed,-26.0,no,-26.0,no
+538120,392368,connect,ended,-103.0,535637.0,120.0,checkout not delayed,21.0,yes,-99.0,no
+538359,343808,connect,ended,38.0,537176.0,60.0,checkout delayed,-50.0,no,-110.0,no
+539009,392327,mobile,ended,274.0,521664.0,600.0,checkout delayed,-35.0,no,-635.0,no
+540003,409113,mobile,ended,7.0,540751.0,180.0,checkout delayed,204.0,yes,24.0,yes
+572285,241021,connect,ended,-101.0,571991.0,30.0,checkout not delayed,-14.0,no,-44.0,no
+574537,369648,connect,ended,-389.0,571606.0,120.0,checkout not delayed,-600.0,no,-720.0,no
+545757,388438,mobile,ended,-115.0,546278.0,0.0,checkout not delayed,-54.0,no,-54.0,no
+547006,296815,connect,ended,,545330.0,60.0,checkout not delayed,-37.0,no,-97.0,no
+547748,367164,mobile,ended,-347.0,523230.0,600.0,checkout not delayed,83.0,yes,-517.0,no
+544389,385629,connect,ended,23.0,517515.0,0.0,checkout delayed,33.0,yes,33.0,yes
+541605,386259,connect,ended,1.0,535939.0,660.0,checkout delayed,-151.0,no,-811.0,no
+542163,338243,connect,ended,-18.0,534021.0,90.0,checkout not delayed,-57.0,no,-147.0,no
+542649,248272,mobile,ended,1382.0,542179.0,90.0,checkout delayed,-376.0,no,-466.0,no
+543224,298429,connect,canceled,,540453.0,690.0,checkout not delayed,39.0,yes,-651.0,no
+544126,402194,mobile,ended,-29.0,514673.0,570.0,checkout not delayed,-52.0,no,-622.0,no
+544994,333107,mobile,ended,45.0,540939.0,180.0,checkout delayed,-17.0,no,-197.0,no
+545099,389599,mobile,ended,56.0,539042.0,0.0,checkout delayed,1500.0,yes,1500.0,yes
+545590,334190,connect,canceled,,538875.0,120.0,checkout not delayed,-875.0,no,-995.0,no
+528949,383144,connect,canceled,,540254.0,600.0,checkout not delayed,75.0,yes,-525.0,no
+529225,364411,mobile,ended,88.0,547571.0,180.0,checkout delayed,155.0,yes,-25.0,no
+533802,373893,connect,ended,-286.0,558560.0,0.0,checkout not delayed,-775.0,no,-775.0,no
+538615,403884,mobile,ended,27.0,540902.0,0.0,checkout delayed,-190.0,no,-190.0,no
+544271,335605,mobile,ended,40.0,534944.0,60.0,checkout delayed,-2.0,no,-62.0,no
+544692,405622,mobile,ended,39.0,522854.0,120.0,checkout delayed,58.0,yes,-62.0,no
+544748,212965,connect,canceled,,545863.0,150.0,checkout not delayed,-1095.0,no,-1245.0,no
+545045,377312,mobile,ended,22.0,563963.0,630.0,checkout delayed,84.0,yes,-546.0,no
+546031,318867,mobile,ended,18.0,530797.0,270.0,checkout delayed,28.0,yes,-242.0,no
+548763,334924,mobile,ended,66.0,534311.0,180.0,checkout delayed,320.0,yes,140.0,yes
+548903,360981,mobile,ended,221.0,549631.0,30.0,checkout delayed,-83.0,no,-113.0,no
+550033,285452,connect,ended,31.0,545931.0,0.0,checkout delayed,-71.0,no,-71.0,no
+551121,352393,connect,ended,39.0,548333.0,480.0,checkout delayed,,no,,no
+551337,314456,connect,ended,-37.0,556481.0,480.0,checkout not delayed,,no,,no
+546727,401262,mobile,ended,39.0,544217.0,90.0,checkout delayed,53.0,yes,-37.0,no
+547095,339540,mobile,ended,119.0,535528.0,60.0,checkout delayed,39.0,yes,-21.0,no
+547493,346697,mobile,ended,78.0,557319.0,690.0,checkout delayed,,no,,no
+549509,368432,mobile,canceled,,567818.0,630.0,checkout not delayed,-986.0,no,-1616.0,no
+549796,371572,connect,ended,-96.0,543535.0,60.0,checkout not delayed,-312.0,no,-372.0,no
+506452,393172,connect,ended,-93.0,555818.0,30.0,checkout not delayed,17.0,yes,-13.0,no
+514488,179304,mobile,ended,124.0,557954.0,0.0,checkout delayed,25.0,yes,25.0,yes
+528560,377119,connect,ended,-369.0,539582.0,120.0,checkout not delayed,98.0,yes,-22.0,no
+530110,216148,connect,ended,-211.0,541841.0,60.0,checkout not delayed,40.0,yes,-20.0,no
+549023,365926,connect,canceled,,550970.0,0.0,checkout not delayed,596.0,yes,596.0,yes
+550529,362531,connect,ended,-26.0,544688.0,660.0,checkout not delayed,334.0,yes,-326.0,no
+543210,402562,connect,ended,-107.0,538013.0,0.0,checkout not delayed,-37.0,no,-37.0,no
+543792,274598,mobile,ended,-199.0,536619.0,120.0,checkout not delayed,6.0,yes,-114.0,no
+544225,230201,connect,ended,-122.0,540562.0,30.0,checkout not delayed,-594.0,no,-624.0,no
+544945,340442,mobile,ended,48.0,538975.0,120.0,checkout delayed,-67.0,no,-187.0,no
+536387,310661,mobile,ended,5.0,539166.0,720.0,checkout delayed,-184.0,no,-904.0,no
+536765,347781,mobile,ended,-26.0,536981.0,600.0,checkout not delayed,5.0,yes,-595.0,no
+538116,289901,connect,ended,-92.0,532257.0,660.0,checkout not delayed,-157.0,no,-817.0,no
+538721,288611,mobile,ended,17.0,534242.0,60.0,checkout delayed,12.0,yes,-48.0,no
+552211,384040,connect,ended,-358.0,539551.0,0.0,checkout not delayed,-1.0,no,-1.0,no
+552741,407026,mobile,ended,,551060.0,630.0,checkout not delayed,,no,,no
+507521,321752,connect,ended,54.0,547204.0,420.0,checkout delayed,7.0,yes,-413.0,no
+526426,370907,mobile,ended,42.0,547543.0,0.0,checkout delayed,-16.0,no,-16.0,no
+535781,319373,connect,ended,-7.0,552184.0,90.0,checkout not delayed,-7.0,no,-97.0,no
+516252,284459,connect,ended,-42.0,535364.0,510.0,checkout not delayed,7.0,yes,-503.0,no
+517818,377172,mobile,ended,-49.0,551053.0,30.0,checkout not delayed,19.0,yes,-11.0,no
+518985,380833,mobile,ended,19.0,535338.0,240.0,checkout delayed,-16.0,no,-256.0,no
+529942,385128,mobile,ended,0.0,520000.0,120.0,checkout not delayed,29.0,yes,-91.0,no
+532779,349678,connect,ended,-80.0,538006.0,30.0,checkout not delayed,4.0,yes,-26.0,no
+539164,364464,connect,canceled,,537569.0,600.0,checkout not delayed,,no,,no
+539186,402083,connect,ended,-4.0,532634.0,510.0,checkout not delayed,-275.0,no,-785.0,no
+535239,164960,connect,ended,81.0,538412.0,360.0,checkout delayed,-17.0,no,-377.0,no
+537793,357875,mobile,ended,267.0,542111.0,0.0,checkout delayed,-14.0,no,-14.0,no
+538248,224967,mobile,ended,54.0,529692.0,0.0,checkout delayed,16.0,yes,16.0,yes
+538941,385178,connect,ended,241.0,540804.0,120.0,checkout delayed,34.0,yes,-86.0,no
+539018,347847,mobile,canceled,,542866.0,720.0,checkout not delayed,-152.0,no,-872.0,no
+548556,375553,mobile,ended,-216.0,561402.0,60.0,checkout not delayed,-8.0,no,-68.0,no
+548792,361564,mobile,ended,9.0,548637.0,60.0,checkout delayed,-175.0,no,-235.0,no
+549613,311707,connect,ended,-33.0,543933.0,0.0,checkout not delayed,-32.0,no,-32.0,no
+553518,317639,mobile,ended,-10.0,561611.0,120.0,checkout not delayed,39.0,yes,-81.0,no
+553735,359049,connect,ended,33.0,550645.0,390.0,checkout delayed,249.0,yes,-141.0,no
+549537,412219,mobile,ended,67.0,549114.0,540.0,checkout delayed,-12.0,no,-552.0,no
+550036,396532,mobile,ended,2943.0,546881.0,0.0,checkout delayed,12.0,yes,12.0,yes
+551485,388895,mobile,ended,196.0,551404.0,120.0,checkout delayed,48.0,yes,-72.0,no
+551631,293523,mobile,ended,28.0,547485.0,0.0,checkout delayed,18.0,yes,18.0,yes
+553385,358772,connect,ended,-71.0,543328.0,120.0,checkout not delayed,-9.0,no,-129.0,no
+553825,335276,connect,ended,-18.0,552800.0,150.0,checkout not delayed,-74.0,no,-224.0,no
+554330,392882,mobile,ended,142.0,543626.0,570.0,checkout delayed,-148.0,no,-718.0,no
+554470,392718,mobile,ended,-15.0,547640.0,60.0,checkout not delayed,,no,,no
+554673,383344,connect,ended,-9.0,553891.0,180.0,checkout not delayed,-27.0,no,-207.0,no
+554926,412226,mobile,ended,-11.0,560213.0,420.0,checkout not delayed,,no,,no
+555280,357875,mobile,ended,1357.0,547287.0,360.0,checkout delayed,-84.0,no,-444.0,no
+545797,371387,mobile,ended,1606.0,546641.0,60.0,checkout delayed,-1005.0,no,-1065.0,no
+546516,248889,connect,ended,-282.0,548781.0,0.0,checkout not delayed,-118.0,no,-118.0,no
+548293,405481,mobile,ended,80.0,532574.0,240.0,checkout delayed,-11.0,no,-251.0,no
+548465,369230,mobile,ended,-197.0,534486.0,690.0,checkout not delayed,-99.0,no,-789.0,no
+548906,312157,mobile,ended,-2.0,555893.0,690.0,checkout not delayed,-49.0,no,-739.0,no
+541602,383110,connect,ended,-36.0,539987.0,720.0,checkout not delayed,76.0,yes,-644.0,no
+541861,406413,mobile,ended,-46.0,540030.0,120.0,checkout not delayed,59.0,yes,-61.0,no
+542701,409005,mobile,ended,-12.0,541529.0,60.0,checkout not delayed,17.0,yes,-43.0,no
+543335,398876,mobile,ended,153.0,557295.0,540.0,checkout delayed,29.0,yes,-511.0,no
+544799,394928,connect,ended,-59.0,531562.0,210.0,checkout not delayed,-129.0,no,-339.0,no
+544864,357860,connect,ended,-52.0,540016.0,450.0,checkout not delayed,16.0,yes,-434.0,no
+545132,379539,mobile,canceled,,527161.0,90.0,checkout not delayed,,no,,no
+545560,258737,mobile,ended,59.0,542993.0,0.0,checkout delayed,39.0,yes,39.0,yes
+545760,383804,connect,ended,-25.0,552820.0,180.0,checkout not delayed,-4.0,no,-184.0,no
+545948,383344,connect,ended,83.0,519135.0,90.0,checkout delayed,69.0,yes,-21.0,no
+551368,359045,connect,ended,31.0,551957.0,30.0,checkout delayed,3.0,yes,-27.0,no
+551369,304392,connect,ended,-174.0,551492.0,630.0,checkout not delayed,-17.0,no,-647.0,no
+551784,409345,mobile,ended,-17.0,557381.0,60.0,checkout not delayed,14.0,yes,-46.0,no
+552111,313955,mobile,ended,-94.0,544602.0,300.0,checkout not delayed,42.0,yes,-258.0,no
+552169,412539,mobile,ended,-262.0,551183.0,270.0,checkout not delayed,19.0,yes,-251.0,no
+540408,373893,connect,ended,14.0,537659.0,450.0,checkout delayed,-4.0,no,-454.0,no
+540782,401387,mobile,ended,-60.0,521343.0,540.0,checkout not delayed,86.0,yes,-454.0,no
+541816,347464,connect,ended,-55.0,509094.0,720.0,checkout not delayed,-26.0,no,-746.0,no
+542034,280406,mobile,canceled,,540818.0,600.0,checkout not delayed,52.0,yes,-548.0,no
+535910,330289,mobile,canceled,,535048.0,360.0,checkout not delayed,,no,,no
+535520,374169,connect,canceled,,564202.0,600.0,checkout not delayed,,no,,no
+555973,399912,connect,ended,,553160.0,30.0,checkout not delayed,-67.0,no,-97.0,no
+556619,214635,connect,ended,2.0,540747.0,240.0,checkout delayed,-972.0,no,-1212.0,no
+556705,351660,connect,ended,69.0,558817.0,720.0,checkout delayed,-72.0,no,-792.0,no
+557536,407411,mobile,ended,8.0,555201.0,30.0,checkout delayed,-26.0,no,-56.0,no
+557540,375047,connect,ended,-69.0,552358.0,630.0,checkout not delayed,-7.0,no,-637.0,no
+557461,194343,connect,ended,-29.0,505628.0,90.0,checkout not delayed,-60.0,no,-150.0,no
+551363,403265,mobile,ended,,549825.0,690.0,checkout not delayed,-18.0,no,-708.0,no
+551617,349894,connect,ended,-29.0,549019.0,270.0,checkout not delayed,32.0,yes,-238.0,no
+536952,241021,connect,ended,-39.0,542244.0,720.0,checkout not delayed,80.0,yes,-640.0,no
+537578,280805,connect,canceled,,534344.0,720.0,checkout not delayed,18.0,yes,-702.0,no
+536587,404906,mobile,canceled,,539334.0,660.0,checkout not delayed,-55.0,no,-715.0,no
+536887,350149,mobile,ended,-47.0,542853.0,30.0,checkout not delayed,-78.0,no,-108.0,no
+537126,359049,connect,ended,-156.0,539408.0,720.0,checkout not delayed,-6.0,no,-726.0,no
+539640,368432,mobile,ended,-12.0,535981.0,0.0,checkout not delayed,2.0,yes,2.0,yes
+540078,351660,connect,ended,20.0,541498.0,240.0,checkout delayed,3.0,yes,-237.0,no
+541514,383309,mobile,canceled,,546477.0,30.0,checkout not delayed,16.0,yes,-14.0,no
+541565,228359,connect,ended,-10.0,535991.0,60.0,checkout not delayed,-225.0,no,-285.0,no
+541898,358978,connect,ended,-45.0,542766.0,540.0,checkout not delayed,-8.0,no,-548.0,no
+542274,368404,mobile,ended,16.0,523506.0,720.0,checkout delayed,5.0,yes,-715.0,no
+542826,290600,connect,ended,-14.0,542197.0,0.0,checkout not delayed,-12.0,no,-12.0,no
+549176,390481,mobile,ended,10.0,537874.0,330.0,checkout delayed,-31.0,no,-361.0,no
+549636,336426,mobile,ended,1645.0,549493.0,0.0,checkout delayed,283.0,yes,283.0,yes
+549845,224728,mobile,ended,28.0,551198.0,30.0,checkout delayed,48.0,yes,18.0,yes
+550306,353425,connect,ended,-58.0,555658.0,720.0,checkout not delayed,-89.0,no,-809.0,no
+551255,383997,mobile,ended,34.0,525663.0,720.0,checkout delayed,59.0,yes,-661.0,no
+551933,391325,mobile,ended,-121.0,543706.0,60.0,checkout not delayed,,no,,no
+552649,384479,mobile,ended,47.0,546050.0,180.0,checkout delayed,-778.0,no,-958.0,no
+553030,374626,mobile,ended,-82.0,548963.0,630.0,checkout not delayed,48.0,yes,-582.0,no
+553531,376901,connect,ended,-74.0,565868.0,30.0,checkout not delayed,-19.0,no,-49.0,no
+541634,214635,connect,canceled,,540747.0,420.0,checkout not delayed,-972.0,no,-1392.0,no
+543138,391379,connect,ended,318.0,538099.0,60.0,checkout delayed,65.0,yes,5.0,yes
+551825,376901,mobile,ended,-31.0,543606.0,60.0,checkout not delayed,18.0,yes,-42.0,no
+551955,351168,mobile,ended,,538688.0,120.0,checkout not delayed,69.0,yes,-51.0,no
+554279,301181,mobile,ended,572.0,553087.0,60.0,checkout delayed,-87.0,no,-147.0,no
+554448,300505,connect,ended,38.0,555637.0,30.0,checkout delayed,-1.0,no,-31.0,no
+554534,407389,mobile,ended,42.0,553108.0,600.0,checkout delayed,11.0,yes,-589.0,no
+543560,394875,mobile,ended,2322.0,540428.0,0.0,checkout delayed,6.0,yes,6.0,yes
+543480,192575,connect,ended,120.0,532216.0,180.0,checkout delayed,1.0,yes,-179.0,no
+552987,400689,mobile,ended,7.0,559416.0,0.0,checkout delayed,7.0,yes,7.0,yes
+553940,390068,connect,ended,-3.0,556203.0,180.0,checkout not delayed,169.0,yes,-11.0,no
+554066,410571,mobile,ended,-320.0,548898.0,120.0,checkout not delayed,47.0,yes,-73.0,no
+554078,382821,connect,ended,-15.0,552892.0,420.0,checkout not delayed,-48.0,no,-468.0,no
+554897,412989,mobile,ended,,563395.0,240.0,checkout not delayed,,no,,no
+556882,380479,mobile,canceled,,558724.0,0.0,checkout not delayed,13.0,yes,13.0,yes
+557062,374298,connect,ended,58.0,556079.0,240.0,checkout delayed,-1019.0,no,-1259.0,no
+557956,296227,mobile,ended,220.0,553198.0,30.0,checkout delayed,252.0,yes,222.0,yes
+544607,402562,connect,ended,58.0,548088.0,0.0,checkout delayed,-111.0,no,-111.0,no
+544614,379889,mobile,ended,131.0,526468.0,150.0,checkout delayed,-37.0,no,-187.0,no
+544946,393126,mobile,ended,584.0,540436.0,90.0,checkout delayed,119.0,yes,29.0,yes
+545012,200366,mobile,ended,228.0,534183.0,240.0,checkout delayed,21.0,yes,-219.0,no
+545483,406927,mobile,ended,4.0,538253.0,120.0,checkout delayed,11.0,yes,-109.0,no
+515799,392368,connect,ended,-151.0,538120.0,510.0,checkout not delayed,-103.0,no,-613.0,no
+522771,358772,connect,ended,-43.0,557012.0,60.0,checkout not delayed,-29.0,no,-89.0,no
+523194,216576,connect,ended,-163.0,548778.0,120.0,checkout not delayed,-1.0,no,-121.0,no
+534119,392656,mobile,canceled,,554740.0,0.0,checkout not delayed,,no,,no
+535771,336754,mobile,ended,140.0,538215.0,0.0,checkout delayed,-26.0,no,-26.0,no
+538722,176670,connect,ended,-121.0,538870.0,30.0,checkout not delayed,-30.0,no,-60.0,no
+539109,313432,mobile,ended,58.0,532031.0,60.0,checkout delayed,62.0,yes,2.0,yes
+535887,351393,connect,ended,90.0,541454.0,720.0,checkout delayed,254.0,yes,-466.0,no
+538748,243721,mobile,ended,11.0,534917.0,120.0,checkout delayed,131.0,yes,11.0,yes
+538773,241021,connect,ended,55.0,540159.0,0.0,checkout delayed,-204.0,no,-204.0,no
+539506,390656,connect,ended,11.0,513950.0,0.0,checkout delayed,-2.0,no,-2.0,no
+540132,397838,mobile,ended,-15.0,526192.0,720.0,checkout not delayed,10.0,yes,-710.0,no
+540293,348462,mobile,ended,13.0,511557.0,360.0,checkout delayed,-4.0,no,-364.0,no
+542067,406161,mobile,canceled,,556375.0,480.0,checkout not delayed,9.0,yes,-471.0,no
+542755,334190,connect,ended,60.0,534169.0,0.0,checkout delayed,25.0,yes,25.0,yes
+542977,364530,mobile,ended,-41.0,540811.0,0.0,checkout not delayed,-30.0,no,-30.0,no
+543054,388895,mobile,ended,137.0,545117.0,600.0,checkout delayed,-118.0,no,-718.0,no
+559859,310049,mobile,ended,7.0,554407.0,120.0,checkout delayed,76.0,yes,-44.0,no
+560146,275364,connect,canceled,,553244.0,90.0,checkout not delayed,-880.0,no,-970.0,no
+560686,370907,mobile,ended,,526426.0,600.0,checkout not delayed,42.0,yes,-558.0,no
+561761,364907,connect,ended,-78.0,560285.0,720.0,checkout not delayed,-169.0,no,-889.0,no
+559709,379889,mobile,ended,-2.0,554879.0,90.0,checkout not delayed,14.0,yes,-76.0,no
+560278,362187,connect,ended,-151.0,559898.0,690.0,checkout not delayed,-8.0,no,-698.0,no
+560319,390467,connect,ended,-61.0,554129.0,720.0,checkout not delayed,1.0,yes,-719.0,no
+560568,390702,connect,ended,-106.0,549612.0,720.0,checkout not delayed,2.0,yes,-718.0,no
+560606,402562,connect,ended,,544791.0,630.0,checkout not delayed,85.0,yes,-545.0,no
+560790,173061,connect,ended,,559663.0,90.0,checkout not delayed,-21.0,no,-111.0,no
+555434,385378,mobile,ended,1634.0,553002.0,210.0,checkout delayed,9.0,yes,-201.0,no
+555762,181625,connect,ended,39.0,564963.0,540.0,checkout delayed,180.0,yes,-360.0,no
+557838,383804,connect,ended,117.0,545760.0,60.0,checkout delayed,-25.0,no,-85.0,no
+558833,192643,mobile,ended,,558823.0,0.0,checkout not delayed,,no,,no
+559702,400709,mobile,ended,,557217.0,300.0,checkout not delayed,,no,,no
+559759,410052,mobile,ended,-56.0,556710.0,600.0,checkout not delayed,70.0,yes,-530.0,no
+560031,297105,connect,ended,434.0,558934.0,720.0,checkout delayed,-102.0,no,-822.0,no
+560896,391379,connect,ended,-37.0,559579.0,150.0,checkout not delayed,8.0,yes,-142.0,no
+560926,383344,connect,canceled,,560740.0,450.0,checkout not delayed,17.0,yes,-433.0,no
+561664,403240,connect,ended,-232.0,561032.0,630.0,checkout not delayed,-1.0,no,-631.0,no
+543807,340616,connect,canceled,,543796.0,510.0,checkout not delayed,17.0,yes,-493.0,no
+543910,314456,connect,ended,56.0,542971.0,0.0,checkout delayed,-26.0,no,-26.0,no
+550027,384983,mobile,ended,21.0,538603.0,420.0,checkout delayed,169.0,yes,-251.0,no
+550185,386259,connect,ended,15.0,547975.0,180.0,checkout delayed,27.0,yes,-153.0,no
+550407,341861,connect,ended,-37.0,551209.0,120.0,checkout not delayed,-15.0,no,-135.0,no
+550411,323762,mobile,ended,17.0,549767.0,600.0,checkout delayed,-222.0,no,-822.0,no
+550833,409598,mobile,canceled,,548670.0,720.0,checkout not delayed,,no,,no
+551674,255757,connect,canceled,,542843.0,690.0,checkout not delayed,-231.0,no,-921.0,no
+552189,321170,mobile,ended,12.0,537078.0,300.0,checkout delayed,22.0,yes,-278.0,no
+553402,386413,connect,ended,-37.0,551633.0,600.0,checkout not delayed,58.0,yes,-542.0,no
+553409,402654,mobile,ended,,549265.0,570.0,checkout not delayed,,no,,no
+544361,400171,mobile,ended,16.0,534370.0,0.0,checkout delayed,-69.0,no,-69.0,no
+544753,380478,mobile,ended,810.0,526537.0,0.0,checkout delayed,747.0,yes,747.0,yes
+544923,380038,mobile,ended,28.0,536646.0,600.0,checkout delayed,88.0,yes,-512.0,no
+543713,355444,connect,ended,-36.0,541691.0,120.0,checkout not delayed,5.0,yes,-115.0,no
+543857,343003,mobile,ended,,563709.0,720.0,checkout not delayed,,no,,no
+544803,299063,connect,ended,-24.0,563652.0,30.0,checkout not delayed,-22.0,no,-52.0,no
+545828,372027,mobile,ended,-60.0,540875.0,0.0,checkout not delayed,-12.0,no,-12.0,no
+545899,295349,mobile,ended,,541564.0,480.0,checkout not delayed,,no,,no
+558387,399575,connect,ended,81.0,552753.0,0.0,checkout delayed,-43.0,no,-43.0,no
+558504,195467,mobile,ended,,554248.0,450.0,checkout not delayed,,no,,no
+559282,314456,connect,ended,-106.0,566613.0,60.0,checkout not delayed,10.0,yes,-50.0,no
+559396,368604,connect,ended,-29.0,546242.0,90.0,checkout not delayed,2.0,yes,-88.0,no
+559476,404041,connect,ended,-71.0,546640.0,720.0,checkout not delayed,-44.0,no,-764.0,no
+559800,362498,mobile,ended,75.0,551850.0,150.0,checkout delayed,26.0,yes,-124.0,no
+560169,367919,connect,ended,15.0,554745.0,0.0,checkout delayed,-32.0,no,-32.0,no
+540035,358772,connect,ended,51.0,537504.0,540.0,checkout delayed,-43.0,no,-583.0,no
+543665,397413,mobile,ended,7.0,541444.0,30.0,checkout delayed,901.0,yes,871.0,yes
+543931,190291,connect,ended,-173.0,535349.0,510.0,checkout not delayed,-37.0,no,-547.0,no
+543965,192179,connect,canceled,,526733.0,120.0,checkout not delayed,-94.0,no,-214.0,no
+544576,377119,connect,ended,-2.0,542935.0,360.0,checkout not delayed,16.0,yes,-344.0,no
+544972,407389,mobile,ended,41.0,529569.0,270.0,checkout delayed,242.0,yes,-28.0,no
+545005,362339,connect,ended,13.0,538954.0,570.0,checkout delayed,-914.0,no,-1484.0,no
+545105,320780,mobile,ended,167.0,540181.0,690.0,checkout delayed,28.0,yes,-662.0,no
+545211,310661,mobile,ended,10.0,536387.0,450.0,checkout delayed,5.0,yes,-445.0,no
+545582,382060,mobile,ended,6606.0,544670.0,660.0,checkout delayed,-27.0,no,-687.0,no
+546592,296967,connect,canceled,,545025.0,240.0,checkout not delayed,415.0,yes,175.0,yes
+537302,380813,mobile,ended,-34.0,543359.0,660.0,checkout not delayed,594.0,yes,-66.0,no
+537401,408927,mobile,ended,4.0,546980.0,60.0,checkout delayed,11.0,yes,-49.0,no
+563312,347873,connect,ended,-44.0,555622.0,570.0,checkout not delayed,-154.0,no,-724.0,no
+563644,192643,mobile,ended,,563362.0,180.0,checkout not delayed,,no,,no
+563830,361262,mobile,ended,-274.0,564208.0,270.0,checkout not delayed,90.0,yes,-180.0,no
+564480,415326,mobile,ended,,562579.0,600.0,checkout not delayed,,no,,no
+565162,342699,connect,ended,52.0,564294.0,270.0,checkout delayed,,no,,no
+566054,390729,mobile,ended,17.0,556355.0,90.0,checkout delayed,,no,,no
+566342,383443,connect,ended,-598.0,564616.0,480.0,checkout not delayed,-113.0,no,-593.0,no
+566561,342699,connect,ended,-13.0,564845.0,0.0,checkout not delayed,-61.0,no,-61.0,no
+566606,415533,mobile,ended,-1.0,566705.0,660.0,checkout not delayed,-17.0,no,-677.0,no
+562514,272430,connect,ended,-25.0,562848.0,0.0,checkout not delayed,-63.0,no,-63.0,no
+562896,376677,connect,canceled,,563347.0,600.0,checkout not delayed,-212.0,no,-812.0,no
+563251,383720,connect,ended,-33.0,554559.0,720.0,checkout not delayed,19.0,yes,-701.0,no
+563305,406554,connect,canceled,,561185.0,150.0,checkout not delayed,-5.0,no,-155.0,no
+567472,223850,mobile,canceled,,561253.0,210.0,checkout not delayed,83.0,yes,-127.0,no
+567702,330679,mobile,ended,,549583.0,0.0,checkout not delayed,39.0,yes,39.0,yes
+568014,413333,mobile,ended,94.0,561744.0,720.0,checkout delayed,-3.0,no,-723.0,no
+519066,331903,mobile,ended,51.0,509729.0,210.0,checkout delayed,19.0,yes,-191.0,no
+520498,195467,mobile,ended,-2676.0,543363.0,660.0,checkout not delayed,,no,,no
+545732,374684,mobile,ended,-226.0,542561.0,720.0,checkout not delayed,-1.0,no,-721.0,no
+546201,307439,mobile,ended,625.0,545098.0,720.0,checkout delayed,-45.0,no,-765.0,no
+546870,377700,mobile,ended,36.0,552710.0,90.0,checkout delayed,5.0,yes,-85.0,no
+546958,405005,connect,canceled,,546959.0,570.0,checkout not delayed,38.0,yes,-532.0,no
+547783,194343,connect,ended,-61.0,545064.0,30.0,checkout not delayed,74.0,yes,44.0,yes
+547797,397838,mobile,ended,14.0,542249.0,90.0,checkout delayed,-84.0,no,-174.0,no
+548232,349678,connect,ended,-100.0,547238.0,180.0,checkout not delayed,-652.0,no,-832.0,no
+549714,346208,connect,ended,-126.0,553005.0,240.0,checkout not delayed,-6.0,no,-246.0,no
+550616,368432,mobile,ended,-65.0,527378.0,0.0,checkout not delayed,0.0,no,0.0,no
+551143,390467,connect,canceled,,548851.0,60.0,checkout not delayed,-16.0,no,-76.0,no
+551327,376626,mobile,ended,-207.0,538892.0,660.0,checkout not delayed,19.0,yes,-641.0,no
+551540,408910,mobile,ended,79.0,536101.0,720.0,checkout delayed,-60.0,no,-780.0,no
+555451,390702,connect,ended,175.0,560568.0,120.0,checkout delayed,-106.0,no,-226.0,no
+555637,300505,connect,ended,-1.0,545888.0,60.0,checkout not delayed,-137.0,no,-197.0,no
+549269,375307,mobile,ended,39.0,535903.0,720.0,checkout delayed,67.0,yes,-653.0,no
+549387,338940,mobile,ended,,548303.0,60.0,checkout not delayed,-101.0,no,-161.0,no
+550302,411454,mobile,ended,,546923.0,480.0,checkout not delayed,,no,,no
+550575,402078,mobile,ended,-139.0,543717.0,0.0,checkout not delayed,-7.0,no,-7.0,no
+551081,341630,mobile,ended,731.0,549811.0,690.0,checkout delayed,114.0,yes,-576.0,no
+560221,364652,connect,canceled,,551511.0,60.0,checkout not delayed,-81.0,no,-141.0,no
+560431,284713,connect,ended,-45.0,567229.0,600.0,checkout not delayed,-4.0,no,-604.0,no
+560640,410939,connect,canceled,,548152.0,60.0,checkout not delayed,,no,,no
+560796,407419,connect,ended,26.0,545608.0,0.0,checkout delayed,-54.0,no,-54.0,no
+548172,361156,mobile,ended,-29.0,522848.0,300.0,checkout not delayed,-5.0,no,-305.0,no
+549107,350873,connect,ended,-4.0,547903.0,0.0,checkout not delayed,-215.0,no,-215.0,no
+550534,226317,mobile,ended,,544324.0,0.0,checkout not delayed,,no,,no
+561749,304775,connect,canceled,,558858.0,510.0,checkout not delayed,18.0,yes,-492.0,no
+562317,345080,connect,ended,-9.0,563786.0,210.0,checkout not delayed,-80.0,no,-290.0,no
+562760,348462,mobile,ended,,562721.0,0.0,checkout not delayed,11.0,yes,11.0,yes
+559276,403270,mobile,ended,,559235.0,480.0,checkout not delayed,-635.0,no,-1115.0,no
+560369,410939,connect,canceled,,548152.0,0.0,checkout not delayed,,no,,no
+560466,404731,mobile,ended,1250.0,556577.0,0.0,checkout delayed,287.0,yes,287.0,yes
+560754,412378,mobile,ended,146.0,560199.0,240.0,checkout delayed,108.0,yes,-132.0,no
+561590,270867,connect,ended,22.0,554496.0,510.0,checkout delayed,89.0,yes,-421.0,no
+562498,351258,mobile,ended,-20.0,544878.0,630.0,checkout not delayed,29.0,yes,-601.0,no
+562833,360551,connect,ended,-10.0,560777.0,330.0,checkout not delayed,-25.0,no,-355.0,no
+552224,393799,mobile,ended,290.0,531793.0,120.0,checkout delayed,39.0,yes,-81.0,no
+553066,300505,connect,ended,77.0,552707.0,90.0,checkout delayed,-92.0,no,-182.0,no
+553100,412093,mobile,ended,67.0,557175.0,120.0,checkout delayed,74.0,yes,-46.0,no
+553407,407389,mobile,ended,341.0,549457.0,660.0,checkout delayed,-588.0,no,-1248.0,no
+554605,265239,connect,ended,-431.0,551587.0,90.0,checkout not delayed,12.0,yes,-78.0,no
+540063,408117,mobile,ended,9787.0,540574.0,90.0,checkout delayed,0.0,no,-90.0,no
+540124,380859,mobile,ended,26.0,539717.0,150.0,checkout delayed,164.0,yes,14.0,yes
+540312,223640,mobile,ended,,541480.0,60.0,checkout not delayed,,no,,no
+541160,380833,mobile,ended,-22.0,556918.0,60.0,checkout not delayed,35.0,yes,-25.0,no
+553964,381012,mobile,ended,-707.0,547734.0,720.0,checkout not delayed,83.0,yes,-637.0,no
+554608,305525,connect,ended,-13.0,552965.0,270.0,checkout not delayed,-6.0,no,-276.0,no
+555646,407465,connect,ended,-6.0,553623.0,30.0,checkout not delayed,-59.0,no,-89.0,no
+556448,285452,connect,ended,14.0,556131.0,30.0,checkout delayed,-74.0,no,-104.0,no
+568111,205041,mobile,canceled,,564302.0,390.0,checkout not delayed,41.0,yes,-349.0,no
+568133,224728,mobile,canceled,,567789.0,30.0,checkout not delayed,-130.0,no,-160.0,no
+568627,405142,connect,ended,-45.0,560761.0,660.0,checkout not delayed,-67.0,no,-727.0,no
+569087,193097,connect,canceled,,566731.0,0.0,checkout not delayed,252.0,yes,252.0,yes
+569260,371572,connect,canceled,,554835.0,0.0,checkout not delayed,-11.0,no,-11.0,no
+569383,407636,connect,ended,55.0,560335.0,60.0,checkout delayed,-159.0,no,-219.0,no
+569932,321322,mobile,ended,64.0,570206.0,0.0,checkout delayed,13.0,yes,13.0,yes
+572423,225617,mobile,ended,,570969.0,660.0,checkout not delayed,,no,,no
+523462,186958,mobile,ended,-61.0,554177.0,690.0,checkout not delayed,-40.0,no,-730.0,no
+567038,407465,connect,ended,-3.0,566140.0,180.0,checkout not delayed,41.0,yes,-139.0,no
+567347,328263,mobile,ended,-59.0,565243.0,150.0,checkout not delayed,10.0,yes,-140.0,no
+567859,310918,connect,ended,-14.0,562013.0,600.0,checkout not delayed,15.0,yes,-585.0,no
+568031,394043,mobile,ended,665.0,565470.0,120.0,checkout delayed,15.0,yes,-105.0,no
+568084,214635,connect,ended,-22.0,549978.0,540.0,checkout not delayed,-32.0,no,-572.0,no
+568317,314220,mobile,ended,-106.0,561970.0,720.0,checkout not delayed,-8.0,no,-728.0,no
+569062,364882,connect,ended,42.0,566930.0,0.0,checkout delayed,-106.0,no,-106.0,no
+569501,295830,connect,ended,-9.0,557587.0,120.0,checkout not delayed,-404.0,no,-524.0,no
+571752,402235,mobile,ended,34.0,557648.0,0.0,checkout delayed,91.0,yes,91.0,yes
+575013,293910,mobile,ended,-15.0,563147.0,630.0,checkout not delayed,12.0,yes,-618.0,no
+568757,379316,mobile,ended,-5.0,567008.0,480.0,checkout not delayed,6.0,yes,-474.0,no
+569032,360474,connect,canceled,,565633.0,0.0,checkout not delayed,,no,,no
+570357,336886,mobile,canceled,,567161.0,690.0,checkout not delayed,-29.0,no,-719.0,no
+571135,403962,connect,ended,56.0,563253.0,480.0,checkout delayed,-139.0,no,-619.0,no
+555952,363386,mobile,ended,-8.0,555902.0,300.0,checkout not delayed,131.0,yes,-169.0,no
+556238,399603,mobile,ended,-29.0,560315.0,300.0,checkout not delayed,-334.0,no,-634.0,no
+556334,350149,mobile,ended,228.0,545622.0,330.0,checkout delayed,105.0,yes,-225.0,no
+557592,398586,connect,canceled,,557631.0,240.0,checkout not delayed,-38.0,no,-278.0,no
+558052,400078,mobile,ended,,561330.0,60.0,checkout not delayed,,no,,no
+558627,305525,connect,ended,8.0,559997.0,0.0,checkout delayed,6.0,yes,6.0,yes
+559139,383110,connect,ended,219.0,558448.0,570.0,checkout delayed,64.0,yes,-506.0,no
+559798,376840,connect,ended,-48.0,558702.0,60.0,checkout not delayed,-164.0,no,-224.0,no
+560901,256882,mobile,ended,4.0,560362.0,480.0,checkout delayed,14.0,yes,-466.0,no
+562874,349171,connect,ended,13.0,561815.0,600.0,checkout delayed,-493.0,no,-1093.0,no
+541776,264348,mobile,ended,37.0,539983.0,630.0,checkout delayed,-11.0,no,-641.0,no
+542651,336314,mobile,ended,78.0,535888.0,60.0,checkout delayed,7.0,yes,-53.0,no
+543005,396483,connect,ended,-152.0,542616.0,0.0,checkout not delayed,4.0,yes,4.0,yes
+543281,363387,mobile,ended,-86.0,540115.0,0.0,checkout not delayed,-38.0,no,-38.0,no
+543497,341119,connect,ended,2.0,543297.0,30.0,checkout delayed,66.0,yes,36.0,yes
+543911,349678,connect,ended,132.0,532779.0,0.0,checkout delayed,-80.0,no,-80.0,no
+543920,403265,mobile,ended,-108.0,534967.0,60.0,checkout not delayed,-11.0,no,-71.0,no
+544075,353270,mobile,ended,-2.0,533945.0,150.0,checkout not delayed,130.0,yes,-20.0,no
+544080,289901,connect,ended,-170.0,548270.0,600.0,checkout not delayed,-473.0,no,-1073.0,no
+544346,377509,mobile,ended,3.0,544659.0,0.0,checkout delayed,-112.0,no,-112.0,no
+544367,381684,mobile,ended,41.0,543618.0,210.0,checkout delayed,10.0,yes,-200.0,no
+544603,401871,connect,ended,246.0,558206.0,0.0,checkout delayed,-77.0,no,-77.0,no
+548079,364890,mobile,canceled,,547164.0,450.0,checkout not delayed,597.0,yes,147.0,yes
+549738,337582,mobile,ended,6.0,521066.0,720.0,checkout delayed,,no,,no
+549935,408639,mobile,ended,42.0,545149.0,240.0,checkout delayed,37.0,yes,-203.0,no
+550172,399973,mobile,ended,30.0,545415.0,60.0,checkout delayed,-69.0,no,-129.0,no
+528135,363936,mobile,ended,-71.0,524255.0,240.0,checkout not delayed,53.0,yes,-187.0,no
+534419,362595,mobile,ended,28.0,538769.0,120.0,checkout delayed,6.0,yes,-114.0,no
+534678,383344,connect,ended,164.0,563620.0,240.0,checkout delayed,74.0,yes,-166.0,no
+510250,317024,connect,ended,-98.0,555935.0,270.0,checkout not delayed,50.0,yes,-220.0,no
+519298,352528,connect,ended,295.0,540649.0,480.0,checkout delayed,90.0,yes,-390.0,no
+520824,396532,mobile,ended,-365.0,536007.0,90.0,checkout not delayed,46.0,yes,-44.0,no
+526953,340333,connect,ended,-111.0,537953.0,300.0,checkout not delayed,-13.0,no,-313.0,no
+532405,380833,mobile,ended,-5.0,538592.0,30.0,checkout not delayed,-544.0,no,-574.0,no
+563330,414410,mobile,canceled,,563358.0,60.0,checkout not delayed,15.0,yes,-45.0,no
+563460,410218,mobile,ended,-30.0,562205.0,300.0,checkout not delayed,-124.0,no,-424.0,no
+563901,376491,connect,ended,-170.0,559165.0,240.0,checkout not delayed,90.0,yes,-150.0,no
+553900,398802,mobile,ended,8.0,540217.0,0.0,checkout delayed,-988.0,no,-988.0,no
+554042,260745,mobile,ended,72.0,563190.0,30.0,checkout delayed,262.0,yes,232.0,yes
+554396,402078,mobile,ended,388.0,547517.0,630.0,checkout delayed,67.0,yes,-563.0,no
+555810,303930,mobile,ended,61.0,549332.0,630.0,checkout delayed,53.0,yes,-577.0,no
+555861,361518,mobile,ended,-100.0,563287.0,30.0,checkout not delayed,22.0,yes,-8.0,no
+516589,362187,connect,ended,74.0,564118.0,210.0,checkout delayed,-8.0,no,-218.0,no
+526733,192179,connect,ended,-94.0,541656.0,720.0,checkout not delayed,-58.0,no,-778.0,no
+564685,283930,mobile,ended,33.0,563173.0,270.0,checkout delayed,264.0,yes,-6.0,no
+565100,374741,connect,ended,-71.0,566177.0,0.0,checkout not delayed,-49.0,no,-49.0,no
+565445,353138,mobile,ended,71.0,563150.0,120.0,checkout delayed,60.0,yes,-60.0,no
+565569,310444,connect,ended,-110.0,561408.0,570.0,checkout not delayed,-54.0,no,-624.0,no
+535011,369881,connect,ended,5.0,506161.0,120.0,checkout delayed,6.0,yes,-114.0,no
+536702,409088,mobile,ended,38.0,541455.0,60.0,checkout delayed,-172.0,no,-232.0,no
+536816,360902,mobile,ended,-12.0,535641.0,450.0,checkout not delayed,,no,,no
+537439,305525,connect,ended,-181.0,531276.0,660.0,checkout not delayed,-145.0,no,-805.0,no
+538939,222934,mobile,ended,9.0,543854.0,60.0,checkout delayed,-17.0,no,-77.0,no
+539530,279800,mobile,canceled,,540451.0,0.0,checkout not delayed,-19.0,no,-19.0,no
+539588,392368,connect,ended,-226.0,544319.0,60.0,checkout not delayed,-484.0,no,-544.0,no
+540523,342699,connect,ended,42.0,537316.0,120.0,checkout delayed,66.0,yes,-54.0,no
+541437,314456,connect,canceled,,546501.0,0.0,checkout not delayed,-210.0,no,-210.0,no
+542810,390729,mobile,ended,-121.0,540933.0,0.0,checkout not delayed,-14.0,no,-14.0,no
+543524,195986,mobile,ended,26.0,539274.0,0.0,checkout delayed,15.0,yes,15.0,yes
+543533,356106,connect,canceled,,541079.0,60.0,checkout not delayed,-24.0,no,-84.0,no
+550857,405420,mobile,ended,112.0,553313.0,360.0,checkout delayed,260.0,yes,-100.0,no
+550907,334190,connect,canceled,,549759.0,0.0,checkout not delayed,142.0,yes,142.0,yes
+559492,339475,mobile,ended,-3.0,555193.0,270.0,checkout not delayed,16.0,yes,-254.0,no
+560076,352528,connect,ended,-102.0,561362.0,30.0,checkout not delayed,-21.0,no,-51.0,no
+545169,352650,connect,ended,49.0,540370.0,120.0,checkout delayed,-322.0,no,-442.0,no
+545586,384396,connect,canceled,,553994.0,60.0,checkout not delayed,120.0,yes,60.0,yes
+562971,396777,mobile,ended,7.0,558913.0,420.0,checkout delayed,19.0,yes,-401.0,no
+563634,360418,mobile,ended,11.0,544591.0,480.0,checkout delayed,-22.0,no,-502.0,no
+564845,342699,connect,ended,-61.0,565162.0,510.0,checkout not delayed,52.0,yes,-458.0,no
+564913,407315,mobile,ended,-172.0,565399.0,0.0,checkout not delayed,70.0,yes,70.0,yes
+566664,408140,mobile,ended,-115.0,549726.0,660.0,checkout not delayed,72.0,yes,-588.0,no
+566710,373893,connect,ended,122.0,561416.0,420.0,checkout delayed,-194.0,no,-614.0,no
+567126,396435,connect,ended,-1.0,535053.0,420.0,checkout not delayed,-81.0,no,-501.0,no
+540134,314456,connect,ended,62.0,543910.0,60.0,checkout delayed,56.0,yes,-4.0,no
+566043,309070,connect,ended,2.0,560738.0,300.0,checkout delayed,-37.0,no,-337.0,no
+566181,366164,connect,ended,-24.0,570155.0,30.0,checkout not delayed,-130.0,no,-160.0,no
+567979,347873,connect,canceled,,543790.0,30.0,checkout not delayed,-200.0,no,-230.0,no
+569130,380813,mobile,ended,-10.0,551354.0,390.0,checkout not delayed,14.0,yes,-376.0,no
+571119,355444,connect,ended,-555.0,570983.0,150.0,checkout not delayed,-61.0,no,-211.0,no
+533898,301301,connect,canceled,,557078.0,360.0,checkout not delayed,104.0,yes,-256.0,no
+537967,335276,connect,ended,46.0,540855.0,0.0,checkout delayed,29.0,yes,29.0,yes
+542601,282208,mobile,ended,184.0,521526.0,240.0,checkout delayed,-53.0,no,-293.0,no
+567818,368432,mobile,ended,-986.0,568439.0,630.0,checkout not delayed,-25.0,no,-655.0,no
+568211,409197,mobile,ended,-27.0,563484.0,660.0,checkout not delayed,-76.0,no,-736.0,no
+569153,407636,connect,canceled,,560335.0,0.0,checkout not delayed,-159.0,no,-159.0,no
+569583,332998,mobile,ended,-125.0,566841.0,570.0,checkout not delayed,13.0,yes,-557.0,no
+571816,314220,mobile,ended,60.0,574276.0,120.0,checkout delayed,43.0,yes,-77.0,no
+574188,358978,connect,ended,-30.0,573147.0,570.0,checkout not delayed,6.0,yes,-564.0,no
+575912,405611,connect,ended,-58.0,574676.0,90.0,checkout not delayed,35.0,yes,-55.0,no
+556652,394272,mobile,ended,1800.0,545556.0,720.0,checkout delayed,-8.0,no,-728.0,no
+556670,374057,mobile,ended,-14.0,553772.0,120.0,checkout not delayed,4.0,yes,-116.0,no
+556836,270935,mobile,ended,-171.0,546478.0,300.0,checkout not delayed,8.0,yes,-292.0,no
+557220,337311,mobile,ended,17.0,536108.0,0.0,checkout delayed,-843.0,no,-843.0,no
+557430,376311,connect,canceled,,549853.0,240.0,checkout not delayed,-162.0,no,-402.0,no
+566822,412917,mobile,ended,58.0,554385.0,660.0,checkout delayed,0.0,no,-660.0,no
+567091,402989,connect,ended,-397.0,557053.0,60.0,checkout not delayed,-95.0,no,-155.0,no
+567286,295619,mobile,ended,7.0,567805.0,150.0,checkout delayed,52.0,yes,-98.0,no
+567764,414230,mobile,ended,-33.0,566395.0,120.0,checkout not delayed,24.0,yes,-96.0,no
+567782,409499,mobile,ended,21.0,568160.0,690.0,checkout delayed,48.0,yes,-642.0,no
+530845,373889,mobile,canceled,,536992.0,0.0,checkout not delayed,1.0,yes,1.0,yes
+531468,397636,mobile,canceled,,538819.0,90.0,checkout not delayed,30.0,yes,-60.0,no
+535461,386259,connect,ended,-33.0,543525.0,30.0,checkout not delayed,11.0,yes,-19.0,no
+536440,392633,mobile,canceled,,553304.0,600.0,checkout not delayed,49.0,yes,-551.0,no
+551941,385378,mobile,ended,40.0,528845.0,60.0,checkout delayed,-4624.0,no,-4684.0,no
+552138,385523,connect,ended,22.0,537139.0,30.0,checkout delayed,-52.0,no,-82.0,no
+552310,385625,connect,ended,-64.0,552425.0,300.0,checkout not delayed,-102.0,no,-402.0,no
+547628,324940,mobile,canceled,,552763.0,120.0,checkout not delayed,-5.0,no,-125.0,no
+547668,369881,connect,ended,13.0,535011.0,0.0,checkout delayed,5.0,yes,5.0,yes
+548899,361991,mobile,ended,46.0,547573.0,480.0,checkout delayed,17.0,yes,-463.0,no
+549066,409663,mobile,canceled,,544279.0,600.0,checkout not delayed,,no,,no
+561623,386880,mobile,ended,-102.0,553117.0,630.0,checkout not delayed,65.0,yes,-565.0,no
+561637,404433,mobile,ended,-46.0,565733.0,480.0,checkout not delayed,-1020.0,no,-1500.0,no
+561678,316678,connect,ended,-760.0,560439.0,180.0,checkout not delayed,-8.0,no,-188.0,no
+562032,289383,mobile,ended,45.0,560727.0,30.0,checkout delayed,20.0,yes,-10.0,no
+562464,281955,mobile,ended,,565027.0,720.0,checkout not delayed,-55.0,no,-775.0,no
+563487,338969,connect,ended,-60.0,564381.0,600.0,checkout not delayed,-53.0,no,-653.0,no
+564190,377781,mobile,ended,218.0,560500.0,180.0,checkout delayed,-259.0,no,-439.0,no
+564384,398152,connect,ended,-2.0,562529.0,720.0,checkout not delayed,40.0,yes,-680.0,no
+565397,389565,connect,ended,-1.0,563832.0,660.0,checkout not delayed,-5.0,no,-665.0,no
+551708,391325,mobile,canceled,,543706.0,390.0,checkout not delayed,,no,,no
+551709,268787,mobile,ended,74.0,551518.0,0.0,checkout delayed,-13.0,no,-13.0,no
+552019,392683,connect,canceled,,553157.0,240.0,checkout not delayed,-18.0,no,-258.0,no
+552106,389836,mobile,canceled,,538942.0,330.0,checkout not delayed,142.0,yes,-188.0,no
+553500,383497,mobile,ended,24.0,519122.0,120.0,checkout delayed,163.0,yes,43.0,yes
+554515,276924,mobile,ended,-64.0,553153.0,120.0,checkout not delayed,5.0,yes,-115.0,no
+554901,251447,connect,ended,-41.0,552582.0,210.0,checkout not delayed,-60.0,no,-270.0,no
+556467,369938,connect,ended,-105.0,547952.0,240.0,checkout not delayed,144.0,yes,-96.0,no
+557773,402858,mobile,ended,-68.0,511719.0,0.0,checkout not delayed,71.0,yes,71.0,yes
+557990,312572,mobile,ended,-89.0,558495.0,0.0,checkout not delayed,73.0,yes,73.0,yes
+558327,383443,connect,ended,78.0,566342.0,60.0,checkout delayed,-598.0,no,-658.0,no
+558692,338969,connect,ended,,552161.0,660.0,checkout not delayed,-3.0,no,-663.0,no
+559724,383462,connect,ended,-39.0,556319.0,660.0,checkout not delayed,55.0,yes,-605.0,no
+543577,356106,connect,ended,-13.0,541079.0,120.0,checkout not delayed,-24.0,no,-144.0,no
+543854,222934,mobile,ended,-17.0,507859.0,0.0,checkout not delayed,16.0,yes,16.0,yes
+543940,348526,connect,canceled,,512216.0,60.0,checkout not delayed,-39.0,no,-99.0,no
+543975,406551,mobile,ended,58.0,537735.0,150.0,checkout delayed,13.0,yes,-137.0,no
+536315,369230,mobile,ended,-191.0,536343.0,720.0,checkout not delayed,780.0,yes,60.0,yes
+537183,406984,mobile,canceled,,538569.0,60.0,checkout not delayed,-15.0,no,-75.0,no
+537683,391618,connect,ended,54.0,549289.0,60.0,checkout delayed,-814.0,no,-874.0,no
+537737,382968,mobile,ended,51.0,538666.0,150.0,checkout delayed,34.0,yes,-116.0,no
+538875,334190,connect,ended,-875.0,543805.0,0.0,checkout not delayed,-130.0,no,-130.0,no
+545551,388466,mobile,ended,-120.0,556990.0,180.0,checkout not delayed,201.0,yes,21.0,yes
+556573,300505,connect,ended,-45.0,552826.0,630.0,checkout not delayed,13.0,yes,-617.0,no
+539083,204293,mobile,canceled,,540497.0,420.0,checkout not delayed,-4.0,no,-424.0,no
+539837,325139,mobile,ended,62.0,536246.0,510.0,checkout delayed,-86.0,no,-596.0,no
+540547,385008,connect,ended,48.0,536772.0,120.0,checkout delayed,-13.0,no,-133.0,no
+540243,352921,connect,ended,6.0,537768.0,0.0,checkout delayed,-3.0,no,-3.0,no
+540416,368724,mobile,canceled,,538062.0,270.0,checkout not delayed,72.0,yes,-198.0,no
+541760,367632,connect,ended,-29.0,527974.0,270.0,checkout not delayed,8.0,yes,-262.0,no
+541863,358982,connect,ended,-159.0,540103.0,720.0,checkout not delayed,-2.0,no,-722.0,no
+542028,317298,connect,ended,-225.0,538558.0,30.0,checkout not delayed,-9.0,no,-39.0,no
+573809,167490,mobile,ended,0.0,569307.0,660.0,checkout not delayed,-22.0,no,-682.0,no
+573931,300377,mobile,ended,-8.0,568712.0,120.0,checkout not delayed,1760.0,yes,1640.0,yes
+557935,338969,connect,canceled,,552161.0,360.0,checkout not delayed,-3.0,no,-363.0,no
+547919,183514,mobile,ended,-121.0,547720.0,60.0,checkout not delayed,-5.0,no,-65.0,no
+548088,402562,connect,ended,-111.0,546511.0,120.0,checkout not delayed,14.0,yes,-106.0,no
+549442,408506,mobile,ended,-150.0,548118.0,120.0,checkout not delayed,9.0,yes,-111.0,no
+549512,251447,connect,ended,-165.0,548048.0,0.0,checkout not delayed,-27.0,no,-27.0,no
+549521,387976,mobile,ended,17.0,543979.0,0.0,checkout delayed,7.0,yes,7.0,yes
+535880,377004,mobile,ended,-853.0,549968.0,30.0,checkout not delayed,52.0,yes,22.0,yes
+536046,406075,mobile,ended,-158.0,538415.0,420.0,checkout not delayed,29.0,yes,-391.0,no
+536763,363431,mobile,canceled,,523920.0,690.0,checkout not delayed,-25.0,no,-715.0,no
+537148,407334,mobile,ended,37.0,537350.0,720.0,checkout delayed,-197.0,no,-917.0,no
+537570,299059,mobile,ended,-11.0,534705.0,60.0,checkout not delayed,74.0,yes,14.0,yes
+560412,336349,connect,canceled,,568759.0,630.0,checkout not delayed,1466.0,yes,836.0,yes
+550072,412028,mobile,ended,172.0,549606.0,570.0,checkout delayed,567.0,yes,-3.0,no
+551063,365796,mobile,canceled,,547713.0,120.0,checkout not delayed,,no,,no
+551531,382633,mobile,ended,,544304.0,540.0,checkout not delayed,,no,,no
+552207,360551,connect,ended,68.0,550621.0,30.0,checkout delayed,108.0,yes,78.0,yes
+552208,376311,connect,ended,33.0,549389.0,90.0,checkout delayed,64.0,yes,-26.0,no
+552380,412021,mobile,canceled,,549184.0,150.0,checkout not delayed,7.0,yes,-143.0,no
+566328,385008,connect,ended,23.0,565761.0,690.0,checkout delayed,1.0,yes,-689.0,no
+567257,370416,connect,ended,,563114.0,0.0,checkout not delayed,0.0,no,0.0,no
+568524,314456,connect,ended,-10.0,559282.0,60.0,checkout not delayed,-106.0,no,-166.0,no
+568826,279966,mobile,ended,-35.0,566857.0,90.0,checkout not delayed,51.0,yes,-39.0,no
+569645,396034,connect,ended,-25.0,551522.0,330.0,checkout not delayed,0.0,no,-330.0,no
+570777,368604,connect,ended,-12.0,527387.0,660.0,checkout not delayed,-68.0,no,-728.0,no
+570917,411523,mobile,canceled,,568349.0,600.0,checkout not delayed,-4.0,no,-604.0,no
+571324,366164,connect,ended,-294.0,566181.0,450.0,checkout not delayed,-24.0,no,-474.0,no
+571713,311923,connect,ended,-123.0,544337.0,600.0,checkout not delayed,21.0,yes,-579.0,no
+572052,402392,mobile,ended,,563280.0,60.0,checkout not delayed,,no,,no
+561213,405433,mobile,ended,124.0,564813.0,120.0,checkout delayed,147.0,yes,27.0,yes
+561599,275810,mobile,ended,11.0,554462.0,600.0,checkout delayed,535.0,yes,-65.0,no
+562325,347042,connect,ended,-73.0,564123.0,600.0,checkout not delayed,78.0,yes,-522.0,no
+563213,263232,mobile,ended,-71.0,565495.0,240.0,checkout not delayed,6.0,yes,-234.0,no
+565109,312603,connect,ended,-956.0,566489.0,0.0,checkout not delayed,31.0,yes,31.0,yes
+542854,317024,connect,ended,116.0,542633.0,570.0,checkout delayed,-27.0,no,-597.0,no
+542878,335276,connect,ended,79.0,553825.0,0.0,checkout delayed,-18.0,no,-18.0,no
+559197,400591,mobile,ended,6.0,553823.0,0.0,checkout delayed,6.0,yes,6.0,yes
+559663,173061,connect,ended,-21.0,552524.0,720.0,checkout not delayed,-22.0,no,-742.0,no
+560213,412226,mobile,ended,,558523.0,480.0,checkout not delayed,,no,,no
+560214,362339,connect,canceled,,557201.0,30.0,checkout not delayed,-390.0,no,-420.0,no
+560949,310636,connect,ended,26.0,564126.0,60.0,checkout delayed,-77.0,no,-137.0,no
+568943,337311,mobile,ended,70.0,554123.0,90.0,checkout delayed,14.0,yes,-76.0,no
+568987,391370,connect,ended,42.0,562708.0,0.0,checkout delayed,41.0,yes,41.0,yes
+569303,272430,connect,ended,-44.0,562514.0,360.0,checkout not delayed,-25.0,no,-385.0,no
+570337,365926,connect,ended,-37.0,543942.0,570.0,checkout not delayed,37.0,yes,-533.0,no
+570429,328506,mobile,ended,125.0,566331.0,480.0,checkout delayed,-97.0,no,-577.0,no
+570491,338969,connect,canceled,,569446.0,60.0,checkout not delayed,-143.0,no,-203.0,no
+570900,385523,connect,canceled,,565984.0,690.0,checkout not delayed,124.0,yes,-566.0,no
+572088,338940,mobile,ended,1003.0,571451.0,150.0,checkout delayed,,no,,no
+572472,371625,mobile,ended,28.0,571018.0,180.0,checkout delayed,25.0,yes,-155.0,no
+554588,343339,mobile,ended,426.0,552212.0,420.0,checkout delayed,14.0,yes,-406.0,no
+555137,404130,connect,ended,26.0,552365.0,60.0,checkout delayed,12.0,yes,-48.0,no
+555716,412909,mobile,ended,-102.0,562141.0,540.0,checkout not delayed,68.0,yes,-472.0,no
+555942,250644,mobile,ended,9.0,554060.0,300.0,checkout delayed,36.0,yes,-264.0,no
+556975,320481,mobile,ended,17.0,559071.0,150.0,checkout delayed,-61.0,no,-211.0,no
+556983,338969,connect,canceled,,552161.0,600.0,checkout not delayed,-3.0,no,-603.0,no
+558830,353425,connect,canceled,,557068.0,0.0,checkout not delayed,30.0,yes,30.0,yes
+559072,383485,mobile,ended,-56.0,558533.0,720.0,checkout not delayed,64.0,yes,-656.0,no
+559429,390318,mobile,ended,203.0,556092.0,690.0,checkout delayed,122.0,yes,-568.0,no
+560265,174243,mobile,ended,116.0,544959.0,60.0,checkout delayed,-305.0,no,-365.0,no
+560564,409718,mobile,ended,-121.0,557338.0,570.0,checkout not delayed,2.0,yes,-568.0,no
+560571,398152,connect,ended,-113.0,552192.0,690.0,checkout not delayed,153.0,yes,-537.0,no
+562379,337768,mobile,ended,,563752.0,690.0,checkout not delayed,,no,,no
+562555,380662,mobile,canceled,,567954.0,30.0,checkout not delayed,77.0,yes,47.0,yes
+565959,324889,mobile,ended,-94.0,562206.0,720.0,checkout not delayed,-90.0,no,-810.0,no
+565968,338243,connect,ended,37.0,560465.0,720.0,checkout delayed,-50.0,no,-770.0,no
+568399,241021,connect,ended,-57.0,563552.0,60.0,checkout not delayed,25.0,yes,-35.0,no
+569173,274949,mobile,ended,-286.0,565577.0,0.0,checkout not delayed,-259.0,no,-259.0,no
+572870,349618,mobile,ended,-178.0,567694.0,210.0,checkout not delayed,-17.0,no,-227.0,no
+563348,225486,connect,ended,97.0,563757.0,0.0,checkout delayed,7.0,yes,7.0,yes
+564441,310901,mobile,ended,50.0,561518.0,180.0,checkout delayed,,no,,no
+524703,352436,mobile,ended,7.0,538643.0,60.0,checkout delayed,13.0,yes,-47.0,no
+526518,332564,mobile,ended,-4.0,534198.0,90.0,checkout not delayed,-67.0,no,-157.0,no
+527387,368604,connect,ended,-68.0,559396.0,690.0,checkout not delayed,-29.0,no,-719.0,no
+536171,392368,connect,canceled,,515799.0,600.0,checkout not delayed,-151.0,no,-751.0,no
+537064,401649,connect,ended,84.0,562864.0,0.0,checkout delayed,-147.0,no,-147.0,no
+537575,409296,mobile,ended,-156.0,543251.0,0.0,checkout not delayed,-18.0,no,-18.0,no
+543571,373893,connect,ended,-4.0,534820.0,150.0,checkout not delayed,-576.0,no,-726.0,no
+544588,377591,connect,ended,50.0,562313.0,60.0,checkout delayed,-362.0,no,-422.0,no
+545963,305525,connect,ended,-33.0,549063.0,150.0,checkout not delayed,-35.0,no,-185.0,no
+546064,314220,mobile,ended,-218.0,550400.0,150.0,checkout not delayed,10.0,yes,-140.0,no
+564260,245154,connect,canceled,,561694.0,420.0,checkout not delayed,-47.0,no,-467.0,no
+564479,359485,connect,ended,121.0,561602.0,210.0,checkout delayed,8.0,yes,-202.0,no
+565170,318371,mobile,ended,-150.0,560843.0,0.0,checkout not delayed,44.0,yes,44.0,yes
+558129,344254,connect,ended,-185.0,558115.0,690.0,checkout not delayed,6.0,yes,-684.0,no
+558313,285452,connect,ended,-21.0,556448.0,720.0,checkout not delayed,14.0,yes,-706.0,no
+558546,396712,mobile,ended,2733.0,554234.0,420.0,checkout delayed,26.0,yes,-394.0,no
+559335,391125,mobile,ended,7.0,559214.0,120.0,checkout delayed,79.0,yes,-41.0,no
+559521,411754,connect,ended,81.0,556456.0,660.0,checkout delayed,97.0,yes,-563.0,no
+561339,366872,connect,ended,-146.0,566968.0,690.0,checkout not delayed,-31.0,no,-721.0,no
+561698,312078,connect,ended,45.0,564914.0,0.0,checkout delayed,-542.0,no,-542.0,no
+562202,216576,connect,ended,31.0,559387.0,240.0,checkout delayed,-4.0,no,-244.0,no
+562290,349171,connect,ended,-839.0,562874.0,420.0,checkout not delayed,13.0,yes,-407.0,no
+563001,272724,mobile,ended,263.0,561423.0,240.0,checkout delayed,,no,,no
+563092,410214,mobile,ended,-38.0,563145.0,180.0,checkout not delayed,28.0,yes,-152.0,no
+563454,409274,mobile,ended,76.0,563821.0,30.0,checkout delayed,-8.0,no,-38.0,no
+563808,412210,mobile,ended,98.0,561890.0,240.0,checkout delayed,249.0,yes,9.0,yes
+563832,389565,connect,ended,-5.0,564385.0,60.0,checkout not delayed,22.0,yes,-38.0,no
+564522,333753,mobile,ended,95.0,564604.0,660.0,checkout delayed,97.0,yes,-563.0,no
+564890,396266,mobile,ended,-165.0,562788.0,510.0,checkout not delayed,121.0,yes,-389.0,no
+558480,381787,connect,ended,-15.0,548193.0,210.0,checkout not delayed,158.0,yes,-52.0,no
+558742,192603,mobile,ended,3.0,562673.0,420.0,checkout delayed,415.0,yes,-5.0,no
+558905,392683,connect,ended,55.0,553157.0,0.0,checkout delayed,-18.0,no,-18.0,no
+561645,383625,connect,ended,-138.0,567392.0,0.0,checkout not delayed,15.0,yes,15.0,yes
+565470,394043,mobile,ended,15.0,562479.0,180.0,checkout delayed,127.0,yes,-53.0,no
+565814,389565,connect,ended,48.0,565397.0,0.0,checkout delayed,-1.0,no,-1.0,no
+565979,371159,connect,ended,48.0,563458.0,60.0,checkout delayed,-24.0,no,-84.0,no
+566956,403558,mobile,ended,,563099.0,120.0,checkout not delayed,,no,,no
+568286,359641,mobile,ended,-28.0,560844.0,240.0,checkout not delayed,72.0,yes,-168.0,no
+568405,353274,mobile,ended,15.0,554676.0,0.0,checkout delayed,-8.0,no,-8.0,no
+569301,195977,connect,ended,62.0,561125.0,660.0,checkout delayed,-110.0,no,-770.0,no
+569376,330318,mobile,ended,-19.0,566099.0,120.0,checkout not delayed,123.0,yes,3.0,yes
+573387,412916,mobile,ended,74.0,565754.0,60.0,checkout delayed,-22.0,no,-82.0,no
+575031,319886,connect,ended,92.0,571453.0,660.0,checkout delayed,-14.0,no,-674.0,no
+538300,365926,connect,canceled,,537243.0,270.0,checkout not delayed,242.0,yes,-28.0,no
+539038,378072,connect,ended,-17.0,529169.0,720.0,checkout not delayed,1.0,yes,-719.0,no
+565937,290600,connect,ended,-9.0,567467.0,0.0,checkout not delayed,6.0,yes,6.0,yes
+568112,395228,mobile,ended,145.0,563130.0,0.0,checkout delayed,-19.0,no,-19.0,no
+570098,410702,mobile,canceled,,562806.0,150.0,checkout not delayed,16.0,yes,-134.0,no
+570764,230675,mobile,ended,211.0,564217.0,690.0,checkout delayed,44.0,yes,-646.0,no
+572707,241021,connect,canceled,,574151.0,0.0,checkout not delayed,3.0,yes,3.0,yes
+573350,301068,mobile,ended,1.0,530691.0,0.0,checkout delayed,8.0,yes,8.0,yes
+574755,373802,mobile,ended,-16.0,571574.0,30.0,checkout not delayed,-44.0,no,-74.0,no
+540202,408267,mobile,ended,-115.0,537171.0,30.0,checkout not delayed,17.0,yes,-13.0,no
+564485,290726,connect,ended,-42.0,554952.0,480.0,checkout not delayed,-65.0,no,-545.0,no
+568007,414878,mobile,ended,123.0,566039.0,300.0,checkout delayed,8.0,yes,-292.0,no
+568444,353425,connect,ended,-27.0,557068.0,90.0,checkout not delayed,30.0,yes,-60.0,no
+568500,312603,connect,ended,0.0,565109.0,60.0,checkout not delayed,-956.0,no,-1016.0,no
+570888,265239,connect,ended,-21.0,551401.0,270.0,checkout not delayed,-2938.0,no,-3208.0,no
+571936,248926,mobile,ended,4.0,567346.0,60.0,checkout delayed,-4.0,no,-64.0,no
+574527,397599,mobile,ended,87.0,572793.0,660.0,checkout delayed,206.0,yes,-454.0,no
+540269,403153,mobile,ended,-134.0,537244.0,660.0,checkout not delayed,-17.0,no,-677.0,no
+541911,348294,connect,canceled,,544326.0,720.0,checkout not delayed,-62.0,no,-782.0,no
+542561,374684,mobile,ended,-1.0,545068.0,720.0,checkout not delayed,-31.0,no,-751.0,no
+544004,192409,mobile,ended,40.0,506069.0,270.0,checkout delayed,159.0,yes,-111.0,no
+544056,289570,mobile,ended,2725.0,534205.0,30.0,checkout delayed,-14.0,no,-44.0,no
+544158,242437,mobile,ended,3.0,542867.0,0.0,checkout delayed,-14.0,no,-14.0,no
+540194,392479,mobile,ended,9.0,556565.0,360.0,checkout delayed,-28.0,no,-388.0,no
+542241,390467,connect,ended,-16.0,537405.0,0.0,checkout not delayed,95.0,yes,95.0,yes
+543055,405005,connect,ended,-26.0,551169.0,720.0,checkout not delayed,58.0,yes,-662.0,no
+543269,365961,mobile,ended,-115.0,535195.0,210.0,checkout not delayed,-825.0,no,-1035.0,no
+543781,342154,connect,canceled,,537496.0,240.0,checkout not delayed,47.0,yes,-193.0,no
+543861,358082,connect,ended,-41.0,542942.0,120.0,checkout not delayed,-106.0,no,-226.0,no
+545265,387753,connect,ended,-483.0,546021.0,720.0,checkout not delayed,-5.0,no,-725.0,no
+546214,386880,mobile,ended,1203.0,536671.0,330.0,checkout delayed,-12.0,no,-342.0,no
+546641,371387,mobile,ended,-1005.0,549907.0,60.0,checkout not delayed,4.0,yes,-56.0,no
+546943,368432,mobile,ended,0.0,560801.0,0.0,checkout not delayed,3.0,yes,3.0,yes
+547430,411521,mobile,ended,-3.0,547755.0,210.0,checkout not delayed,62.0,yes,-148.0,no
+549462,381708,connect,ended,142.0,548698.0,60.0,checkout delayed,13.0,yes,-47.0,no
+551892,376491,connect,ended,-96.0,550998.0,540.0,checkout not delayed,-56.0,no,-596.0,no
+551957,359045,connect,ended,3.0,546597.0,30.0,checkout delayed,-69.0,no,-99.0,no
+551983,264870,mobile,ended,-1.0,550875.0,150.0,checkout not delayed,-129.0,no,-279.0,no
+552582,251447,connect,ended,-60.0,549512.0,630.0,checkout not delayed,-165.0,no,-795.0,no
+544605,304392,connect,ended,-7.0,528643.0,120.0,checkout not delayed,13.0,yes,-107.0,no
+544762,300505,connect,ended,-67.0,548050.0,90.0,checkout not delayed,-538.0,no,-628.0,no
+545486,336522,mobile,ended,6.0,545384.0,420.0,checkout delayed,31.0,yes,-389.0,no
+545731,409227,mobile,ended,-12.0,545485.0,300.0,checkout not delayed,51.0,yes,-249.0,no
+547103,392656,mobile,ended,,542106.0,450.0,checkout not delayed,,no,,no
+547299,321676,mobile,ended,-156.0,549756.0,30.0,checkout not delayed,3.0,yes,-27.0,no
+548190,349678,connect,canceled,,547238.0,180.0,checkout not delayed,-652.0,no,-832.0,no
+549701,395266,mobile,ended,-57.0,546447.0,150.0,checkout not delayed,-22.0,no,-172.0,no
+551070,359800,mobile,ended,-40.0,548225.0,60.0,checkout not delayed,184.0,yes,124.0,yes
+551724,228703,connect,ended,102.0,549401.0,30.0,checkout delayed,-5.0,no,-35.0,no
+539751,374684,mobile,ended,3.0,537514.0,660.0,checkout delayed,20.0,yes,-640.0,no
+540382,310444,connect,ended,-120.0,533896.0,210.0,checkout not delayed,265.0,yes,55.0,yes
+566333,413083,mobile,ended,11.0,555971.0,510.0,checkout delayed,-30.0,no,-540.0,no
+566344,176220,connect,ended,-86.0,561304.0,330.0,checkout not delayed,-75.0,no,-405.0,no
+566831,384942,mobile,ended,-464.0,518025.0,720.0,checkout not delayed,132.0,yes,-588.0,no
+548371,229411,mobile,ended,-43.0,539104.0,270.0,checkout not delayed,-29.0,no,-299.0,no
+548540,299063,connect,ended,-147.0,549939.0,150.0,checkout not delayed,-112.0,no,-262.0,no
+549328,373864,connect,canceled,,550704.0,120.0,checkout not delayed,-2.0,no,-122.0,no
+551104,366371,connect,ended,7.0,550102.0,30.0,checkout delayed,-37.0,no,-67.0,no
+551151,396009,connect,ended,156.0,545980.0,480.0,checkout delayed,1.0,yes,-479.0,no
+567863,385128,mobile,ended,31.0,543629.0,30.0,checkout delayed,72.0,yes,42.0,yes
+540016,357860,connect,ended,16.0,542394.0,570.0,checkout delayed,-9.0,no,-579.0,no
+541068,389147,mobile,ended,3.0,537097.0,210.0,checkout delayed,-722.0,no,-932.0,no
+541215,374486,mobile,ended,47.0,539938.0,180.0,checkout delayed,144.0,yes,-36.0,no
+541363,381123,mobile,ended,-46.0,540040.0,120.0,checkout not delayed,89.0,yes,-31.0,no
+541531,356673,mobile,ended,130.0,539422.0,0.0,checkout delayed,92.0,yes,92.0,yes
+541570,358567,connect,ended,-112.0,550224.0,720.0,checkout not delayed,-7.0,no,-727.0,no
+543223,376311,connect,canceled,,560879.0,600.0,checkout not delayed,21.0,yes,-579.0,no
+543512,406388,mobile,ended,24.0,565648.0,600.0,checkout delayed,-179.0,no,-779.0,no
+543535,371572,connect,ended,-312.0,548202.0,390.0,checkout not delayed,29.0,yes,-361.0,no
+543805,334190,connect,ended,-130.0,543980.0,0.0,checkout not delayed,-42.0,no,-42.0,no
+544135,297119,mobile,ended,14.0,539618.0,120.0,checkout delayed,101.0,yes,-19.0,no
+544190,275062,mobile,ended,,542797.0,690.0,checkout not delayed,-73.0,no,-763.0,no
+544677,339215,mobile,ended,56.0,544679.0,0.0,checkout delayed,51.0,yes,51.0,yes
+544891,392368,connect,ended,-133.0,546533.0,30.0,checkout not delayed,-276.0,no,-306.0,no
+548118,408506,mobile,ended,9.0,544336.0,720.0,checkout delayed,-16.0,no,-736.0,no
+542244,241021,connect,ended,80.0,542010.0,60.0,checkout delayed,-13.0,no,-73.0,no
+542957,276218,mobile,ended,164.0,568490.0,120.0,checkout delayed,105.0,yes,-15.0,no
+543815,385523,connect,ended,-6.0,541049.0,150.0,checkout not delayed,82.0,yes,-68.0,no
+546300,397728,mobile,ended,12.0,557231.0,570.0,checkout delayed,64.0,yes,-506.0,no
+546779,408267,mobile,ended,-11.0,549703.0,60.0,checkout not delayed,-51.0,no,-111.0,no
+547520,312078,connect,canceled,,547273.0,60.0,checkout not delayed,32.0,yes,-28.0,no
+541398,298117,connect,ended,-197.0,538630.0,150.0,checkout not delayed,2.0,yes,-148.0,no
+542252,353425,connect,ended,-153.0,547277.0,210.0,checkout not delayed,-42.0,no,-252.0,no
+543394,305525,connect,ended,-12.0,537439.0,720.0,checkout not delayed,-181.0,no,-901.0,no
+543390,223615,mobile,ended,-45.0,532833.0,0.0,checkout not delayed,22.0,yes,22.0,yes
+543433,317572,connect,canceled,,535647.0,660.0,checkout not delayed,-89.0,no,-749.0,no
+543717,402078,mobile,ended,-7.0,537304.0,240.0,checkout not delayed,-5.0,no,-245.0,no
+543760,307595,mobile,ended,,542300.0,480.0,checkout not delayed,,no,,no
+544699,384193,connect,canceled,,529134.0,0.0,checkout not delayed,22.0,yes,22.0,yes
+544742,365926,connect,ended,-36.0,551678.0,570.0,checkout not delayed,-202.0,no,-772.0,no
+544783,345080,connect,canceled,,549248.0,570.0,checkout not delayed,,no,,no
+545023,334190,connect,canceled,,547969.0,270.0,checkout not delayed,-52.0,no,-322.0,no
+545047,380480,mobile,ended,7.0,544328.0,690.0,checkout delayed,20.0,yes,-670.0,no
+546242,368604,connect,ended,2.0,555708.0,540.0,checkout delayed,-95.0,no,-635.0,no
+547497,404130,connect,ended,3.0,541826.0,90.0,checkout delayed,97.0,yes,7.0,yes
+568275,341630,mobile,ended,-42.0,559873.0,480.0,checkout not delayed,79.0,yes,-401.0,no
+568820,264513,mobile,ended,-46.0,566587.0,120.0,checkout not delayed,39.0,yes,-81.0,no
+569272,366164,connect,ended,7.0,571324.0,120.0,checkout delayed,-294.0,no,-414.0,no
+569353,414801,mobile,canceled,,560812.0,510.0,checkout not delayed,,no,,no
+571038,341861,connect,ended,-152.0,574571.0,540.0,checkout not delayed,-54.0,no,-594.0,no
+572076,367632,connect,ended,50.0,570241.0,180.0,checkout delayed,-244.0,no,-424.0,no
+572871,381435,mobile,ended,-20.0,571546.0,60.0,checkout not delayed,23.0,yes,-37.0,no
+551273,398247,mobile,ended,-6.0,550197.0,630.0,checkout not delayed,-3.0,no,-633.0,no
+551530,412295,mobile,ended,103.0,549505.0,30.0,checkout delayed,46.0,yes,16.0,yes
+551912,225795,connect,ended,-23.0,567177.0,0.0,checkout not delayed,-422.0,no,-422.0,no
+552885,377591,connect,canceled,,551334.0,420.0,checkout not delayed,32.0,yes,-388.0,no
+553129,358480,mobile,ended,170.0,551688.0,450.0,checkout delayed,541.0,yes,91.0,yes
+553227,276222,mobile,ended,20.0,531664.0,120.0,checkout delayed,4.0,yes,-116.0,no
+553540,393083,mobile,ended,23.0,553429.0,390.0,checkout delayed,72.0,yes,-318.0,no
+554359,350456,mobile,ended,1401.0,547316.0,540.0,checkout delayed,16.0,yes,-524.0,no
+554885,402767,mobile,ended,-13.0,556984.0,660.0,checkout not delayed,38.0,yes,-622.0,no
+555024,382884,mobile,ended,63.0,545294.0,660.0,checkout delayed,-117.0,no,-777.0,no
+555178,382323,mobile,ended,62.0,552721.0,240.0,checkout delayed,-93.0,no,-333.0,no
+549116,356203,mobile,ended,-110.0,538281.0,150.0,checkout not delayed,12.0,yes,-138.0,no
+551249,270091,mobile,ended,74.0,546357.0,60.0,checkout delayed,-4.0,no,-64.0,no
+552624,216576,connect,canceled,,523194.0,630.0,checkout not delayed,-163.0,no,-793.0,no
+543850,262344,connect,ended,51.0,541998.0,210.0,checkout delayed,-147.0,no,-357.0,no
+548490,342719,mobile,ended,,546060.0,60.0,checkout not delayed,59.0,yes,-1.0,no
+548521,310219,connect,ended,,545345.0,120.0,checkout not delayed,-55.0,no,-175.0,no
+548726,397569,connect,ended,-111.0,546439.0,60.0,checkout not delayed,-95.0,no,-155.0,no
+550717,377119,connect,ended,59.0,545344.0,30.0,checkout delayed,-8.0,no,-38.0,no
+543690,387614,mobile,ended,235.0,541885.0,300.0,checkout delayed,38.0,yes,-262.0,no
+544908,265664,connect,ended,-961.0,540077.0,690.0,checkout not delayed,-20.0,no,-710.0,no
+546332,214635,connect,ended,31.0,547177.0,0.0,checkout delayed,-548.0,no,-548.0,no
+546707,335276,connect,canceled,,545768.0,0.0,checkout not delayed,-27.0,no,-27.0,no
+546889,303652,mobile,ended,79.0,546472.0,390.0,checkout delayed,310.0,yes,-80.0,no
+546954,350705,mobile,ended,-47.0,548000.0,90.0,checkout not delayed,4.0,yes,-86.0,no
+549212,344576,mobile,ended,17.0,549196.0,120.0,checkout delayed,-32.0,no,-152.0,no
+549277,387223,mobile,ended,57.0,546350.0,30.0,checkout delayed,-12.0,no,-42.0,no
+549461,305876,mobile,ended,17.0,523875.0,0.0,checkout delayed,,no,,no
+550255,350873,connect,canceled,,559401.0,240.0,checkout not delayed,-84.0,no,-324.0,no
+550683,411846,mobile,canceled,,548701.0,180.0,checkout not delayed,,no,,no
+551169,405005,connect,ended,58.0,544486.0,0.0,checkout delayed,10.0,yes,10.0,yes
+552606,336902,mobile,ended,-90.0,533303.0,600.0,checkout not delayed,-340.0,no,-940.0,no
+553595,388206,mobile,ended,-24.0,513941.0,570.0,checkout not delayed,64.0,yes,-506.0,no
+553889,356758,mobile,ended,23.0,543278.0,540.0,checkout delayed,-46.0,no,-586.0,no
+554498,248889,connect,ended,-18.0,559060.0,720.0,checkout not delayed,-50.0,no,-770.0,no
+555857,401088,mobile,ended,36.0,552180.0,60.0,checkout delayed,13.0,yes,-47.0,no
+554425,364411,mobile,ended,105.0,557974.0,600.0,checkout delayed,596.0,yes,-4.0,no
+555076,369845,mobile,ended,-22.0,553278.0,690.0,checkout not delayed,-32.0,no,-722.0,no
+555388,362255,mobile,ended,36.0,531363.0,660.0,checkout delayed,-37.0,no,-697.0,no
+555950,364160,connect,ended,27.0,550502.0,120.0,checkout delayed,-79.0,no,-199.0,no
+556933,291932,connect,ended,-23.0,559594.0,60.0,checkout not delayed,-408.0,no,-468.0,no
+556998,222819,mobile,ended,42.0,557193.0,660.0,checkout delayed,-35.0,no,-695.0,no
+558185,401869,connect,ended,-9.0,556469.0,510.0,checkout not delayed,231.0,yes,-279.0,no
+559898,362187,connect,ended,-8.0,556725.0,240.0,checkout not delayed,-633.0,no,-873.0,no
+559935,409750,mobile,ended,60.0,562535.0,660.0,checkout delayed,-42.0,no,-702.0,no
+563790,398586,connect,ended,-149.0,565280.0,600.0,checkout not delayed,-137.0,no,-737.0,no
+564244,377594,mobile,canceled,,562153.0,180.0,checkout not delayed,50.0,yes,-130.0,no
+564703,385629,connect,ended,-28.0,564926.0,180.0,checkout not delayed,-484.0,no,-664.0,no
+564980,341037,connect,canceled,,562653.0,510.0,checkout not delayed,158.0,yes,-352.0,no
+565006,414230,mobile,ended,26.0,567764.0,720.0,checkout delayed,-33.0,no,-753.0,no
+565007,362507,connect,ended,35.0,567477.0,720.0,checkout delayed,0.0,no,-720.0,no
+557333,410887,mobile,ended,77.0,550290.0,300.0,checkout delayed,17.0,yes,-283.0,no
+558854,407865,mobile,ended,45.0,557408.0,360.0,checkout delayed,7.0,yes,-353.0,no
+559519,381012,mobile,ended,-15.0,553964.0,0.0,checkout not delayed,-707.0,no,-707.0,no
+560165,304775,connect,ended,-34.0,552359.0,240.0,checkout not delayed,-118.0,no,-358.0,no
+560879,376311,connect,ended,21.0,563536.0,300.0,checkout delayed,-255.0,no,-555.0,no
+562118,402078,mobile,ended,-74.0,560643.0,150.0,checkout not delayed,20.0,yes,-130.0,no
+563709,343003,mobile,ended,,561739.0,660.0,checkout not delayed,,no,,no
+564327,412869,mobile,ended,3098.0,562932.0,90.0,checkout delayed,105.0,yes,15.0,yes
+564510,367632,connect,ended,-579.0,563613.0,720.0,checkout not delayed,11.0,yes,-709.0,no
+549864,175887,connect,ended,72.0,558049.0,720.0,checkout delayed,32.0,yes,-688.0,no
+550005,392368,connect,canceled,,544853.0,90.0,checkout not delayed,-14.0,no,-104.0,no
+550335,364199,mobile,canceled,,515060.0,60.0,checkout not delayed,452.0,yes,392.0,yes
+550497,392847,connect,ended,141.0,554124.0,0.0,checkout delayed,-9.0,no,-9.0,no
+550757,345080,connect,ended,-55.0,549248.0,720.0,checkout not delayed,,no,,no
+551313,400293,mobile,ended,88.0,537821.0,0.0,checkout delayed,-55.0,no,-55.0,no
+554913,351258,mobile,ended,0.0,555581.0,270.0,checkout not delayed,250.0,yes,-20.0,no
+556063,388795,mobile,ended,101.0,551168.0,90.0,checkout delayed,-31.0,no,-121.0,no
+556230,387976,mobile,canceled,,553955.0,720.0,checkout not delayed,885.0,yes,165.0,yes
+557078,301301,connect,ended,104.0,555752.0,180.0,checkout delayed,119.0,yes,-61.0,no
+557587,295830,connect,ended,-404.0,563792.0,720.0,checkout not delayed,0.0,no,-720.0,no
+557732,374746,mobile,ended,-22.0,547231.0,0.0,checkout not delayed,-1.0,no,-1.0,no
+539705,406161,mobile,canceled,,559887.0,0.0,checkout not delayed,5.0,yes,5.0,yes
+540254,383144,connect,ended,75.0,534854.0,120.0,checkout delayed,-44.0,no,-164.0,no
+540509,406902,mobile,ended,35.0,536255.0,30.0,checkout delayed,74.0,yes,44.0,yes
+540779,384193,connect,ended,6.0,550547.0,0.0,checkout delayed,-62.0,no,-62.0,no
+541103,359864,mobile,ended,-69.0,527333.0,60.0,checkout not delayed,15.0,yes,-45.0,no
+542041,208090,mobile,ended,2.0,541715.0,30.0,checkout delayed,-20.0,no,-50.0,no
+542083,385131,connect,ended,-12.0,542592.0,180.0,checkout not delayed,-428.0,no,-608.0,no
+542384,344254,connect,ended,97.0,539674.0,180.0,checkout delayed,125.0,yes,-55.0,no
+542573,402679,mobile,ended,,542341.0,0.0,checkout not delayed,,no,,no
+542909,407865,mobile,ended,114.0,535365.0,30.0,checkout delayed,20.0,yes,-10.0,no
+542993,258737,mobile,ended,39.0,526456.0,600.0,checkout delayed,-131.0,no,-731.0,no
+556659,310219,connect,ended,-70.0,549808.0,480.0,checkout not delayed,54.0,yes,-426.0,no
+556716,364160,connect,ended,127.0,560217.0,30.0,checkout delayed,18.0,yes,-12.0,no
+556762,329718,mobile,ended,2.0,566035.0,120.0,checkout delayed,-17.0,no,-137.0,no
+557012,358772,connect,ended,-29.0,553385.0,60.0,checkout not delayed,-71.0,no,-131.0,no
+557706,399575,connect,ended,-17.0,548718.0,720.0,checkout not delayed,73.0,yes,-647.0,no
+558046,401869,connect,canceled,,556469.0,480.0,checkout not delayed,231.0,yes,-249.0,no
+558539,384983,mobile,ended,21.0,554384.0,60.0,checkout delayed,69.0,yes,9.0,yes
+558993,412141,mobile,ended,-1227.0,556871.0,600.0,checkout not delayed,,no,,no
+559386,395385,mobile,ended,2499.0,556228.0,690.0,checkout delayed,1.0,yes,-689.0,no
+559897,382302,connect,ended,99.0,558352.0,660.0,checkout delayed,-10.0,no,-670.0,no
+563382,381754,mobile,ended,463.0,561956.0,120.0,checkout delayed,-151.0,no,-271.0,no
+564129,368506,mobile,ended,-41.0,555811.0,600.0,checkout not delayed,62.0,yes,-538.0,no
+564601,317683,mobile,ended,93.0,560650.0,30.0,checkout delayed,46.0,yes,16.0,yes
+564616,383443,connect,ended,-113.0,563616.0,540.0,checkout not delayed,-42.0,no,-582.0,no
+558724,380479,mobile,ended,13.0,555526.0,570.0,checkout delayed,52.0,yes,-518.0,no
+561362,352528,connect,ended,-21.0,527111.0,600.0,checkout not delayed,100.0,yes,-500.0,no
+562011,282433,mobile,canceled,,557920.0,210.0,checkout not delayed,7.0,yes,-203.0,no
+562201,412104,mobile,ended,-119.0,563920.0,120.0,checkout not delayed,92.0,yes,-28.0,no
+564664,361789,mobile,canceled,,564691.0,600.0,checkout not delayed,-97.0,no,-697.0,no
+565046,409523,mobile,ended,,559547.0,0.0,checkout not delayed,,no,,no
+565255,374809,connect,ended,-97.0,566437.0,90.0,checkout not delayed,2.0,yes,-88.0,no
+565826,387980,mobile,ended,-36.0,565423.0,270.0,checkout not delayed,93.0,yes,-177.0,no
+565273,351468,mobile,ended,-209.0,559473.0,90.0,checkout not delayed,62.0,yes,-28.0,no
+565284,403149,mobile,ended,31.0,563877.0,150.0,checkout delayed,79.0,yes,-71.0,no
+565885,379092,mobile,canceled,,563199.0,330.0,checkout not delayed,4.0,yes,-326.0,no
+566516,337217,mobile,ended,48.0,561111.0,660.0,checkout delayed,10.0,yes,-650.0,no
+568190,381787,connect,canceled,,529051.0,60.0,checkout not delayed,-272.0,no,-332.0,no
+568312,414757,mobile,ended,-31.0,564212.0,60.0,checkout not delayed,-164.0,no,-224.0,no
+569487,335276,connect,ended,-40.0,560375.0,600.0,checkout not delayed,140.0,yes,-460.0,no
+570644,374360,connect,ended,18.0,567682.0,60.0,checkout delayed,172.0,yes,112.0,yes
+571208,293910,mobile,ended,-28.0,575013.0,600.0,checkout not delayed,-15.0,no,-615.0,no
+573651,380019,mobile,ended,363.0,568249.0,120.0,checkout delayed,-8.0,no,-128.0,no
+567609,297832,mobile,ended,5.0,566110.0,0.0,checkout delayed,-1102.0,no,-1102.0,no
+569004,341881,connect,ended,41.0,565020.0,630.0,checkout delayed,-123.0,no,-753.0,no
+547078,347208,connect,ended,133.0,545645.0,0.0,checkout delayed,-147.0,no,-147.0,no
+548739,365148,mobile,ended,25.0,547665.0,60.0,checkout delayed,55.0,yes,-5.0,no
+548963,374626,mobile,ended,48.0,536523.0,720.0,checkout delayed,68.0,yes,-652.0,no
+550109,373927,mobile,canceled,,552732.0,420.0,checkout not delayed,186.0,yes,-234.0,no
+550705,367632,connect,ended,205.0,564510.0,420.0,checkout delayed,-579.0,no,-999.0,no
+550938,334190,connect,ended,110.0,549759.0,0.0,checkout delayed,142.0,yes,142.0,yes
+569662,368432,mobile,ended,35.0,572914.0,690.0,checkout delayed,-11.0,no,-701.0,no
+570143,174243,mobile,ended,80.0,565219.0,120.0,checkout delayed,10.0,yes,-110.0,no
+571746,331673,mobile,ended,35.0,570526.0,210.0,checkout delayed,23.0,yes,-187.0,no
+572953,392055,mobile,ended,5.0,562635.0,300.0,checkout delayed,-22.0,no,-322.0,no
+547509,350904,mobile,ended,44.0,536164.0,480.0,checkout delayed,-76.0,no,-556.0,no
+551041,390467,connect,ended,-194.0,566227.0,630.0,checkout not delayed,-17.0,no,-647.0,no
+551166,342699,connect,canceled,,548950.0,60.0,checkout not delayed,98.0,yes,38.0,yes
+551922,380001,mobile,ended,,540803.0,120.0,checkout not delayed,51.0,yes,-69.0,no
+552238,386259,connect,ended,-10.0,550185.0,420.0,checkout not delayed,15.0,yes,-405.0,no
+552256,320824,connect,ended,-134.0,529301.0,720.0,checkout not delayed,-308.0,no,-1028.0,no
+552472,352528,connect,canceled,,546489.0,180.0,checkout not delayed,-533.0,no,-713.0,no
+551693,412114,mobile,ended,-40.0,548975.0,60.0,checkout not delayed,-7.0,no,-67.0,no
+551778,394305,mobile,ended,13.0,549859.0,150.0,checkout delayed,8.0,yes,-142.0,no
+554143,401387,mobile,ended,-10.0,553151.0,60.0,checkout not delayed,-1.0,no,-61.0,no
+555012,398697,mobile,ended,218.0,527035.0,210.0,checkout delayed,23.0,yes,-187.0,no
+553682,401475,connect,ended,37.0,552583.0,420.0,checkout delayed,11.0,yes,-409.0,no
+554118,366164,connect,ended,113.0,550687.0,180.0,checkout delayed,-139.0,no,-319.0,no
+554952,290726,connect,ended,-65.0,561666.0,480.0,checkout not delayed,-1.0,no,-481.0,no
+555079,388895,mobile,canceled,,552415.0,720.0,checkout not delayed,-91.0,no,-811.0,no
+558030,316678,connect,ended,-158.0,549892.0,240.0,checkout not delayed,23.0,yes,-217.0,no
+553252,394656,connect,ended,6.0,546275.0,540.0,checkout delayed,-663.0,no,-1203.0,no
+553988,404791,mobile,ended,-402.0,557032.0,60.0,checkout not delayed,8.0,yes,-52.0,no
+554954,403749,mobile,ended,-152.0,548087.0,540.0,checkout not delayed,,no,,no
+553223,398586,connect,ended,172.0,544811.0,30.0,checkout delayed,50.0,yes,20.0,yes
+553572,383499,mobile,ended,2.0,553742.0,420.0,checkout delayed,-23.0,no,-443.0,no
+553999,406161,mobile,ended,-110.0,556375.0,0.0,checkout not delayed,9.0,yes,9.0,yes
+554812,298516,connect,ended,8.0,548564.0,150.0,checkout delayed,-26.0,no,-176.0,no
+554861,343003,mobile,ended,,539919.0,60.0,checkout not delayed,,no,,no
+555556,407607,mobile,canceled,,558491.0,720.0,checkout not delayed,25.0,yes,-695.0,no
+556514,409197,mobile,ended,-3.0,551728.0,720.0,checkout not delayed,-56.0,no,-776.0,no
+556918,380833,mobile,ended,35.0,532556.0,90.0,checkout delayed,62.0,yes,-28.0,no
+565868,376901,connect,ended,-19.0,562254.0,30.0,checkout not delayed,-6.0,no,-36.0,no
+566574,406625,connect,ended,-40.0,565247.0,210.0,checkout not delayed,0.0,no,-210.0,no
+567769,338571,mobile,ended,19.0,555206.0,90.0,checkout delayed,42.0,yes,-48.0,no
+505758,392805,mobile,ended,3.0,528920.0,90.0,checkout delayed,83.0,yes,-7.0,no
+526752,389451,mobile,ended,5.0,532361.0,630.0,checkout delayed,4.0,yes,-626.0,no
+527873,394217,mobile,canceled,,539939.0,420.0,checkout not delayed,75.0,yes,-345.0,no
+533792,401649,connect,ended,106.0,546026.0,30.0,checkout delayed,2.0,yes,-28.0,no
+568519,295783,connect,canceled,,561162.0,600.0,checkout not delayed,74.0,yes,-526.0,no
+567835,409523,mobile,ended,967.0,565046.0,630.0,checkout delayed,,no,,no
+568079,227042,mobile,ended,40.0,566621.0,600.0,checkout delayed,52.0,yes,-548.0,no
+568778,344254,connect,ended,,566711.0,60.0,checkout not delayed,37.0,yes,-23.0,no
+568815,385629,connect,ended,47.0,564703.0,0.0,checkout delayed,-28.0,no,-28.0,no
+569287,393723,connect,ended,,563129.0,0.0,checkout not delayed,-72.0,no,-72.0,no
+571227,298117,connect,ended,-13.0,571310.0,600.0,checkout not delayed,56.0,yes,-544.0,no
+540769,396009,connect,ended,-6.0,539540.0,60.0,checkout not delayed,-47.0,no,-107.0,no
+541283,305733,mobile,ended,34.0,536691.0,60.0,checkout delayed,84.0,yes,24.0,yes
+542592,385131,connect,ended,-428.0,535537.0,120.0,checkout not delayed,-102.0,no,-222.0,no
+542666,348178,mobile,ended,22.0,541891.0,90.0,checkout delayed,-12.0,no,-102.0,no
+543426,398802,mobile,ended,51.0,546955.0,720.0,checkout delayed,25.0,yes,-695.0,no
+543793,408983,mobile,ended,1073.0,540001.0,690.0,checkout delayed,675.0,yes,-15.0,no
+543886,392718,mobile,ended,,538485.0,660.0,checkout not delayed,,no,,no
+573207,216576,connect,ended,93.0,565493.0,300.0,checkout delayed,57.0,yes,-243.0,no
+573945,248926,mobile,ended,36.0,571936.0,690.0,checkout delayed,4.0,yes,-686.0,no
+575353,341861,connect,ended,-36.0,571038.0,60.0,checkout not delayed,-152.0,no,-212.0,no
+553217,273577,mobile,ended,0.0,538723.0,210.0,checkout not delayed,-33.0,no,-243.0,no
+553596,407865,mobile,ended,17.0,558854.0,690.0,checkout delayed,45.0,yes,-645.0,no
+554420,374741,connect,ended,-89.0,565100.0,0.0,checkout not delayed,-71.0,no,-71.0,no
+556060,392479,mobile,ended,-70.0,565840.0,660.0,checkout not delayed,-94.0,no,-754.0,no
+536480,392368,connect,ended,-242.0,537825.0,690.0,checkout not delayed,5.0,yes,-685.0,no
+545069,399431,mobile,canceled,,536579.0,210.0,checkout not delayed,64.0,yes,-146.0,no
+543275,340699,mobile,ended,69.0,521297.0,60.0,checkout delayed,-53.0,no,-113.0,no
+543564,381583,mobile,ended,,535821.0,60.0,checkout not delayed,-10.0,no,-70.0,no
+543930,409636,mobile,ended,8.0,539399.0,720.0,checkout delayed,93.0,yes,-627.0,no
+544421,359998,mobile,ended,18.0,557397.0,60.0,checkout delayed,-333.0,no,-393.0,no
+544867,385423,mobile,canceled,,543882.0,90.0,checkout not delayed,14.0,yes,-76.0,no
+544991,404791,mobile,ended,106.0,526927.0,720.0,checkout delayed,44.0,yes,-676.0,no
+545437,383443,connect,ended,26.0,541311.0,120.0,checkout delayed,-802.0,no,-922.0,no
+545656,223204,mobile,ended,,540032.0,360.0,checkout not delayed,,no,,no
+545705,352039,connect,ended,2.0,548559.0,720.0,checkout delayed,19.0,yes,-701.0,no
+545767,300505,connect,ended,32.0,532682.0,90.0,checkout delayed,-41.0,no,-131.0,no
+548501,370907,mobile,ended,-3.0,548865.0,720.0,checkout not delayed,25.0,yes,-695.0,no
+548950,342699,connect,ended,98.0,546290.0,30.0,checkout delayed,-36.0,no,-66.0,no
+548971,399575,connect,ended,102.0,549086.0,180.0,checkout delayed,-58.0,no,-238.0,no
+550069,368354,mobile,ended,-488.0,547423.0,90.0,checkout not delayed,53.0,yes,-37.0,no
+557316,381583,mobile,ended,10.0,554028.0,150.0,checkout delayed,100.0,yes,-50.0,no
+558352,382302,connect,ended,-10.0,554807.0,60.0,checkout not delayed,-138.0,no,-198.0,no
+558535,318911,mobile,ended,191.0,552015.0,330.0,checkout delayed,26.0,yes,-304.0,no
+559040,273577,mobile,ended,427.0,562925.0,720.0,checkout delayed,29.0,yes,-691.0,no
+559287,334190,connect,ended,-97.0,560890.0,120.0,checkout not delayed,-19.0,no,-139.0,no
+536874,331900,mobile,ended,69.0,547182.0,120.0,checkout delayed,4.0,yes,-116.0,no
+538233,325139,mobile,ended,150.0,539837.0,270.0,checkout delayed,62.0,yes,-208.0,no
+538543,330013,mobile,canceled,,540896.0,600.0,checkout not delayed,-173.0,no,-773.0,no
+539750,295860,mobile,ended,103.0,542566.0,300.0,checkout delayed,316.0,yes,16.0,yes
+557433,381787,connect,ended,-56.0,558480.0,0.0,checkout not delayed,-15.0,no,-15.0,no
+558357,357530,connect,ended,-63.0,558780.0,120.0,checkout not delayed,-7.0,no,-127.0,no
+558762,218964,mobile,ended,437.0,557353.0,630.0,checkout delayed,324.0,yes,-306.0,no
+559725,362507,connect,ended,-91.0,557052.0,60.0,checkout not delayed,-29.0,no,-89.0,no
+559959,376601,mobile,ended,-383.0,559138.0,60.0,checkout not delayed,33.0,yes,-27.0,no
+560094,397466,mobile,ended,,564099.0,60.0,checkout not delayed,,no,,no
+558219,376677,connect,canceled,,563347.0,660.0,checkout not delayed,-212.0,no,-872.0,no
+559047,392805,mobile,ended,288.0,546762.0,0.0,checkout delayed,1.0,yes,1.0,yes
+559490,268787,mobile,ended,-20.0,552187.0,0.0,checkout not delayed,8.0,yes,8.0,yes
+559528,255576,connect,ended,9.0,558076.0,660.0,checkout delayed,-22.0,no,-682.0,no
+561044,372809,connect,canceled,,557343.0,690.0,checkout not delayed,104.0,yes,-586.0,no
+561559,390927,connect,canceled,,537960.0,0.0,checkout not delayed,31.0,yes,31.0,yes
+562480,173061,connect,ended,,560790.0,690.0,checkout not delayed,,no,,no
+563577,236059,mobile,ended,397.0,567616.0,90.0,checkout delayed,59.0,yes,-31.0,no
+563772,293910,mobile,ended,22.0,555354.0,510.0,checkout delayed,-713.0,no,-1223.0,no
+564096,310553,connect,ended,3.0,561903.0,0.0,checkout delayed,-7.0,no,-7.0,no
+550814,339371,mobile,ended,536.0,518660.0,90.0,checkout delayed,32.0,yes,-58.0,no
+550894,304068,mobile,ended,-135.0,543851.0,60.0,checkout not delayed,12.0,yes,-48.0,no
+551643,392479,mobile,ended,-139.0,553125.0,240.0,checkout not delayed,88.0,yes,-152.0,no
+551867,375834,mobile,ended,96.0,547655.0,120.0,checkout delayed,89.0,yes,-31.0,no
+546141,386722,mobile,canceled,,544832.0,210.0,checkout not delayed,53.0,yes,-157.0,no
+546819,334190,connect,canceled,,547969.0,210.0,checkout not delayed,-52.0,no,-262.0,no
+548152,410939,connect,ended,,557055.0,0.0,checkout not delayed,-20.0,no,-20.0,no
+548896,318371,mobile,ended,-89.0,551963.0,330.0,checkout not delayed,62.0,yes,-268.0,no
+561806,221830,mobile,ended,967.0,546263.0,600.0,checkout delayed,-21.0,no,-621.0,no
+560305,195467,mobile,ended,,558504.0,720.0,checkout not delayed,,no,,no
+560354,338243,connect,ended,54.0,557661.0,180.0,checkout delayed,-626.0,no,-806.0,no
+560718,324640,mobile,ended,156.0,542037.0,240.0,checkout delayed,188.0,yes,-52.0,no
+562612,413896,mobile,ended,-8.0,560091.0,0.0,checkout not delayed,527.0,yes,527.0,yes
+562894,285452,connect,ended,-14.0,560823.0,660.0,checkout not delayed,-37.0,no,-697.0,no
+562977,405611,connect,ended,210.0,558473.0,120.0,checkout delayed,-203.0,no,-323.0,no
+563090,386086,mobile,ended,39.0,560501.0,0.0,checkout delayed,15.0,yes,15.0,yes
+563517,363133,connect,ended,78.0,565338.0,120.0,checkout delayed,-35.0,no,-155.0,no
+564912,340064,mobile,ended,75.0,533701.0,600.0,checkout delayed,-121.0,no,-721.0,no
+556965,187740,mobile,ended,4.0,556605.0,0.0,checkout delayed,-15.0,no,-15.0,no
+557246,413139,mobile,canceled,,553934.0,120.0,checkout not delayed,-61.0,no,-181.0,no
+557659,298117,connect,ended,22.0,552177.0,360.0,checkout delayed,147.0,yes,-213.0,no
+557817,289112,connect,ended,63.0,540139.0,690.0,checkout delayed,-17.0,no,-707.0,no
+557969,385721,connect,ended,-104.0,551402.0,600.0,checkout not delayed,94.0,yes,-506.0,no
+558520,386322,mobile,ended,32.0,558507.0,660.0,checkout delayed,-89.0,no,-749.0,no
+558654,366981,connect,ended,8.0,542471.0,630.0,checkout delayed,-98.0,no,-728.0,no
+558684,412528,mobile,ended,49.0,557553.0,270.0,checkout delayed,50.0,yes,-220.0,no
+559259,412093,mobile,ended,74.0,553100.0,0.0,checkout delayed,67.0,yes,67.0,yes
+559493,285452,connect,canceled,,556448.0,30.0,checkout not delayed,14.0,yes,-16.0,no
+559657,363386,mobile,ended,229.0,555952.0,120.0,checkout delayed,-8.0,no,-128.0,no
+559701,401475,connect,ended,-51.0,552371.0,600.0,checkout not delayed,47.0,yes,-553.0,no
+560537,308181,connect,canceled,,559632.0,90.0,checkout not delayed,33.0,yes,-57.0,no
+561079,376652,mobile,ended,11.0,560197.0,0.0,checkout delayed,-7.0,no,-7.0,no
+562335,367627,mobile,ended,84.0,565711.0,600.0,checkout delayed,-86.0,no,-686.0,no
+560826,406902,mobile,ended,64.0,556895.0,660.0,checkout delayed,111.0,yes,-549.0,no
+541294,366866,mobile,ended,-158.0,540776.0,120.0,checkout not delayed,6.0,yes,-114.0,no
+541942,391618,connect,ended,144.0,531518.0,60.0,checkout delayed,3.0,yes,-57.0,no
+542598,348526,connect,ended,148.0,545276.0,510.0,checkout delayed,-19.0,no,-529.0,no
+543008,363761,mobile,ended,1341.0,567693.0,720.0,checkout delayed,114.0,yes,-606.0,no
+543572,356106,connect,canceled,,541079.0,120.0,checkout not delayed,-24.0,no,-144.0,no
+544186,390467,connect,ended,65.0,542241.0,690.0,checkout delayed,-16.0,no,-706.0,no
+544445,195888,mobile,ended,-22.0,544632.0,690.0,checkout not delayed,34.0,yes,-656.0,no
+544712,408844,mobile,ended,-27.0,537812.0,600.0,checkout not delayed,-1.0,no,-601.0,no
+550903,389785,connect,ended,-18.0,540617.0,180.0,checkout not delayed,-884.0,no,-1064.0,no
+550972,360981,mobile,canceled,,548903.0,60.0,checkout not delayed,221.0,yes,161.0,yes
+551055,409197,mobile,ended,-91.0,543333.0,240.0,checkout not delayed,3.0,yes,-237.0,no
+552306,356673,mobile,ended,-72.0,551565.0,180.0,checkout not delayed,176.0,yes,-4.0,no
+552765,366981,connect,ended,-10.0,544722.0,420.0,checkout not delayed,-822.0,no,-1242.0,no
+552462,381787,connect,canceled,,548193.0,150.0,checkout not delayed,158.0,yes,8.0,yes
+555454,381183,mobile,ended,232.0,552738.0,60.0,checkout delayed,165.0,yes,105.0,yes
+565509,381183,mobile,ended,44.0,562526.0,0.0,checkout delayed,-206.0,no,-206.0,no
+565678,348485,connect,ended,39.0,560263.0,360.0,checkout delayed,13.0,yes,-347.0,no
+566159,390479,mobile,ended,134.0,564323.0,0.0,checkout delayed,-22.0,no,-22.0,no
+563999,371632,connect,ended,-88.0,556474.0,540.0,checkout not delayed,118.0,yes,-422.0,no
+564699,415572,mobile,ended,2193.0,565228.0,240.0,checkout delayed,4258.0,yes,4018.0,yes
+565099,413351,mobile,ended,9.0,561247.0,0.0,checkout delayed,2.0,yes,2.0,yes
+565203,351162,connect,ended,-39.0,557093.0,60.0,checkout not delayed,-37.0,no,-97.0,no
+565254,212965,connect,ended,98.0,560539.0,420.0,checkout delayed,-6.0,no,-426.0,no
+565399,407315,mobile,ended,70.0,552810.0,120.0,checkout delayed,45.0,yes,-75.0,no
+566071,403054,mobile,ended,-166.0,565660.0,480.0,checkout not delayed,2.0,yes,-478.0,no
+564600,272430,connect,ended,-61.0,559220.0,570.0,checkout not delayed,-746.0,no,-1316.0,no
+565020,341881,connect,ended,-123.0,563188.0,240.0,checkout not delayed,-38.0,no,-278.0,no
+565393,370055,connect,ended,-93.0,563668.0,660.0,checkout not delayed,24.0,yes,-636.0,no
+565840,392479,mobile,ended,-94.0,569171.0,240.0,checkout not delayed,-59.0,no,-299.0,no
+544851,392718,mobile,ended,75.0,565353.0,330.0,checkout delayed,-47.0,no,-377.0,no
+545223,310553,connect,ended,-45.0,543354.0,720.0,checkout not delayed,-71.0,no,-791.0,no
+546139,375047,connect,ended,-4.0,557540.0,240.0,checkout not delayed,-69.0,no,-309.0,no
+546501,314456,connect,ended,-210.0,540134.0,210.0,checkout not delayed,62.0,yes,-148.0,no
+546877,334190,connect,canceled,,538875.0,450.0,checkout not delayed,-875.0,no,-1325.0,no
+546959,405005,connect,ended,38.0,545715.0,240.0,checkout delayed,47.0,yes,-193.0,no
+547428,160062,mobile,canceled,,573462.0,540.0,checkout not delayed,-88.0,no,-628.0,no
+548101,390590,connect,canceled,,545833.0,210.0,checkout not delayed,46.0,yes,-164.0,no
+566407,381857,connect,ended,-306.0,566456.0,390.0,checkout not delayed,-15.0,no,-405.0,no
+565263,339138,connect,ended,-119.0,563988.0,0.0,checkout not delayed,-5.0,no,-5.0,no
+566850,400181,mobile,ended,16.0,561893.0,720.0,checkout delayed,52.0,yes,-668.0,no
+567093,415726,mobile,ended,-2.0,565126.0,270.0,checkout not delayed,4.0,yes,-266.0,no
+567371,317572,connect,ended,-114.0,568169.0,120.0,checkout not delayed,-76.0,no,-196.0,no
+567389,397217,connect,canceled,,564542.0,0.0,checkout not delayed,-97.0,no,-97.0,no
+567644,216701,mobile,ended,-1408.0,565921.0,210.0,checkout not delayed,39.0,yes,-171.0,no
+567795,405005,connect,ended,-68.0,560343.0,210.0,checkout not delayed,-46.0,no,-256.0,no
+568224,381499,connect,ended,-93.0,562174.0,0.0,checkout not delayed,73.0,yes,73.0,yes
+569141,379462,mobile,ended,-99.0,557980.0,120.0,checkout not delayed,1.0,yes,-119.0,no
+571018,371625,mobile,ended,25.0,549891.0,150.0,checkout delayed,-14.0,no,-164.0,no
+571191,413896,mobile,ended,-29.0,572986.0,60.0,checkout not delayed,63.0,yes,3.0,yes
+571709,371632,connect,ended,-38.0,568753.0,480.0,checkout not delayed,-18.0,no,-498.0,no
+567165,311943,mobile,ended,-5.0,569360.0,570.0,checkout not delayed,87.0,yes,-483.0,no
+567364,403871,mobile,ended,-5.0,560535.0,450.0,checkout not delayed,133.0,yes,-317.0,no
+556850,346952,mobile,ended,48.0,553865.0,30.0,checkout delayed,45.0,yes,15.0,yes
+557086,398733,mobile,ended,4.0,555668.0,0.0,checkout delayed,17.0,yes,17.0,yes
+557279,382060,mobile,ended,57.0,547290.0,120.0,checkout delayed,,no,,no
+557930,400886,mobile,ended,56.0,553320.0,450.0,checkout delayed,-1414.0,no,-1864.0,no
+558628,396435,connect,canceled,,550343.0,420.0,checkout not delayed,44.0,yes,-376.0,no
+559512,248300,connect,ended,58.0,552427.0,0.0,checkout delayed,-157.0,no,-157.0,no
+559733,326708,mobile,ended,-23.0,554230.0,180.0,checkout not delayed,15.0,yes,-165.0,no
+559873,341630,mobile,ended,79.0,558883.0,240.0,checkout delayed,-3.0,no,-243.0,no
+559918,381857,connect,canceled,,558338.0,120.0,checkout not delayed,-71.0,no,-191.0,no
+560273,275364,connect,canceled,,553244.0,240.0,checkout not delayed,-880.0,no,-1120.0,no
+555190,194356,mobile,ended,0.0,559148.0,510.0,checkout not delayed,617.0,yes,107.0,yes
+555299,371572,connect,ended,641.0,549796.0,0.0,checkout delayed,-96.0,no,-96.0,no
+556725,362187,connect,ended,-633.0,554183.0,210.0,checkout not delayed,-426.0,no,-636.0,no
+567964,298466,mobile,ended,-22.0,527165.0,150.0,checkout not delayed,-892.0,no,-1042.0,no
+568455,382302,connect,ended,-35.0,574639.0,660.0,checkout not delayed,6.0,yes,-654.0,no
+568853,335276,connect,canceled,,560375.0,690.0,checkout not delayed,140.0,yes,-550.0,no
+570013,383344,connect,ended,33.0,569963.0,360.0,checkout delayed,61.0,yes,-299.0,no
+573460,347208,connect,ended,-1.0,572521.0,0.0,checkout not delayed,-875.0,no,-875.0,no
+573770,356106,connect,ended,-14.0,573913.0,390.0,checkout not delayed,156.0,yes,-234.0,no
+568278,351549,connect,ended,355.0,565967.0,510.0,checkout delayed,12.0,yes,-498.0,no
+568428,351660,connect,canceled,,563040.0,0.0,checkout not delayed,41.0,yes,41.0,yes
+568585,351660,connect,ended,-45.0,563040.0,90.0,checkout not delayed,41.0,yes,-49.0,no
+568789,402153,mobile,ended,-88.0,568035.0,720.0,checkout not delayed,47.0,yes,-673.0,no
+569282,381481,mobile,ended,68.0,565511.0,510.0,checkout delayed,,no,,no
+570713,411578,mobile,ended,,566615.0,420.0,checkout not delayed,-137.0,no,-557.0,no
+571607,374360,connect,ended,-5.0,570644.0,0.0,checkout not delayed,18.0,yes,18.0,yes
+571797,338647,mobile,canceled,,570367.0,630.0,checkout not delayed,74.0,yes,-556.0,no
+567535,368391,mobile,ended,65.0,539310.0,30.0,checkout delayed,30.0,yes,0.0,no
+568416,336935,connect,ended,2.0,559824.0,630.0,checkout delayed,14.0,yes,-616.0,no
+568421,410521,mobile,ended,98.0,554767.0,180.0,checkout delayed,111.0,yes,-69.0,no
+568649,378003,connect,ended,52.0,572385.0,90.0,checkout delayed,153.0,yes,63.0,yes
+568704,385628,connect,ended,49.0,563946.0,630.0,checkout delayed,-146.0,no,-776.0,no
+568708,275364,connect,ended,39.0,563004.0,0.0,checkout delayed,-72.0,no,-72.0,no
+568993,370513,mobile,ended,18.0,528782.0,30.0,checkout delayed,3.0,yes,-27.0,no
+569504,337219,connect,ended,-317.0,555979.0,660.0,checkout not delayed,-111.0,no,-771.0,no
+569818,361055,mobile,ended,-5.0,506459.0,510.0,checkout not delayed,-28.0,no,-538.0,no
+549762,280227,connect,ended,-170.0,551649.0,90.0,checkout not delayed,34.0,yes,-56.0,no
+550442,374741,connect,ended,78.0,555908.0,180.0,checkout delayed,-75.0,no,-255.0,no
+550923,245154,connect,canceled,,549765.0,630.0,checkout not delayed,11.0,yes,-619.0,no
+567748,316817,mobile,canceled,,560395.0,690.0,checkout not delayed,-51.0,no,-741.0,no
+568064,335276,connect,ended,121.0,573893.0,180.0,checkout delayed,-19.0,no,-199.0,no
+569362,404953,mobile,ended,142.0,568070.0,90.0,checkout delayed,78.0,yes,-12.0,no
+569382,293523,mobile,ended,40.0,567028.0,720.0,checkout delayed,-84.0,no,-804.0,no
+571552,403962,connect,canceled,,574540.0,90.0,checkout not delayed,153.0,yes,63.0,yes
+572413,350149,mobile,ended,79.0,574325.0,600.0,checkout delayed,169.0,yes,-431.0,no
+575574,173061,connect,ended,42.0,574480.0,240.0,checkout delayed,-374.0,no,-614.0,no
+557655,311664,connect,canceled,,557740.0,570.0,checkout not delayed,86.0,yes,-484.0,no
+557777,407055,connect,ended,-5.0,558647.0,270.0,checkout not delayed,-60.0,no,-330.0,no
+561066,230201,connect,ended,-57.0,564529.0,0.0,checkout not delayed,24.0,yes,24.0,yes
+563004,275364,connect,ended,-72.0,567827.0,0.0,checkout not delayed,-6.0,no,-6.0,no
+563942,412139,mobile,ended,-12.0,555548.0,90.0,checkout not delayed,31.0,yes,-59.0,no
+564205,355805,mobile,ended,41.0,564523.0,30.0,checkout delayed,51.0,yes,21.0,yes
+564594,248926,mobile,ended,-68.0,559683.0,150.0,checkout not delayed,19.0,yes,-131.0,no
+564678,406124,connect,ended,,559336.0,300.0,checkout not delayed,,no,,no
+565489,355900,connect,ended,-100.0,567036.0,600.0,checkout not delayed,86.0,yes,-514.0,no
+574185,356540,mobile,ended,,573533.0,180.0,checkout not delayed,,no,,no
+574757,340699,mobile,ended,129.0,570928.0,0.0,checkout delayed,51.0,yes,51.0,yes
+575049,382444,mobile,canceled,,568419.0,330.0,checkout not delayed,28.0,yes,-302.0,no
+554395,393373,mobile,ended,-1441.0,546634.0,0.0,checkout not delayed,-9.0,no,-9.0,no
+555167,413558,mobile,ended,,557703.0,0.0,checkout not delayed,-54.0,no,-54.0,no
+555916,178845,mobile,ended,9.0,550592.0,300.0,checkout delayed,0.0,no,-300.0,no
+556029,299063,connect,ended,-14.0,548540.0,120.0,checkout not delayed,-147.0,no,-267.0,no
+556533,241021,connect,ended,102.0,557598.0,150.0,checkout delayed,120.0,yes,-30.0,no
+563473,348294,connect,ended,64.0,561643.0,0.0,checkout delayed,16.0,yes,16.0,yes
+563711,310661,mobile,ended,245.0,549715.0,90.0,checkout delayed,87.0,yes,-3.0,no
+563925,241021,connect,ended,-31.0,563827.0,30.0,checkout not delayed,-486.0,no,-516.0,no
+564111,369648,connect,ended,50.0,561113.0,420.0,checkout delayed,-2109.0,no,-2529.0,no
+566456,381857,connect,ended,-15.0,565199.0,90.0,checkout not delayed,-66.0,no,-156.0,no
+567276,388764,mobile,ended,21.0,548208.0,270.0,checkout delayed,20.0,yes,-250.0,no
+568263,369381,mobile,ended,346.0,567507.0,180.0,checkout delayed,-82.0,no,-262.0,no
+568295,362199,connect,ended,36.0,567376.0,60.0,checkout delayed,,no,,no
+568758,415034,mobile,ended,-53.0,569808.0,510.0,checkout not delayed,-92.0,no,-602.0,no
+541832,354938,mobile,ended,53.0,533526.0,0.0,checkout delayed,-9.0,no,-9.0,no
+542869,300377,mobile,ended,13.0,532441.0,0.0,checkout delayed,21.0,yes,21.0,yes
+542965,339015,mobile,ended,-189.0,533719.0,360.0,checkout not delayed,322.0,yes,-38.0,no
+543503,401911,mobile,ended,82.0,539726.0,120.0,checkout delayed,74.0,yes,-46.0,no
+543654,370420,mobile,ended,93.0,506194.0,0.0,checkout delayed,21.0,yes,21.0,yes
+572580,288973,mobile,ended,-12.0,571780.0,720.0,checkout not delayed,-125.0,no,-845.0,no
+573792,373511,mobile,ended,-118.0,574297.0,30.0,checkout not delayed,3.0,yes,-27.0,no
+556973,384396,connect,ended,225.0,553994.0,150.0,checkout delayed,120.0,yes,-30.0,no
+557494,365926,connect,canceled,,544742.0,150.0,checkout not delayed,-36.0,no,-186.0,no
+557845,405433,mobile,ended,-11.0,557514.0,0.0,checkout not delayed,47.0,yes,47.0,yes
+559467,290600,connect,ended,89.0,559379.0,630.0,checkout delayed,1.0,yes,-629.0,no
+559914,284054,mobile,ended,-187.0,554378.0,120.0,checkout not delayed,-315.0,no,-435.0,no
+560038,407607,connect,canceled,,558491.0,690.0,checkout not delayed,25.0,yes,-665.0,no
+560407,401387,mobile,ended,43.0,574013.0,90.0,checkout delayed,-514.0,no,-604.0,no
+560439,316678,connect,ended,-8.0,521403.0,60.0,checkout not delayed,-31.0,no,-91.0,no
+569798,415653,mobile,ended,107.0,568296.0,360.0,checkout delayed,,no,,no
+573423,358764,mobile,ended,52.0,569793.0,30.0,checkout delayed,50.0,yes,20.0,yes
+573429,380069,mobile,ended,,562010.0,30.0,checkout not delayed,-96.0,no,-126.0,no
+574789,325328,connect,ended,40.0,562389.0,690.0,checkout delayed,16.0,yes,-674.0,no
+575860,323777,mobile,ended,-19.0,575053.0,30.0,checkout not delayed,22.0,yes,-8.0,no
+566001,310571,mobile,ended,22.0,562807.0,300.0,checkout delayed,-14.0,no,-314.0,no
+567264,410255,connect,ended,183.0,564975.0,0.0,checkout delayed,-19.0,no,-19.0,no
+569088,394869,mobile,ended,175.0,567711.0,360.0,checkout delayed,148.0,yes,-212.0,no
+569229,374486,mobile,ended,46.0,569375.0,570.0,checkout delayed,60.0,yes,-510.0,no
+569736,376491,connect,canceled,,571965.0,510.0,checkout not delayed,17.0,yes,-493.0,no
+561334,410939,connect,ended,-157.0,565171.0,0.0,checkout not delayed,-15.0,no,-15.0,no
+561569,374809,connect,ended,-14.0,540924.0,120.0,checkout not delayed,2.0,yes,-118.0,no
+562310,405005,connect,ended,-29.0,555533.0,450.0,checkout not delayed,-625.0,no,-1075.0,no
+562389,325328,connect,ended,16.0,561921.0,330.0,checkout delayed,-9.0,no,-339.0,no
+566230,339993,mobile,ended,-414.0,555368.0,720.0,checkout not delayed,138.0,yes,-582.0,no
+568164,374298,connect,ended,-43.0,565095.0,60.0,checkout not delayed,9.0,yes,-51.0,no
+568411,358023,mobile,ended,641.0,564155.0,0.0,checkout delayed,-19.0,no,-19.0,no
+568482,386211,mobile,ended,43.0,561829.0,630.0,checkout delayed,-16.0,no,-646.0,no
+568975,315136,connect,ended,58.0,566481.0,150.0,checkout delayed,-9.0,no,-159.0,no
+573086,385303,connect,ended,125.0,572075.0,660.0,checkout delayed,27.0,yes,-633.0,no
+539934,372115,mobile,ended,-50.0,536095.0,720.0,checkout not delayed,-161.0,no,-881.0,no
+540973,288973,mobile,ended,17.0,537775.0,570.0,checkout delayed,,no,,no
+541426,393185,mobile,ended,97.0,538564.0,150.0,checkout delayed,-36.0,no,-186.0,no
+542105,397188,mobile,ended,-66.0,541742.0,720.0,checkout not delayed,134.0,yes,-586.0,no
+542314,388111,mobile,ended,38.0,509727.0,30.0,checkout delayed,25.0,yes,-5.0,no
+543894,383443,connect,ended,-73.0,539684.0,0.0,checkout not delayed,-166.0,no,-166.0,no
+544444,392327,mobile,ended,352.0,539009.0,660.0,checkout delayed,274.0,yes,-386.0,no
+545009,317303,mobile,ended,-3.0,541002.0,120.0,checkout not delayed,19.0,yes,-101.0,no
+545696,374360,connect,ended,-64.0,550978.0,720.0,checkout not delayed,0.0,no,-720.0,no
+546489,352528,connect,ended,-533.0,546578.0,570.0,checkout not delayed,-536.0,no,-1106.0,no
+546659,333731,mobile,ended,17.0,548560.0,120.0,checkout delayed,24.0,yes,-96.0,no
+547255,334190,connect,ended,49.0,547969.0,240.0,checkout delayed,-52.0,no,-292.0,no
+548340,390702,connect,ended,72.0,532915.0,180.0,checkout delayed,76.0,yes,-104.0,no
+549715,310661,mobile,ended,87.0,560574.0,60.0,checkout delayed,-2.0,no,-62.0,no
+551425,374360,connect,ended,-85.0,559958.0,570.0,checkout not delayed,-132.0,no,-702.0,no
+551843,396470,mobile,ended,-8.0,545947.0,30.0,checkout not delayed,-44.0,no,-74.0,no
+552157,410231,mobile,ended,-40.0,548424.0,330.0,checkout not delayed,-7.0,no,-337.0,no
+552213,359045,connect,ended,-91.0,567058.0,60.0,checkout not delayed,88.0,yes,28.0,yes
+552433,349678,connect,canceled,,555522.0,420.0,checkout not delayed,-47.0,no,-467.0,no
+545142,399431,mobile,ended,-59.0,536579.0,270.0,checkout not delayed,64.0,yes,-206.0,no
+549928,301799,connect,ended,-52.0,551138.0,540.0,checkout not delayed,550.0,yes,10.0,yes
+550270,399575,connect,ended,51.0,548971.0,690.0,checkout delayed,102.0,yes,-588.0,no
+551115,360460,connect,ended,31.0,550135.0,60.0,checkout delayed,-208.0,no,-268.0,no
+551116,390467,connect,canceled,,548851.0,0.0,checkout not delayed,-16.0,no,-16.0,no
+552034,361156,mobile,ended,335.0,548172.0,0.0,checkout delayed,-29.0,no,-29.0,no
+552290,370049,mobile,ended,66.0,541329.0,660.0,checkout delayed,-18.0,no,-678.0,no
+552800,335276,connect,ended,-74.0,553412.0,0.0,checkout not delayed,11.0,yes,11.0,yes
+553299,412021,mobile,ended,13.0,552971.0,600.0,checkout delayed,-38.0,no,-638.0,no
+553351,406124,connect,ended,90.0,557210.0,0.0,checkout delayed,-10.0,no,-10.0,no
+553447,362187,connect,ended,487.0,548278.0,690.0,checkout delayed,-732.0,no,-1422.0,no
+553525,404460,mobile,ended,-869.0,552490.0,30.0,checkout not delayed,83.0,yes,53.0,yes
+553966,400417,mobile,ended,,551662.0,30.0,checkout not delayed,55.0,yes,25.0,yes
+556396,319886,connect,ended,-22.0,553022.0,30.0,checkout not delayed,-60.0,no,-90.0,no
+556928,245154,connect,ended,-99.0,556011.0,60.0,checkout not delayed,99.0,yes,39.0,yes
+558711,249274,connect,ended,10.0,542660.0,180.0,checkout delayed,38.0,yes,-142.0,no
+558941,370312,mobile,ended,-32.0,547786.0,660.0,checkout not delayed,107.0,yes,-553.0,no
+559828,376619,mobile,ended,56.0,552342.0,450.0,checkout delayed,-965.0,no,-1415.0,no
+559967,340369,connect,ended,-21.0,559032.0,180.0,checkout not delayed,-40.0,no,-220.0,no
+560206,412025,mobile,ended,-82.0,558245.0,480.0,checkout not delayed,24.0,yes,-456.0,no
+560500,377781,mobile,ended,-259.0,544750.0,0.0,checkout not delayed,-50.0,no,-50.0,no
+560659,223850,mobile,ended,-112.0,559026.0,180.0,checkout not delayed,145.0,yes,-35.0,no
+561206,312603,connect,ended,10.0,554958.0,30.0,checkout delayed,183.0,yes,153.0,yes
+561403,412139,mobile,ended,290.0,563942.0,120.0,checkout delayed,-12.0,no,-132.0,no
+561476,410402,mobile,ended,11.0,550186.0,0.0,checkout delayed,21.0,yes,21.0,yes
+553522,224455,mobile,ended,,548607.0,210.0,checkout not delayed,,no,,no
+557237,366025,mobile,canceled,,555447.0,360.0,checkout not delayed,-1421.0,no,-1781.0,no
+559133,335341,mobile,canceled,,558460.0,300.0,checkout not delayed,13.0,yes,-287.0,no
+559966,395204,connect,ended,19.0,555436.0,720.0,checkout delayed,-14.0,no,-734.0,no
+560197,376652,mobile,ended,-7.0,556960.0,420.0,checkout not delayed,-13.0,no,-433.0,no
+560740,383344,connect,ended,17.0,534678.0,60.0,checkout delayed,164.0,yes,104.0,yes
+560787,413181,mobile,canceled,,560542.0,150.0,checkout not delayed,4.0,yes,-146.0,no
+560998,412455,mobile,canceled,,561577.0,0.0,checkout not delayed,-505.0,no,-505.0,no
+561898,404789,mobile,ended,284.0,561771.0,360.0,checkout delayed,268.0,yes,-92.0,no
+562282,398733,mobile,ended,126.0,555245.0,570.0,checkout delayed,,no,,no
+562649,379751,connect,ended,72.0,565386.0,0.0,checkout delayed,-103.0,no,-103.0,no
+562166,358480,mobile,ended,-23.0,567436.0,510.0,checkout not delayed,-661.0,no,-1171.0,no
+564880,320432,mobile,ended,,565649.0,60.0,checkout not delayed,-282.0,no,-342.0,no
+565711,367627,mobile,ended,-86.0,561444.0,540.0,checkout not delayed,35.0,yes,-505.0,no
+565721,381470,mobile,ended,44.0,564855.0,0.0,checkout delayed,-48.0,no,-48.0,no
+565739,353535,mobile,ended,187.0,564894.0,480.0,checkout delayed,56.0,yes,-424.0,no
+566008,378689,mobile,canceled,,564756.0,0.0,checkout not delayed,39.0,yes,39.0,yes
+566017,396034,connect,ended,46.0,569645.0,510.0,checkout delayed,-25.0,no,-535.0,no
+566228,390871,connect,canceled,,568465.0,60.0,checkout not delayed,,no,,no
+567305,405564,mobile,canceled,,552222.0,0.0,checkout not delayed,,no,,no
+567833,372011,mobile,ended,-1345.0,546551.0,360.0,checkout not delayed,24.0,yes,-336.0,no
+568153,312716,mobile,ended,-166.0,541645.0,120.0,checkout not delayed,39.0,yes,-81.0,no
+568325,354026,mobile,ended,3.0,567791.0,90.0,checkout delayed,18.0,yes,-72.0,no
+568724,382821,connect,ended,7.0,560988.0,720.0,checkout delayed,-53.0,no,-773.0,no
+569688,344254,connect,ended,61.0,568778.0,690.0,checkout delayed,,no,,no
+569706,245154,connect,canceled,,558088.0,660.0,checkout not delayed,-40.0,no,-700.0,no
+571823,353425,connect,ended,-276.0,569556.0,240.0,checkout not delayed,-177.0,no,-417.0,no
+573274,298117,connect,ended,-7.0,571227.0,210.0,checkout not delayed,-13.0,no,-223.0,no
+567741,294059,mobile,ended,111.0,567708.0,120.0,checkout delayed,283.0,yes,163.0,yes
+568049,381499,connect,canceled,,562174.0,720.0,checkout not delayed,73.0,yes,-647.0,no
+568241,396409,mobile,canceled,,566136.0,570.0,checkout not delayed,16.0,yes,-554.0,no
+568523,297973,mobile,ended,12.0,567121.0,240.0,checkout delayed,-275.0,no,-515.0,no
+569717,377312,mobile,ended,230.0,545045.0,90.0,checkout delayed,22.0,yes,-68.0,no
+573446,380069,mobile,ended,,573429.0,300.0,checkout not delayed,,no,,no

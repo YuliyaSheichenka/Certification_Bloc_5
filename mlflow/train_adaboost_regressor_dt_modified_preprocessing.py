@@ -1,0 +1,91 @@
+import os
+import mlflow
+from mlflow import log_metric, log_param, log_artifacts
+from mlflow.models.signature import infer_signature
+import pandas as pd
+import time
+from sklearn.model_selection import train_test_split
+from sklearn.pipeline import Pipeline
+from sklearn.impute import SimpleImputer
+from sklearn.preprocessing import  OneHotEncoder, StandardScaler, LabelEncoder
+from sklearn.compose import ColumnTransformer
+from sklearn.metrics import r2_score
+from sklearn.tree import DecisionTreeRegressor
+from sklearn.ensemble import AdaBoostRegressor
+
+# MLFLOW Experiment setup
+experiment_name="adaboost_dt_regressor"
+mlflow.set_experiment(experiment_name)
+experiment = mlflow.get_experiment_by_name(experiment_name)
+
+# Set tracking URI to Heroku application
+mlflow.set_tracking_uri(os.getenv("APP_URI"))
+
+# Time execution
+start_time = time.time()
+
+# Call mlflow autolog
+mlflow.sklearn.autolog(log_models=False)
+
+# Load dataset
+df = pd.read_csv("get_around_pricing_project_cleaned.csv")
+
+# Separate target variable Y from features X
+X = df.iloc[:,0:-1]
+y = df.iloc[:, -1]
+
+# Train test split
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state=42)
+
+# Preprocessings
+categorical_features = X_train.select_dtypes("object").columns # Select all the columns containing strings
+categorical_transformer = OneHotEncoder(drop='first', handle_unknown='error')
+
+numerical_feature_mask = ~X_train.columns.isin(X_train.select_dtypes("object").columns) # Select all the columns containing anything else than strings
+numerical_features = X_train.columns[numerical_feature_mask]
+numerical_transformer = StandardScaler()
+
+feature_preprocessor = ColumnTransformer(
+        transformers=[
+            ("categorical_transformer", categorical_transformer, categorical_features),
+            ("numerical_transformer", numerical_transformer, numerical_features)
+        ]
+    )
+
+# Defining model
+model = Pipeline(steps=[
+    ('features_preprocessing', feature_preprocessor),
+    ("Regressor", AdaBoostRegressor(DecisionTreeRegressor(max_depth=16, min_samples_split=2, min_samples_leaf=1), 
+                                    n_estimators=120))
+    ])
+
+with mlflow.start_run(experiment_id = experiment.experiment_id):
+    model.fit(X_train, y_train)
+
+    # Predictions on train and test set
+    train_predictions = model.predict(X_train)
+    test_predictions = model.predict(X_test)
+
+    # Model metrics
+    r2_train = r2_score(y_train, train_predictions)
+    r2_test = r2_score(y_test, test_predictions)
+
+    # Print results 
+    print("AdaBoost Regressor model")
+    print("R2 on train: {}".format(r2_train))
+    print("R2 on test: {}".format(r2_test))
+
+    # Log Metric 
+    mlflow.log_metric("R2 on train", r2_train)
+    mlflow.log_metric("R2 on test", r2_test)
+
+    mlflow.sklearn.log_model(
+            sk_model=model,
+            artifact_path="getaround",
+            registered_model_name="getaround_adaboost_dt_regressor",
+            signature=infer_signature(X_train, train_predictions)
+        )
+
+    print(mlflow.get_artifact_uri())
+    print("...Done!")
+    print(f"---Total training time: {time.time()-start_time}")

@@ -1,0 +1,115 @@
+import os
+import mlflow
+from mlflow import log_metric, log_param, log_artifacts
+import pandas as pd
+
+from sklearn.model_selection import train_test_split
+from sklearn.pipeline import Pipeline
+from sklearn.impute import SimpleImputer
+from sklearn.preprocessing import  OneHotEncoder, StandardScaler, LabelEncoder
+from sklearn.compose import ColumnTransformer
+from sklearn.linear_model import LinearRegression
+from sklearn.metrics import r2_score
+
+
+# Load dataset
+df = pd.read_csv("get_around_pricing_project_cleaned.csv")
+
+# Separate target variable Y from features X
+print("Separating labels from features...")
+features_list = df.columns[:-1]
+target_variable = df.columns[-1]
+
+X = df.loc[:,features_list]
+Y = df.loc[:,target_variable]
+
+print("...Done.")
+print()
+
+# Automatically detect names of numeric/categorical columns
+numeric_features = []
+categorical_features = []
+for i,t in X.dtypes.items():
+    if ('float' in str(t)) or ('int' in str(t)) :
+        numeric_features.append(i)
+    else :
+        categorical_features.append(i)
+
+print('Found numeric features ', numeric_features)
+print('Found categorical features ', categorical_features)
+
+# Train/test splitting
+X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2, random_state=0)
+
+# Creating pipeline for numeric features
+numeric_transformer = Pipeline(steps=[
+    ('scaler', StandardScaler())])
+
+# Create pipeline for categorical features
+categorical_transformer = Pipeline(
+    steps=[
+    ('encoder', OneHotEncoder(drop='first'))
+    ])
+
+# Use ColumnTransformer to make a preprocessor object that describes all the treatments to be done
+preprocessor = ColumnTransformer(
+    transformers=[
+        ('num', numeric_transformer, numeric_features),
+        ('cat', categorical_transformer, categorical_features)])
+    
+X_train = preprocessor.fit_transform(X_train)
+
+X_test = preprocessor.transform(X_test)
+
+
+# Set your variables for your environment
+EXPERIMENT_NAME="baseline_multivariate_linear_regression"
+
+# Set tracking URI to your Heroku application
+APP_URI =  os.getenv("APP_URI")
+mlflow.set_tracking_uri(APP_URI)
+
+# Set experiment's info 
+mlflow.set_experiment(EXPERIMENT_NAME)
+
+# Get our experiment info
+experiment = mlflow.get_experiment_by_name(EXPERIMENT_NAME)
+
+# Call mlflow autolog
+mlflow.sklearn.autolog()
+
+with mlflow.start_run(experiment_id = experiment.experiment_id):
+    # Specified Parameters 
+    c = 0.1
+
+    # Instanciate and fit the model 
+    regressor = LinearRegression()
+    regressor.fit(X_train, Y_train)
+
+    # Predictions on train and test set
+    Y_train_pred = regressor.predict(X_train)
+
+    Y_test_pred = regressor.predict(X_test)
+
+
+    # Model metrics
+    r2_train = r2_score(Y_train, Y_train_pred)
+    r2_test = r2_score(Y_test, Y_test_pred)
+
+    # Print results 
+    print("Multivariate Linear Regression model")
+    print("R2 on train: {}".format(r2_train))
+    print("R2 on test: {}".format(r2_test))
+
+    # Log Metric 
+    mlflow.log_metric("R2 on train", r2_train)
+    mlflow.log_metric("R2 on test", r2_test)
+
+    # Log Param
+    mlflow.log_param("C", c)
+
+    # Log model 
+    mlflow.sklearn.log_model(regressor, "model")
+
+    print(mlflow.get_artifact_uri())
+
