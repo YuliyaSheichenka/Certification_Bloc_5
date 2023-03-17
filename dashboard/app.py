@@ -21,16 +21,10 @@ st.title("Getaround Analysis")
 st.markdown("""
     **Welcome to the analysis of rental delays for Getaround!**
 """)
-st.markdown("---")
 
-# Use `st.cache` when loading data is extremly useful
-# because it will cache your data so that your app 
-# won't have to reload it each time you refresh your app
 @st.cache
 def load_data(nrows):
     data = pd.read_csv(DATA_URL, nrows=nrows)
-    #data["Date"] = data["Date"].apply(lambda x: pd.to_datetime(",".join(x.split(",")[-2:])))
-    #data["currency"] = data["currency"].apply(lambda x: pd.to_numeric(x[1:]))
     return data
 
 st.markdown("---")
